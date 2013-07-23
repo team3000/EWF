@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/src/Badges/!svn/ver/102/Solution/WirelessScanner/zxing-2.0/core/src/com/google/zxing/qrcode/decoder
+END
+DecodedBitStreamParser.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/src/Badges/!svn/ver/102/Solution/WirelessScanner/zxing-2.0/core/src/com/google/zxing/qrcode/decoder/DecodedBitStreamParser.java
+END
+BitMatrixParser.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/src/Badges/!svn/ver/102/Solution/WirelessScanner/zxing-2.0/core/src/com/google/zxing/qrcode/decoder/BitMatrixParser.java
+END
+DataBlock.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/src/Badges/!svn/ver/102/Solution/WirelessScanner/zxing-2.0/core/src/com/google/zxing/qrcode/decoder/DataBlock.java
+END
+Mode.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/src/Badges/!svn/ver/102/Solution/WirelessScanner/zxing-2.0/core/src/com/google/zxing/qrcode/decoder/Mode.java
+END
+DataMask.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/src/Badges/!svn/ver/102/Solution/WirelessScanner/zxing-2.0/core/src/com/google/zxing/qrcode/decoder/DataMask.java
+END
+Decoder.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/src/Badges/!svn/ver/102/Solution/WirelessScanner/zxing-2.0/core/src/com/google/zxing/qrcode/decoder/Decoder.java
+END
+Version.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/src/Badges/!svn/ver/102/Solution/WirelessScanner/zxing-2.0/core/src/com/google/zxing/qrcode/decoder/Version.java
+END
+ErrorCorrectionLevel.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/src/Badges/!svn/ver/102/Solution/WirelessScanner/zxing-2.0/core/src/com/google/zxing/qrcode/decoder/ErrorCorrectionLevel.java
+END
+FormatInformation.java
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/src/Badges/!svn/ver/102/Solution/WirelessScanner/zxing-2.0/core/src/com/google/zxing/qrcode/decoder/FormatInformation.java
+END

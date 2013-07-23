@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/src/Badges/!svn/ver/102/Solution/WirelessScanner/zxing-2.0/cpp
+END
+ios_Prefix.pch
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/src/Badges/!svn/ver/102/Solution/WirelessScanner/zxing-2.0/cpp/ios_Prefix.pch
+END
+SConscript
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/src/Badges/!svn/ver/102/Solution/WirelessScanner/zxing-2.0/cpp/SConscript
+END
+SConstruct
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/src/Badges/!svn/ver/102/Solution/WirelessScanner/zxing-2.0/cpp/SConstruct
+END
+format
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/src/Badges/!svn/ver/102/Solution/WirelessScanner/zxing-2.0/cpp/format
+END
+astyle-options
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/src/Badges/!svn/ver/102/Solution/WirelessScanner/zxing-2.0/cpp/astyle-options
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/src/Badges/!svn/ver/102/Solution/WirelessScanner/zxing-2.0/cpp/README
+END
+blackboxtest.sh
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/src/Badges/!svn/ver/102/Solution/WirelessScanner/zxing-2.0/cpp/blackboxtest.sh
+END

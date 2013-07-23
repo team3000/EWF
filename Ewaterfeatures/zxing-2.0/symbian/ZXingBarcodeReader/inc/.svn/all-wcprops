@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/src/Badges/!svn/ver/102/Solution/WirelessScanner/zxing-2.0/symbian/ZXingBarcodeReader/inc
+END
+ZXingBarcodeReader.pan
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/src/Badges/!svn/ver/102/Solution/WirelessScanner/zxing-2.0/symbian/ZXingBarcodeReader/inc/ZXingBarcodeReader.pan
+END
+CameraImage.h
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/src/Badges/!svn/ver/102/Solution/WirelessScanner/zxing-2.0/symbian/ZXingBarcodeReader/inc/CameraImage.h
+END
+ZXingBarcodeReader.hrh
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/src/Badges/!svn/ver/102/Solution/WirelessScanner/zxing-2.0/symbian/ZXingBarcodeReader/inc/ZXingBarcodeReader.hrh
+END
+ZXingBarcodeReaderAppView.h
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/src/Badges/!svn/ver/102/Solution/WirelessScanner/zxing-2.0/symbian/ZXingBarcodeReader/inc/ZXingBarcodeReaderAppView.h
+END
+ZXingBarcodeReaderAppUi.h
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/src/Badges/!svn/ver/102/Solution/WirelessScanner/zxing-2.0/symbian/ZXingBarcodeReader/inc/ZXingBarcodeReaderAppUi.h
+END
+ZXingBarcodeReaderDocument.h
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/src/Badges/!svn/ver/102/Solution/WirelessScanner/zxing-2.0/symbian/ZXingBarcodeReader/inc/ZXingBarcodeReaderDocument.h
+END
+ZXingBarcodeReaderApplication.h
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/src/Badges/!svn/ver/102/Solution/WirelessScanner/zxing-2.0/symbian/ZXingBarcodeReader/inc/ZXingBarcodeReaderApplication.h
+END

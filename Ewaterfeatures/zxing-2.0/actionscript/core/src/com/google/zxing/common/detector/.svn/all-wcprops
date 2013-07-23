@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/src/Badges/!svn/ver/102/Solution/WirelessScanner/zxing-2.0/actionscript/core/src/com/google/zxing/common/detector
+END
+WhiteRectangleDetector.as
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/src/Badges/!svn/ver/102/Solution/WirelessScanner/zxing-2.0/actionscript/core/src/com/google/zxing/common/detector/WhiteRectangleDetector.as
+END
+MonochromeRectangleDetector.as
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/src/Badges/!svn/ver/102/Solution/WirelessScanner/zxing-2.0/actionscript/core/src/com/google/zxing/common/detector/MonochromeRectangleDetector.as
+END

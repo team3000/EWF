@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/src/Badges/!svn/ver/102/Solution/WirelessScanner/zxing-2.0/symbian/QZXing/source/zxing/datamatrix/detector
+END
+DetectorDM.h
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/src/Badges/!svn/ver/102/Solution/WirelessScanner/zxing-2.0/symbian/QZXing/source/zxing/datamatrix/detector/DetectorDM.h
+END
+CornerPoint.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/src/Badges/!svn/ver/102/Solution/WirelessScanner/zxing-2.0/symbian/QZXing/source/zxing/datamatrix/detector/CornerPoint.cpp
+END
+MonochromeRectangleDetectorDM.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/src/Badges/!svn/ver/102/Solution/WirelessScanner/zxing-2.0/symbian/QZXing/source/zxing/datamatrix/detector/MonochromeRectangleDetectorDM.cpp
+END
+CornerPoint.h
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/src/Badges/!svn/ver/102/Solution/WirelessScanner/zxing-2.0/symbian/QZXing/source/zxing/datamatrix/detector/CornerPoint.h
+END
+DetectorException.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/src/Badges/!svn/ver/102/Solution/WirelessScanner/zxing-2.0/symbian/QZXing/source/zxing/datamatrix/detector/DetectorException.cpp
+END
+DetectorDM.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/src/Badges/!svn/ver/102/Solution/WirelessScanner/zxing-2.0/symbian/QZXing/source/zxing/datamatrix/detector/DetectorDM.cpp
+END
+MonochromeRectangleDetectorDM.h
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/src/Badges/!svn/ver/102/Solution/WirelessScanner/zxing-2.0/symbian/QZXing/source/zxing/datamatrix/detector/MonochromeRectangleDetectorDM.h
+END
+DetectorException.h
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/src/Badges/!svn/ver/102/Solution/WirelessScanner/zxing-2.0/symbian/QZXing/source/zxing/datamatrix/detector/DetectorException.h
+END

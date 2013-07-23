@@ -1,0 +1,203 @@
+10
+
+dir
+102
+http://svn/src/Badges/Solution/WirelessScanner/zxing-2.0/core/test/data/blackbox
+http://svn/src/Badges
+
+
+
+2012-05-14T17:20:12.495007Z
+102
+aguffens
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+0b60aae9-bb34-de42-814a-857d584425f8
+
+qrcode-5
+dir
+
+rssexpanded-2
+dir
+
+qrcode-6
+dir
+
+itf-1
+dir
+
+rssexpanded-3
+dir
+
+itf-2
+dir
+
+code39-1
+dir
+
+code93-1
+dir
+
+code39-2
+dir
+
+code39-3
+dir
+
+unsupported
+dir
+
+ean8-1
+dir
+
+falsepositives-2
+dir
+
+falsepositives
+dir
+
+ean13-1
+dir
+
+ean13-2
+dir
+
+ean13-3
+dir
+
+ean13-4
+dir
+
+ean13-5
+dir
+
+upcean-extension-1
+dir
+
+upca-1
+dir
+
+upca-2
+dir
+
+upca-3
+dir
+
+upca-4
+dir
+
+codabar-1
+dir
+
+upce-1
+dir
+
+upca-5
+dir
+
+upce-2
+dir
+
+upca-6
+dir
+
+datamatrix-1
+dir
+
+partial
+dir
+
+upce-3
+dir
+
+datamatrix-2
+dir
+
+README
+file
+
+
+
+
+2009-06-19T12:36:48.000000Z
+5b89384fc697c3aad43d02bd68c940f5
+2012-05-14T17:20:12.495007Z
+102
+aguffens
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+70
+
+code128-1
+dir
+
+pdf417-2
+dir
+
+aztec-1
+dir
+
+code128-2
+dir
+
+pdf417
+dir
+
+aztec-2
+dir
+
+code128-3
+dir
+
+rss14-1
+dir
+
+qrcode-1
+dir
+
+rss14-2
+dir
+
+qrcode-2
+dir
+
+qrcode-3
+dir
+
+qrcode-4
+dir
+
+rssexpanded-1
+dir
+

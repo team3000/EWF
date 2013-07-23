@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/src/Badges/!svn/ver/102/Solution/WirelessScanner/zxing-2.0/javase/build/com/google/zxing/client/j2se
+END
+DecodeThread.class
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/src/Badges/!svn/ver/102/Solution/WirelessScanner/zxing-2.0/javase/build/com/google/zxing/client/j2se/DecodeThread.class
+END
+GUIRunner.class
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/src/Badges/!svn/ver/102/Solution/WirelessScanner/zxing-2.0/javase/build/com/google/zxing/client/j2se/GUIRunner.class
+END
+CommandLineRunner.class
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/src/Badges/!svn/ver/102/Solution/WirelessScanner/zxing-2.0/javase/build/com/google/zxing/client/j2se/CommandLineRunner.class
+END
+BufferedImageLuminanceSource.class
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/src/Badges/!svn/ver/102/Solution/WirelessScanner/zxing-2.0/javase/build/com/google/zxing/client/j2se/BufferedImageLuminanceSource.class
+END
+Inputs.class
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/src/Badges/!svn/ver/102/Solution/WirelessScanner/zxing-2.0/javase/build/com/google/zxing/client/j2se/Inputs.class
+END
+Config.class
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/src/Badges/!svn/ver/102/Solution/WirelessScanner/zxing-2.0/javase/build/com/google/zxing/client/j2se/Config.class
+END
+CommandLineEncoder.class
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/src/Badges/!svn/ver/102/Solution/WirelessScanner/zxing-2.0/javase/build/com/google/zxing/client/j2se/CommandLineEncoder.class
+END
+MatrixToImageWriter.class
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/src/Badges/!svn/ver/102/Solution/WirelessScanner/zxing-2.0/javase/build/com/google/zxing/client/j2se/MatrixToImageWriter.class
+END

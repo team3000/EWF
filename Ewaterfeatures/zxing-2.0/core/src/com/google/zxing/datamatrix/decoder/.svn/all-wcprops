@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/src/Badges/!svn/ver/102/Solution/WirelessScanner/zxing-2.0/core/src/com/google/zxing/datamatrix/decoder
+END
+DecodedBitStreamParser.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/src/Badges/!svn/ver/102/Solution/WirelessScanner/zxing-2.0/core/src/com/google/zxing/datamatrix/decoder/DecodedBitStreamParser.java
+END
+BitMatrixParser.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/src/Badges/!svn/ver/102/Solution/WirelessScanner/zxing-2.0/core/src/com/google/zxing/datamatrix/decoder/BitMatrixParser.java
+END
+DataBlock.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/src/Badges/!svn/ver/102/Solution/WirelessScanner/zxing-2.0/core/src/com/google/zxing/datamatrix/decoder/DataBlock.java
+END
+Decoder.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/src/Badges/!svn/ver/102/Solution/WirelessScanner/zxing-2.0/core/src/com/google/zxing/datamatrix/decoder/Decoder.java
+END
+Version.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/src/Badges/!svn/ver/102/Solution/WirelessScanner/zxing-2.0/core/src/com/google/zxing/datamatrix/decoder/Version.java
+END

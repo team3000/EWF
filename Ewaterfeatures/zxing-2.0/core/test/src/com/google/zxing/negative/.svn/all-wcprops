@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/src/Badges/!svn/ver/102/Solution/WirelessScanner/zxing-2.0/core/test/src/com/google/zxing/negative
+END
+FalsePositivesBlackBoxTestCase.java
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/src/Badges/!svn/ver/102/Solution/WirelessScanner/zxing-2.0/core/test/src/com/google/zxing/negative/FalsePositivesBlackBoxTestCase.java
+END
+FalsePositives2BlackBoxTestCase.java
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/src/Badges/!svn/ver/102/Solution/WirelessScanner/zxing-2.0/core/test/src/com/google/zxing/negative/FalsePositives2BlackBoxTestCase.java
+END
+UnsupportedBlackBoxTestCase.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/src/Badges/!svn/ver/102/Solution/WirelessScanner/zxing-2.0/core/test/src/com/google/zxing/negative/UnsupportedBlackBoxTestCase.java
+END
+PartialBlackBoxTestCase.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/src/Badges/!svn/ver/102/Solution/WirelessScanner/zxing-2.0/core/test/src/com/google/zxing/negative/PartialBlackBoxTestCase.java
+END

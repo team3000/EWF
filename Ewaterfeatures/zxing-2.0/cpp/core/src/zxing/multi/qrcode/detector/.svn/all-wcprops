@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/src/Badges/!svn/ver/102/Solution/WirelessScanner/zxing-2.0/cpp/core/src/zxing/multi/qrcode/detector
+END
+MultiDetector.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/src/Badges/!svn/ver/102/Solution/WirelessScanner/zxing-2.0/cpp/core/src/zxing/multi/qrcode/detector/MultiDetector.cpp
+END
+MultiFinderPatternFinder.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/src/Badges/!svn/ver/102/Solution/WirelessScanner/zxing-2.0/cpp/core/src/zxing/multi/qrcode/detector/MultiFinderPatternFinder.cpp
+END
+MultiDetector.h
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/src/Badges/!svn/ver/102/Solution/WirelessScanner/zxing-2.0/cpp/core/src/zxing/multi/qrcode/detector/MultiDetector.h
+END
+MultiFinderPatternFinder.h
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/src/Badges/!svn/ver/102/Solution/WirelessScanner/zxing-2.0/cpp/core/src/zxing/multi/qrcode/detector/MultiFinderPatternFinder.h
+END

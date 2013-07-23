@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/src/Badges/!svn/ver/102/Solution/WirelessScanner/zxing-2.0/actionscript/core/src/com/google/zxing/oned/rss/expanded
+END
+RSSExpandedReader.as
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/src/Badges/!svn/ver/102/Solution/WirelessScanner/zxing-2.0/actionscript/core/src/com/google/zxing/oned/rss/expanded/RSSExpandedReader.as
+END
+BitArrayBuilder.as
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/src/Badges/!svn/ver/102/Solution/WirelessScanner/zxing-2.0/actionscript/core/src/com/google/zxing/oned/rss/expanded/BitArrayBuilder.as
+END
+ExpandedPair.as
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/src/Badges/!svn/ver/102/Solution/WirelessScanner/zxing-2.0/actionscript/core/src/com/google/zxing/oned/rss/expanded/ExpandedPair.as
+END

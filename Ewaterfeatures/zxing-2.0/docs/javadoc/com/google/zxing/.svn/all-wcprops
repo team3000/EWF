@@ -1,0 +1,149 @@
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/src/Badges/!svn/ver/102/Solution/WirelessScanner/zxing-2.0/docs/javadoc/com/google/zxing
+END
+Writer.html
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/src/Badges/!svn/ver/102/Solution/WirelessScanner/zxing-2.0/docs/javadoc/com/google/zxing/Writer.html
+END
+Result.html
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/src/Badges/!svn/ver/102/Solution/WirelessScanner/zxing-2.0/docs/javadoc/com/google/zxing/Result.html
+END
+HtmlAssetTranslator.html
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/src/Badges/!svn/ver/102/Solution/WirelessScanner/zxing-2.0/docs/javadoc/com/google/zxing/HtmlAssetTranslator.html
+END
+ReaderException.html
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/src/Badges/!svn/ver/102/Solution/WirelessScanner/zxing-2.0/docs/javadoc/com/google/zxing/ReaderException.html
+END
+ChecksumException.html
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/src/Badges/!svn/ver/102/Solution/WirelessScanner/zxing-2.0/docs/javadoc/com/google/zxing/ChecksumException.html
+END
+BinaryBitmap.html
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/src/Badges/!svn/ver/102/Solution/WirelessScanner/zxing-2.0/docs/javadoc/com/google/zxing/BinaryBitmap.html
+END
+ResultMetadataType.html
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/src/Badges/!svn/ver/102/Solution/WirelessScanner/zxing-2.0/docs/javadoc/com/google/zxing/ResultMetadataType.html
+END
+EncodeHintType.html
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/src/Badges/!svn/ver/102/Solution/WirelessScanner/zxing-2.0/docs/javadoc/com/google/zxing/EncodeHintType.html
+END
+package-frame.html
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/src/Badges/!svn/ver/102/Solution/WirelessScanner/zxing-2.0/docs/javadoc/com/google/zxing/package-frame.html
+END
+Binarizer.html
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/src/Badges/!svn/ver/102/Solution/WirelessScanner/zxing-2.0/docs/javadoc/com/google/zxing/Binarizer.html
+END
+MultiFormatReader.html
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/src/Badges/!svn/ver/102/Solution/WirelessScanner/zxing-2.0/docs/javadoc/com/google/zxing/MultiFormatReader.html
+END
+package-summary.html
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/src/Badges/!svn/ver/102/Solution/WirelessScanner/zxing-2.0/docs/javadoc/com/google/zxing/package-summary.html
+END
+ResultPoint.html
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/src/Badges/!svn/ver/102/Solution/WirelessScanner/zxing-2.0/docs/javadoc/com/google/zxing/ResultPoint.html
+END
+package-tree.html
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/src/Badges/!svn/ver/102/Solution/WirelessScanner/zxing-2.0/docs/javadoc/com/google/zxing/package-tree.html
+END
+WriterException.html
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/src/Badges/!svn/ver/102/Solution/WirelessScanner/zxing-2.0/docs/javadoc/com/google/zxing/WriterException.html
+END
+LuminanceSource.html
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/src/Badges/!svn/ver/102/Solution/WirelessScanner/zxing-2.0/docs/javadoc/com/google/zxing/LuminanceSource.html
+END
+MultiFormatWriter.html
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/src/Badges/!svn/ver/102/Solution/WirelessScanner/zxing-2.0/docs/javadoc/com/google/zxing/MultiFormatWriter.html
+END
+Reader.html
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/src/Badges/!svn/ver/102/Solution/WirelessScanner/zxing-2.0/docs/javadoc/com/google/zxing/Reader.html
+END
+ResultPointCallback.html
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/src/Badges/!svn/ver/102/Solution/WirelessScanner/zxing-2.0/docs/javadoc/com/google/zxing/ResultPointCallback.html
+END
+FormatException.html
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/src/Badges/!svn/ver/102/Solution/WirelessScanner/zxing-2.0/docs/javadoc/com/google/zxing/FormatException.html
+END
+DecodeHintType.html
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/src/Badges/!svn/ver/102/Solution/WirelessScanner/zxing-2.0/docs/javadoc/com/google/zxing/DecodeHintType.html
+END
+BarcodeFormat.html
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/src/Badges/!svn/ver/102/Solution/WirelessScanner/zxing-2.0/docs/javadoc/com/google/zxing/BarcodeFormat.html
+END
+NotFoundException.html
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/src/Badges/!svn/ver/102/Solution/WirelessScanner/zxing-2.0/docs/javadoc/com/google/zxing/NotFoundException.html
+END
+StringsResourceTranslator.html
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/src/Badges/!svn/ver/102/Solution/WirelessScanner/zxing-2.0/docs/javadoc/com/google/zxing/StringsResourceTranslator.html
+END

@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/src/Badges/!svn/ver/102/Solution/WirelessScanner/zxing-2.0/symbian/QZXing/source/zxing/datamatrix
+END
+DataMatrixReader.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/src/Badges/!svn/ver/102/Solution/WirelessScanner/zxing-2.0/symbian/QZXing/source/zxing/datamatrix/DataMatrixReader.cpp
+END
+DataMatrixReader.h
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/src/Badges/!svn/ver/102/Solution/WirelessScanner/zxing-2.0/symbian/QZXing/source/zxing/datamatrix/DataMatrixReader.h
+END
+VersionDM.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/src/Badges/!svn/ver/102/Solution/WirelessScanner/zxing-2.0/symbian/QZXing/source/zxing/datamatrix/VersionDM.cpp
+END
+VersionDM.h
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/src/Badges/!svn/ver/102/Solution/WirelessScanner/zxing-2.0/symbian/QZXing/source/zxing/datamatrix/VersionDM.h
+END

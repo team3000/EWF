@@ -1,0 +1,125 @@
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/src/Badges/!svn/ver/102/Solution/WirelessScanner/zxing-2.0/symbian/ZXingBarcodeReader/group/zxing
+END
+Exception.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/src/Badges/!svn/ver/102/Solution/WirelessScanner/zxing-2.0/symbian/ZXingBarcodeReader/group/zxing/Exception.cpp
+END
+LuminanceSource.h
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/src/Badges/!svn/ver/102/Solution/WirelessScanner/zxing-2.0/symbian/ZXingBarcodeReader/group/zxing/LuminanceSource.h
+END
+Reader.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/src/Badges/!svn/ver/102/Solution/WirelessScanner/zxing-2.0/symbian/ZXingBarcodeReader/group/zxing/Reader.cpp
+END
+Exception.h
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/src/Badges/!svn/ver/102/Solution/WirelessScanner/zxing-2.0/symbian/ZXingBarcodeReader/group/zxing/Exception.h
+END
+Reader.h
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/src/Badges/!svn/ver/102/Solution/WirelessScanner/zxing-2.0/symbian/ZXingBarcodeReader/group/zxing/Reader.h
+END
+BarcodeFormat.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/src/Badges/!svn/ver/102/Solution/WirelessScanner/zxing-2.0/symbian/ZXingBarcodeReader/group/zxing/BarcodeFormat.cpp
+END
+BarcodeFormat.h
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/src/Badges/!svn/ver/102/Solution/WirelessScanner/zxing-2.0/symbian/ZXingBarcodeReader/group/zxing/BarcodeFormat.h
+END
+Result.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/src/Badges/!svn/ver/102/Solution/WirelessScanner/zxing-2.0/symbian/ZXingBarcodeReader/group/zxing/Result.cpp
+END
+ReaderException.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/src/Badges/!svn/ver/102/Solution/WirelessScanner/zxing-2.0/symbian/ZXingBarcodeReader/group/zxing/ReaderException.cpp
+END
+BinaryBitmap.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/src/Badges/!svn/ver/102/Solution/WirelessScanner/zxing-2.0/symbian/ZXingBarcodeReader/group/zxing/BinaryBitmap.cpp
+END
+Result.h
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/src/Badges/!svn/ver/102/Solution/WirelessScanner/zxing-2.0/symbian/ZXingBarcodeReader/group/zxing/Result.h
+END
+Binarizer.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/src/Badges/!svn/ver/102/Solution/WirelessScanner/zxing-2.0/symbian/ZXingBarcodeReader/group/zxing/Binarizer.cpp
+END
+MultiFormatReader.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/src/Badges/!svn/ver/102/Solution/WirelessScanner/zxing-2.0/symbian/ZXingBarcodeReader/group/zxing/MultiFormatReader.cpp
+END
+BinaryBitmap.h
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/src/Badges/!svn/ver/102/Solution/WirelessScanner/zxing-2.0/symbian/ZXingBarcodeReader/group/zxing/BinaryBitmap.h
+END
+ReaderException.h
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/src/Badges/!svn/ver/102/Solution/WirelessScanner/zxing-2.0/symbian/ZXingBarcodeReader/group/zxing/ReaderException.h
+END
+ResultPoint.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/src/Badges/!svn/ver/102/Solution/WirelessScanner/zxing-2.0/symbian/ZXingBarcodeReader/group/zxing/ResultPoint.cpp
+END
+Binarizer.h
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/src/Badges/!svn/ver/102/Solution/WirelessScanner/zxing-2.0/symbian/ZXingBarcodeReader/group/zxing/Binarizer.h
+END
+MultiFormatReader.h
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/src/Badges/!svn/ver/102/Solution/WirelessScanner/zxing-2.0/symbian/ZXingBarcodeReader/group/zxing/MultiFormatReader.h
+END
+LuminanceSource.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/src/Badges/!svn/ver/102/Solution/WirelessScanner/zxing-2.0/symbian/ZXingBarcodeReader/group/zxing/LuminanceSource.cpp
+END
+ResultPoint.h
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/src/Badges/!svn/ver/102/Solution/WirelessScanner/zxing-2.0/symbian/ZXingBarcodeReader/group/zxing/ResultPoint.h
+END

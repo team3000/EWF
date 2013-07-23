@@ -1,0 +1,149 @@
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/src/Badges/!svn/ver/102/Solution/WirelessScanner/zxing-2.0/core/build/com/google/zxing/oned
+END
+UPCAReader.class
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/src/Badges/!svn/ver/102/Solution/WirelessScanner/zxing-2.0/core/build/com/google/zxing/oned/UPCAReader.class
+END
+EAN8Reader.class
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/src/Badges/!svn/ver/102/Solution/WirelessScanner/zxing-2.0/core/build/com/google/zxing/oned/EAN8Reader.class
+END
+CodaBarReader.class
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/src/Badges/!svn/ver/102/Solution/WirelessScanner/zxing-2.0/core/build/com/google/zxing/oned/CodaBarReader.class
+END
+ITFWriter.class
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/src/Badges/!svn/ver/102/Solution/WirelessScanner/zxing-2.0/core/build/com/google/zxing/oned/ITFWriter.class
+END
+UPCEReader.class
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/src/Badges/!svn/ver/102/Solution/WirelessScanner/zxing-2.0/core/build/com/google/zxing/oned/UPCEReader.class
+END
+MultiFormatUPCEANReader.class
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/src/Badges/!svn/ver/102/Solution/WirelessScanner/zxing-2.0/core/build/com/google/zxing/oned/MultiFormatUPCEANReader.class
+END
+Code39Writer.class
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/src/Badges/!svn/ver/102/Solution/WirelessScanner/zxing-2.0/core/build/com/google/zxing/oned/Code39Writer.class
+END
+EANManufacturerOrgSupport.class
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/src/Badges/!svn/ver/102/Solution/WirelessScanner/zxing-2.0/core/build/com/google/zxing/oned/EANManufacturerOrgSupport.class
+END
+UPCAWriter.class
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/src/Badges/!svn/ver/102/Solution/WirelessScanner/zxing-2.0/core/build/com/google/zxing/oned/UPCAWriter.class
+END
+EAN8Writer.class
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/src/Badges/!svn/ver/102/Solution/WirelessScanner/zxing-2.0/core/build/com/google/zxing/oned/EAN8Writer.class
+END
+Code128Reader.class
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/src/Badges/!svn/ver/102/Solution/WirelessScanner/zxing-2.0/core/build/com/google/zxing/oned/Code128Reader.class
+END
+CodaBarWriter.class
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/src/Badges/!svn/ver/102/Solution/WirelessScanner/zxing-2.0/core/build/com/google/zxing/oned/CodaBarWriter.class
+END
+EAN13Reader.class
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/src/Badges/!svn/ver/102/Solution/WirelessScanner/zxing-2.0/core/build/com/google/zxing/oned/EAN13Reader.class
+END
+MultiFormatOneDReader.class
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/src/Badges/!svn/ver/102/Solution/WirelessScanner/zxing-2.0/core/build/com/google/zxing/oned/MultiFormatOneDReader.class
+END
+OneDimensionalCodeWriter.class
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/src/Badges/!svn/ver/102/Solution/WirelessScanner/zxing-2.0/core/build/com/google/zxing/oned/OneDimensionalCodeWriter.class
+END
+UPCEANReader.class
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/src/Badges/!svn/ver/102/Solution/WirelessScanner/zxing-2.0/core/build/com/google/zxing/oned/UPCEANReader.class
+END
+Code128Writer.class
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/src/Badges/!svn/ver/102/Solution/WirelessScanner/zxing-2.0/core/build/com/google/zxing/oned/Code128Writer.class
+END
+EAN13Writer.class
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/src/Badges/!svn/ver/102/Solution/WirelessScanner/zxing-2.0/core/build/com/google/zxing/oned/EAN13Writer.class
+END
+ITFReader.class
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/src/Badges/!svn/ver/102/Solution/WirelessScanner/zxing-2.0/core/build/com/google/zxing/oned/ITFReader.class
+END
+UPCEANExtensionSupport.class
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/src/Badges/!svn/ver/102/Solution/WirelessScanner/zxing-2.0/core/build/com/google/zxing/oned/UPCEANExtensionSupport.class
+END
+OneDReader.class
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/src/Badges/!svn/ver/102/Solution/WirelessScanner/zxing-2.0/core/build/com/google/zxing/oned/OneDReader.class
+END
+UPCEANWriter.class
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/src/Badges/!svn/ver/102/Solution/WirelessScanner/zxing-2.0/core/build/com/google/zxing/oned/UPCEANWriter.class
+END
+Code93Reader.class
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/src/Badges/!svn/ver/102/Solution/WirelessScanner/zxing-2.0/core/build/com/google/zxing/oned/Code93Reader.class
+END
+Code39Reader.class
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/src/Badges/!svn/ver/102/Solution/WirelessScanner/zxing-2.0/core/build/com/google/zxing/oned/Code39Reader.class
+END

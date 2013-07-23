@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/src/Badges/!svn/ver/102/Solution/WirelessScanner/zxing-2.0/cpp/core/tests/src/common
+END
+BlackPointEstimatorTest.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/src/Badges/!svn/ver/102/Solution/WirelessScanner/zxing-2.0/cpp/core/tests/src/common/BlackPointEstimatorTest.cpp
+END
+BitSourceTest.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/src/Badges/!svn/ver/102/Solution/WirelessScanner/zxing-2.0/cpp/core/tests/src/common/BitSourceTest.cpp
+END
+CountedTest.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/src/Badges/!svn/ver/102/Solution/WirelessScanner/zxing-2.0/cpp/core/tests/src/common/CountedTest.cpp
+END
+BitArrayTest.h
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/src/Badges/!svn/ver/102/Solution/WirelessScanner/zxing-2.0/cpp/core/tests/src/common/BitArrayTest.h
+END
+BitMatrixTest.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/src/Badges/!svn/ver/102/Solution/WirelessScanner/zxing-2.0/cpp/core/tests/src/common/BitMatrixTest.cpp
+END
+BlackPointEstimatorTest.h
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/src/Badges/!svn/ver/102/Solution/WirelessScanner/zxing-2.0/cpp/core/tests/src/common/BlackPointEstimatorTest.h
+END
+BitSourceTest.h
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/src/Badges/!svn/ver/102/Solution/WirelessScanner/zxing-2.0/cpp/core/tests/src/common/BitSourceTest.h
+END
+PerspectiveTransformTest.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/src/Badges/!svn/ver/102/Solution/WirelessScanner/zxing-2.0/cpp/core/tests/src/common/PerspectiveTransformTest.cpp
+END
+CountedTest.h
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/src/Badges/!svn/ver/102/Solution/WirelessScanner/zxing-2.0/cpp/core/tests/src/common/CountedTest.h
+END
+BitMatrixTest.h
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/src/Badges/!svn/ver/102/Solution/WirelessScanner/zxing-2.0/cpp/core/tests/src/common/BitMatrixTest.h
+END
+PerspectiveTransformTest.h
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/src/Badges/!svn/ver/102/Solution/WirelessScanner/zxing-2.0/cpp/core/tests/src/common/PerspectiveTransformTest.h
+END
+BitArrayTest.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/src/Badges/!svn/ver/102/Solution/WirelessScanner/zxing-2.0/cpp/core/tests/src/common/BitArrayTest.cpp
+END

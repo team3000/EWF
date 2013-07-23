@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/src/Badges/!svn/ver/102/Solution/WirelessScanner/zxing-2.0/core/test/src/com/google/zxing/common/reedsolomon
+END
+ReedSolomonEncoderQRCodeTestCase.java
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/src/Badges/!svn/ver/102/Solution/WirelessScanner/zxing-2.0/core/test/src/com/google/zxing/common/reedsolomon/ReedSolomonEncoderQRCodeTestCase.java
+END
+AbstractReedSolomonTestCase.java
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/src/Badges/!svn/ver/102/Solution/WirelessScanner/zxing-2.0/core/test/src/com/google/zxing/common/reedsolomon/AbstractReedSolomonTestCase.java
+END
+ReedSolomonDecoderQRCodeTestCase.java
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/src/Badges/!svn/ver/102/Solution/WirelessScanner/zxing-2.0/core/test/src/com/google/zxing/common/reedsolomon/ReedSolomonDecoderQRCodeTestCase.java
+END
+ReedSolomonDecoderDataMatrixTestCase.java
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/src/Badges/!svn/ver/102/Solution/WirelessScanner/zxing-2.0/core/test/src/com/google/zxing/common/reedsolomon/ReedSolomonDecoderDataMatrixTestCase.java
+END

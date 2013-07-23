@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/src/Badges/!svn/ver/102/Solution/WirelessScanner/zxing-2.0/core/src/com/google/zxing/qrcode/detector
+END
+FinderPatternInfo.java
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/src/Badges/!svn/ver/102/Solution/WirelessScanner/zxing-2.0/core/src/com/google/zxing/qrcode/detector/FinderPatternInfo.java
+END
+AlignmentPatternFinder.java
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/src/Badges/!svn/ver/102/Solution/WirelessScanner/zxing-2.0/core/src/com/google/zxing/qrcode/detector/AlignmentPatternFinder.java
+END
+FinderPattern.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/src/Badges/!svn/ver/102/Solution/WirelessScanner/zxing-2.0/core/src/com/google/zxing/qrcode/detector/FinderPattern.java
+END
+Detector.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/src/Badges/!svn/ver/102/Solution/WirelessScanner/zxing-2.0/core/src/com/google/zxing/qrcode/detector/Detector.java
+END
+AlignmentPattern.java
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/src/Badges/!svn/ver/102/Solution/WirelessScanner/zxing-2.0/core/src/com/google/zxing/qrcode/detector/AlignmentPattern.java
+END
+FinderPatternFinder.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/src/Badges/!svn/ver/102/Solution/WirelessScanner/zxing-2.0/core/src/com/google/zxing/qrcode/detector/FinderPatternFinder.java
+END

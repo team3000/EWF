@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/src/Badges/!svn/ver/102/Solution/WirelessScanner/zxing-2.0/actionscript/core/src/com/google/zxing/maxicode/decoder
+END
+DecodedBitStreamParser.as
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/src/Badges/!svn/ver/102/Solution/WirelessScanner/zxing-2.0/actionscript/core/src/com/google/zxing/maxicode/decoder/DecodedBitStreamParser.as
+END
+BitMatrixParser.as
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/src/Badges/!svn/ver/102/Solution/WirelessScanner/zxing-2.0/actionscript/core/src/com/google/zxing/maxicode/decoder/BitMatrixParser.as
+END
+Decoder.as
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/src/Badges/!svn/ver/102/Solution/WirelessScanner/zxing-2.0/actionscript/core/src/com/google/zxing/maxicode/decoder/Decoder.as
+END

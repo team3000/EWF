@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/src/Badges/!svn/ver/102/Solution/WirelessScanner/zxing-2.0/cpp/core/tests/src/qrcode
+END
+ErrorCorrectionLevelTest.h
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/src/Badges/!svn/ver/102/Solution/WirelessScanner/zxing-2.0/cpp/core/tests/src/qrcode/ErrorCorrectionLevelTest.h
+END
+FormatInformationTest.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/src/Badges/!svn/ver/102/Solution/WirelessScanner/zxing-2.0/cpp/core/tests/src/qrcode/FormatInformationTest.cpp
+END
+FormatInformationTest.h
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/src/Badges/!svn/ver/102/Solution/WirelessScanner/zxing-2.0/cpp/core/tests/src/qrcode/FormatInformationTest.h
+END
+VersionTest.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/src/Badges/!svn/ver/102/Solution/WirelessScanner/zxing-2.0/cpp/core/tests/src/qrcode/VersionTest.cpp
+END
+ErrorCorrectionLevelTest.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/src/Badges/!svn/ver/102/Solution/WirelessScanner/zxing-2.0/cpp/core/tests/src/qrcode/ErrorCorrectionLevelTest.cpp
+END
+VersionTest.h
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/src/Badges/!svn/ver/102/Solution/WirelessScanner/zxing-2.0/cpp/core/tests/src/qrcode/VersionTest.h
+END

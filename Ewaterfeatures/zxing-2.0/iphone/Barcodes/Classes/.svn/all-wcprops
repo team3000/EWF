@@ -1,0 +1,107 @@
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/src/Badges/!svn/ver/102/Solution/WirelessScanner/zxing-2.0/iphone/Barcodes/Classes
+END
+ScanCell.m
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/src/Badges/!svn/ver/102/Solution/WirelessScanner/zxing-2.0/iphone/Barcodes/Classes/ScanCell.m
+END
+Scan.m
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/src/Badges/!svn/ver/102/Solution/WirelessScanner/zxing-2.0/iphone/Barcodes/Classes/Scan.m
+END
+ArchiveController.m
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/src/Badges/!svn/ver/102/Solution/WirelessScanner/zxing-2.0/iphone/Barcodes/Classes/ArchiveController.m
+END
+Database.h
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/src/Badges/!svn/ver/102/Solution/WirelessScanner/zxing-2.0/iphone/Barcodes/Classes/Database.h
+END
+ZXMainViewController.h
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/src/Badges/!svn/ver/102/Solution/WirelessScanner/zxing-2.0/iphone/Barcodes/Classes/ZXMainViewController.h
+END
+Database.m
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/src/Badges/!svn/ver/102/Solution/WirelessScanner/zxing-2.0/iphone/Barcodes/Classes/Database.m
+END
+BarcodesAppDelegate.h
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/src/Badges/!svn/ver/102/Solution/WirelessScanner/zxing-2.0/iphone/Barcodes/Classes/BarcodesAppDelegate.h
+END
+ScanViewController.h
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/src/Badges/!svn/ver/102/Solution/WirelessScanner/zxing-2.0/iphone/Barcodes/Classes/ScanViewController.h
+END
+MessageViewController.h
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/src/Badges/!svn/ver/102/Solution/WirelessScanner/zxing-2.0/iphone/Barcodes/Classes/MessageViewController.h
+END
+BarcodesAppDelegate.m
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/src/Badges/!svn/ver/102/Solution/WirelessScanner/zxing-2.0/iphone/Barcodes/Classes/BarcodesAppDelegate.m
+END
+ScanCell.h
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/src/Badges/!svn/ver/102/Solution/WirelessScanner/zxing-2.0/iphone/Barcodes/Classes/ScanCell.h
+END
+Scan.h
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/src/Badges/!svn/ver/102/Solution/WirelessScanner/zxing-2.0/iphone/Barcodes/Classes/Scan.h
+END
+ArchiveController.h
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/src/Badges/!svn/ver/102/Solution/WirelessScanner/zxing-2.0/iphone/Barcodes/Classes/ArchiveController.h
+END
+ModalViewControllerDelegate.h
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/src/Badges/!svn/ver/102/Solution/WirelessScanner/zxing-2.0/iphone/Barcodes/Classes/ModalViewControllerDelegate.h
+END
+ZXMainViewController.mm
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/src/Badges/!svn/ver/102/Solution/WirelessScanner/zxing-2.0/iphone/Barcodes/Classes/ZXMainViewController.mm
+END
+ScanViewController.m
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/src/Badges/!svn/ver/102/Solution/WirelessScanner/zxing-2.0/iphone/Barcodes/Classes/ScanViewController.m
+END
+MessageViewController.m
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/src/Badges/!svn/ver/102/Solution/WirelessScanner/zxing-2.0/iphone/Barcodes/Classes/MessageViewController.m
+END

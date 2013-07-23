@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/src/Badges/!svn/ver/102/Solution/WirelessScanner/zxing-2.0/symbian/QZXing/source/zxing/datamatrix/decoder
+END
+DecodedBitStreamParserDM.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/src/Badges/!svn/ver/102/Solution/WirelessScanner/zxing-2.0/symbian/QZXing/source/zxing/datamatrix/decoder/DecodedBitStreamParserDM.cpp
+END
+BitMatrixParserDM.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/src/Badges/!svn/ver/102/Solution/WirelessScanner/zxing-2.0/symbian/QZXing/source/zxing/datamatrix/decoder/BitMatrixParserDM.cpp
+END
+DataBlockDM.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/src/Badges/!svn/ver/102/Solution/WirelessScanner/zxing-2.0/symbian/QZXing/source/zxing/datamatrix/decoder/DataBlockDM.cpp
+END
+DecodedBitStreamParserDM.h
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/src/Badges/!svn/ver/102/Solution/WirelessScanner/zxing-2.0/symbian/QZXing/source/zxing/datamatrix/decoder/DecodedBitStreamParserDM.h
+END
+BitMatrixParserDM.h
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/src/Badges/!svn/ver/102/Solution/WirelessScanner/zxing-2.0/symbian/QZXing/source/zxing/datamatrix/decoder/BitMatrixParserDM.h
+END
+DecoderDM.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/src/Badges/!svn/ver/102/Solution/WirelessScanner/zxing-2.0/symbian/QZXing/source/zxing/datamatrix/decoder/DecoderDM.cpp
+END
+DataBlockDM.h
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/src/Badges/!svn/ver/102/Solution/WirelessScanner/zxing-2.0/symbian/QZXing/source/zxing/datamatrix/decoder/DataBlockDM.h
+END
+DecoderDM.h
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/src/Badges/!svn/ver/102/Solution/WirelessScanner/zxing-2.0/symbian/QZXing/source/zxing/datamatrix/decoder/DecoderDM.h
+END

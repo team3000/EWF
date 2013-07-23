@@ -1,0 +1,125 @@
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/src/Badges/!svn/ver/102/Solution/WirelessScanner/zxing-2.0/csharp
+END
+Writer.cs
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/src/Badges/!svn/ver/102/Solution/WirelessScanner/zxing-2.0/csharp/Writer.cs
+END
+Result.cs
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/src/Badges/!svn/ver/102/Solution/WirelessScanner/zxing-2.0/csharp/Result.cs
+END
+ResultMetadataType.cs
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/src/Badges/!svn/ver/102/Solution/WirelessScanner/zxing-2.0/csharp/ResultMetadataType.cs
+END
+ReaderException.cs
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/src/Badges/!svn/ver/102/Solution/WirelessScanner/zxing-2.0/csharp/ReaderException.cs
+END
+BinaryBitmap.cs
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/src/Badges/!svn/ver/102/Solution/WirelessScanner/zxing-2.0/csharp/BinaryBitmap.cs
+END
+EncodeHintType.cs
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/src/Badges/!svn/ver/102/Solution/WirelessScanner/zxing-2.0/csharp/EncodeHintType.cs
+END
+Binarizer.cs
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/src/Badges/!svn/ver/102/Solution/WirelessScanner/zxing-2.0/csharp/Binarizer.cs
+END
+MultiFormatReader.cs
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/src/Badges/!svn/ver/102/Solution/WirelessScanner/zxing-2.0/csharp/MultiFormatReader.cs
+END
+RGBLuminanceSource.cs
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/src/Badges/!svn/ver/102/Solution/WirelessScanner/zxing-2.0/csharp/RGBLuminanceSource.cs
+END
+ResultPoint.cs
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/src/Badges/!svn/ver/102/Solution/WirelessScanner/zxing-2.0/csharp/ResultPoint.cs
+END
+zxing.csproj
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/src/Badges/!svn/ver/102/Solution/WirelessScanner/zxing-2.0/csharp/zxing.csproj
+END
+AssemblyInfo.cs
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/src/Badges/!svn/ver/102/Solution/WirelessScanner/zxing-2.0/csharp/AssemblyInfo.cs
+END
+WriterException.cs
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/src/Badges/!svn/ver/102/Solution/WirelessScanner/zxing-2.0/csharp/WriterException.cs
+END
+LuminanceSource.cs
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/src/Badges/!svn/ver/102/Solution/WirelessScanner/zxing-2.0/csharp/LuminanceSource.cs
+END
+MultiFormatWriter.cs
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/src/Badges/!svn/ver/102/Solution/WirelessScanner/zxing-2.0/csharp/MultiFormatWriter.cs
+END
+Reader.cs
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/src/Badges/!svn/ver/102/Solution/WirelessScanner/zxing-2.0/csharp/Reader.cs
+END
+SupportClass.cs
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/src/Badges/!svn/ver/102/Solution/WirelessScanner/zxing-2.0/csharp/SupportClass.cs
+END
+ResultPointCallback.cs
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/src/Badges/!svn/ver/102/Solution/WirelessScanner/zxing-2.0/csharp/ResultPointCallback.cs
+END
+DecodeHintType.cs
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/src/Badges/!svn/ver/102/Solution/WirelessScanner/zxing-2.0/csharp/DecodeHintType.cs
+END
+BarcodeFormat.cs
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/src/Badges/!svn/ver/102/Solution/WirelessScanner/zxing-2.0/csharp/BarcodeFormat.cs
+END

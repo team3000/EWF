@@ -1,0 +1,209 @@
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/src/Badges/!svn/ver/102/Solution/WirelessScanner/zxing-2.0/objc/src/ZXing
+END
+ZXBinarizer.mm
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/src/Badges/!svn/ver/102/Solution/WirelessScanner/zxing-2.0/objc/src/ZXing/ZXBinarizer.mm
+END
+ZXMultiFormatReader.mm
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/src/Badges/!svn/ver/102/Solution/WirelessScanner/zxing-2.0/objc/src/ZXing/ZXMultiFormatReader.mm
+END
+ZXHybridBinarizer.mm
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/src/Badges/!svn/ver/102/Solution/WirelessScanner/zxing-2.0/objc/src/ZXing/ZXHybridBinarizer.mm
+END
+CGImageLuminanceSource.mm
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/src/Badges/!svn/ver/102/Solution/WirelessScanner/zxing-2.0/objc/src/ZXing/CGImageLuminanceSource.mm
+END
+ZXView.h
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/src/Badges/!svn/ver/102/Solution/WirelessScanner/zxing-2.0/objc/src/ZXing/ZXView.h
+END
+ZXIllegalArgumentException.mm
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/src/Badges/!svn/ver/102/Solution/WirelessScanner/zxing-2.0/objc/src/ZXing/ZXIllegalArgumentException.mm
+END
+ZXReader.mm
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/src/Badges/!svn/ver/102/Solution/WirelessScanner/zxing-2.0/objc/src/ZXing/ZXReader.mm
+END
+ZXCapture.mm
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/src/Badges/!svn/ver/102/Solution/WirelessScanner/zxing-2.0/objc/src/ZXing/ZXCapture.mm
+END
+ZXMultiFormatReader.h
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/src/Badges/!svn/ver/102/Solution/WirelessScanner/zxing-2.0/objc/src/ZXing/ZXMultiFormatReader.h
+END
+ZXDecodeHints.h
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/src/Badges/!svn/ver/102/Solution/WirelessScanner/zxing-2.0/objc/src/ZXing/ZXDecodeHints.h
+END
+ZXInit.c
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/src/Badges/!svn/ver/102/Solution/WirelessScanner/zxing-2.0/objc/src/ZXing/ZXInit.c
+END
+ZXResult.mm
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/src/Badges/!svn/ver/102/Solution/WirelessScanner/zxing-2.0/objc/src/ZXing/ZXResult.mm
+END
+ZXReader.h
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/src/Badges/!svn/ver/102/Solution/WirelessScanner/zxing-2.0/objc/src/ZXing/ZXReader.h
+END
+ZXImage.mm
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/src/Badges/!svn/ver/102/Solution/WirelessScanner/zxing-2.0/objc/src/ZXing/ZXImage.mm
+END
+ZXCGImageLuminanceSource.h
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/src/Badges/!svn/ver/102/Solution/WirelessScanner/zxing-2.0/objc/src/ZXing/ZXCGImageLuminanceSource.h
+END
+ZXDecodeHints.mm
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/src/Badges/!svn/ver/102/Solution/WirelessScanner/zxing-2.0/objc/src/ZXing/ZXDecodeHints.mm
+END
+ZXLuminanceSource.mm
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/src/Badges/!svn/ver/102/Solution/WirelessScanner/zxing-2.0/objc/src/ZXing/ZXLuminanceSource.mm
+END
+ZXResult.h
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/src/Badges/!svn/ver/102/Solution/WirelessScanner/zxing-2.0/objc/src/ZXing/ZXResult.h
+END
+ZXCaptureView.mm
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/src/Badges/!svn/ver/102/Solution/WirelessScanner/zxing-2.0/objc/src/ZXing/ZXCaptureView.mm
+END
+ZXReaderException.h
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/src/Badges/!svn/ver/102/Solution/WirelessScanner/zxing-2.0/objc/src/ZXing/ZXReaderException.h
+END
+ZXBinaryBitmap.h
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/src/Badges/!svn/ver/102/Solution/WirelessScanner/zxing-2.0/objc/src/ZXing/ZXBinaryBitmap.h
+END
+ZXQRCodeReader.mm
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/src/Badges/!svn/ver/102/Solution/WirelessScanner/zxing-2.0/objc/src/ZXing/ZXQRCodeReader.mm
+END
+ZXImage.h
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/src/Badges/!svn/ver/102/Solution/WirelessScanner/zxing-2.0/objc/src/ZXing/ZXImage.h
+END
+ZXBinarizer.h
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/src/Badges/!svn/ver/102/Solution/WirelessScanner/zxing-2.0/objc/src/ZXing/ZXBinarizer.h
+END
+ZXHybridBinarizer.h
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/src/Badges/!svn/ver/102/Solution/WirelessScanner/zxing-2.0/objc/src/ZXing/ZXHybridBinarizer.h
+END
+ZXIllegalArgumentException.h
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/src/Badges/!svn/ver/102/Solution/WirelessScanner/zxing-2.0/objc/src/ZXing/ZXIllegalArgumentException.h
+END
+ZXCGImageLuminanceSource.mm
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/src/Badges/!svn/ver/102/Solution/WirelessScanner/zxing-2.0/objc/src/ZXing/ZXCGImageLuminanceSource.mm
+END
+ZXLuminanceSource.h
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/src/Badges/!svn/ver/102/Solution/WirelessScanner/zxing-2.0/objc/src/ZXing/ZXLuminanceSource.h
+END
+ZXCaptureDelegate.h
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/src/Badges/!svn/ver/102/Solution/WirelessScanner/zxing-2.0/objc/src/ZXing/ZXCaptureDelegate.h
+END
+ZXCaptureView.h
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/src/Badges/!svn/ver/102/Solution/WirelessScanner/zxing-2.0/objc/src/ZXing/ZXCaptureView.h
+END
+ZXQRCodeReader.h
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/src/Badges/!svn/ver/102/Solution/WirelessScanner/zxing-2.0/objc/src/ZXing/ZXQRCodeReader.h
+END
+ZXReaderException.mm
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/src/Badges/!svn/ver/102/Solution/WirelessScanner/zxing-2.0/objc/src/ZXing/ZXReaderException.mm
+END
+ZXBinaryBitmap.mm
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/src/Badges/!svn/ver/102/Solution/WirelessScanner/zxing-2.0/objc/src/ZXing/ZXBinaryBitmap.mm
+END
+ZXCapture.h
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/src/Badges/!svn/ver/102/Solution/WirelessScanner/zxing-2.0/objc/src/ZXing/ZXCapture.h
+END

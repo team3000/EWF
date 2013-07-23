@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/src/Badges/!svn/ver/102/Solution/WirelessScanner/zxing-2.0/symbian/QZXing/source
+END
+QZXing.pro
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/src/Badges/!svn/ver/102/Solution/WirelessScanner/zxing-2.0/symbian/QZXing/source/QZXing.pro
+END
+qzxing.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/src/Badges/!svn/ver/102/Solution/WirelessScanner/zxing-2.0/symbian/QZXing/source/qzxing.cpp
+END
+CameraImageWrapper.h
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/src/Badges/!svn/ver/102/Solution/WirelessScanner/zxing-2.0/symbian/QZXing/source/CameraImageWrapper.h
+END
+QZXing_global.h
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/src/Badges/!svn/ver/102/Solution/WirelessScanner/zxing-2.0/symbian/QZXing/source/QZXing_global.h
+END
+qzxing.h
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/src/Badges/!svn/ver/102/Solution/WirelessScanner/zxing-2.0/symbian/QZXing/source/qzxing.h
+END
+CameraImageWrapper.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/src/Badges/!svn/ver/102/Solution/WirelessScanner/zxing-2.0/symbian/QZXing/source/CameraImageWrapper.cpp
+END

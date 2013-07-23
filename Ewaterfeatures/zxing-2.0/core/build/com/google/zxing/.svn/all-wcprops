@@ -1,0 +1,125 @@
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/src/Badges/!svn/ver/102/Solution/WirelessScanner/zxing-2.0/core/build/com/google/zxing
+END
+NotFoundException.class
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/src/Badges/!svn/ver/102/Solution/WirelessScanner/zxing-2.0/core/build/com/google/zxing/NotFoundException.class
+END
+Writer.class
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/src/Badges/!svn/ver/102/Solution/WirelessScanner/zxing-2.0/core/build/com/google/zxing/Writer.class
+END
+Result.class
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/src/Badges/!svn/ver/102/Solution/WirelessScanner/zxing-2.0/core/build/com/google/zxing/Result.class
+END
+ReaderException.class
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/src/Badges/!svn/ver/102/Solution/WirelessScanner/zxing-2.0/core/build/com/google/zxing/ReaderException.class
+END
+ChecksumException.class
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/src/Badges/!svn/ver/102/Solution/WirelessScanner/zxing-2.0/core/build/com/google/zxing/ChecksumException.class
+END
+BinaryBitmap.class
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/src/Badges/!svn/ver/102/Solution/WirelessScanner/zxing-2.0/core/build/com/google/zxing/BinaryBitmap.class
+END
+ResultMetadataType.class
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/src/Badges/!svn/ver/102/Solution/WirelessScanner/zxing-2.0/core/build/com/google/zxing/ResultMetadataType.class
+END
+EncodeHintType.class
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/src/Badges/!svn/ver/102/Solution/WirelessScanner/zxing-2.0/core/build/com/google/zxing/EncodeHintType.class
+END
+MultiFormatWriter$1.class
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/src/Badges/!svn/ver/102/Solution/WirelessScanner/zxing-2.0/core/build/com/google/zxing/MultiFormatWriter$1.class
+END
+Binarizer.class
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/src/Badges/!svn/ver/102/Solution/WirelessScanner/zxing-2.0/core/build/com/google/zxing/Binarizer.class
+END
+MultiFormatReader.class
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/src/Badges/!svn/ver/102/Solution/WirelessScanner/zxing-2.0/core/build/com/google/zxing/MultiFormatReader.class
+END
+ResultPoint.class
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/src/Badges/!svn/ver/102/Solution/WirelessScanner/zxing-2.0/core/build/com/google/zxing/ResultPoint.class
+END
+WriterException.class
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/src/Badges/!svn/ver/102/Solution/WirelessScanner/zxing-2.0/core/build/com/google/zxing/WriterException.class
+END
+LuminanceSource.class
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/src/Badges/!svn/ver/102/Solution/WirelessScanner/zxing-2.0/core/build/com/google/zxing/LuminanceSource.class
+END
+MultiFormatWriter.class
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/src/Badges/!svn/ver/102/Solution/WirelessScanner/zxing-2.0/core/build/com/google/zxing/MultiFormatWriter.class
+END
+Reader.class
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/src/Badges/!svn/ver/102/Solution/WirelessScanner/zxing-2.0/core/build/com/google/zxing/Reader.class
+END
+ResultPointCallback.class
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/src/Badges/!svn/ver/102/Solution/WirelessScanner/zxing-2.0/core/build/com/google/zxing/ResultPointCallback.class
+END
+FormatException.class
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/src/Badges/!svn/ver/102/Solution/WirelessScanner/zxing-2.0/core/build/com/google/zxing/FormatException.class
+END
+DecodeHintType.class
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/src/Badges/!svn/ver/102/Solution/WirelessScanner/zxing-2.0/core/build/com/google/zxing/DecodeHintType.class
+END
+BarcodeFormat.class
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/src/Badges/!svn/ver/102/Solution/WirelessScanner/zxing-2.0/core/build/com/google/zxing/BarcodeFormat.class
+END

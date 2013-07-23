@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/src/Badges/!svn/ver/102/Solution/WirelessScanner/zxing-2.0/symbian/ZXingBarcodeReader/group
+END
+ABLD.BAT
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/src/Badges/!svn/ver/102/Solution/WirelessScanner/zxing-2.0/symbian/ZXingBarcodeReader/group/ABLD.BAT
+END
+ZXingBarcodeReader.mmp
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/src/Badges/!svn/ver/102/Solution/WirelessScanner/zxing-2.0/symbian/ZXingBarcodeReader/group/ZXingBarcodeReader.mmp
+END
+bld.inf
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/src/Badges/!svn/ver/102/Solution/WirelessScanner/zxing-2.0/symbian/ZXingBarcodeReader/group/bld.inf
+END
+Icons_scalable_dc.mk
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/src/Badges/!svn/ver/102/Solution/WirelessScanner/zxing-2.0/symbian/ZXingBarcodeReader/group/Icons_scalable_dc.mk
+END

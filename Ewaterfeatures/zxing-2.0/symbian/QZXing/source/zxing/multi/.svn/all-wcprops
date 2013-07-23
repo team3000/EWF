@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/src/Badges/!svn/ver/102/Solution/WirelessScanner/zxing-2.0/symbian/QZXing/source/zxing/multi
+END
+MultipleBarcodeReader.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/src/Badges/!svn/ver/102/Solution/WirelessScanner/zxing-2.0/symbian/QZXing/source/zxing/multi/MultipleBarcodeReader.cpp
+END
+GenericMultipleBarcodeReader.h
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/src/Badges/!svn/ver/102/Solution/WirelessScanner/zxing-2.0/symbian/QZXing/source/zxing/multi/GenericMultipleBarcodeReader.h
+END
+ByQuadrantReader.h
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/src/Badges/!svn/ver/102/Solution/WirelessScanner/zxing-2.0/symbian/QZXing/source/zxing/multi/ByQuadrantReader.h
+END
+MultipleBarcodeReader.h
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/src/Badges/!svn/ver/102/Solution/WirelessScanner/zxing-2.0/symbian/QZXing/source/zxing/multi/MultipleBarcodeReader.h
+END
+GenericMultipleBarcodeReader.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/src/Badges/!svn/ver/102/Solution/WirelessScanner/zxing-2.0/symbian/QZXing/source/zxing/multi/GenericMultipleBarcodeReader.cpp
+END
+ByQuadrantReader.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/src/Badges/!svn/ver/102/Solution/WirelessScanner/zxing-2.0/symbian/QZXing/source/zxing/multi/ByQuadrantReader.cpp
+END

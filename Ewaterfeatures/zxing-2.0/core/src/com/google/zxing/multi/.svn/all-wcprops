@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/src/Badges/!svn/ver/102/Solution/WirelessScanner/zxing-2.0/core/src/com/google/zxing/multi
+END
+GenericMultipleBarcodeReader.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/src/Badges/!svn/ver/102/Solution/WirelessScanner/zxing-2.0/core/src/com/google/zxing/multi/GenericMultipleBarcodeReader.java
+END
+ByQuadrantReader.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/src/Badges/!svn/ver/102/Solution/WirelessScanner/zxing-2.0/core/src/com/google/zxing/multi/ByQuadrantReader.java
+END
+MultipleBarcodeReader.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/src/Badges/!svn/ver/102/Solution/WirelessScanner/zxing-2.0/core/src/com/google/zxing/multi/MultipleBarcodeReader.java
+END

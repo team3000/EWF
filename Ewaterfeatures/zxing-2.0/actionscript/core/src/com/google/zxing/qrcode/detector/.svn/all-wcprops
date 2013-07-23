@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/src/Badges/!svn/ver/102/Solution/WirelessScanner/zxing-2.0/actionscript/core/src/com/google/zxing/qrcode/detector
+END
+FinderPatternFinder.as
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/src/Badges/!svn/ver/102/Solution/WirelessScanner/zxing-2.0/actionscript/core/src/com/google/zxing/qrcode/detector/FinderPatternFinder.as
+END
+FinderPatternInfo.as
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/src/Badges/!svn/ver/102/Solution/WirelessScanner/zxing-2.0/actionscript/core/src/com/google/zxing/qrcode/detector/FinderPatternInfo.as
+END
+ClosestToAverageComparator.as
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/src/Badges/!svn/ver/102/Solution/WirelessScanner/zxing-2.0/actionscript/core/src/com/google/zxing/qrcode/detector/ClosestToAverageComparator.as
+END
+AlignmentPatternFinder.as
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/src/Badges/!svn/ver/102/Solution/WirelessScanner/zxing-2.0/actionscript/core/src/com/google/zxing/qrcode/detector/AlignmentPatternFinder.as
+END
+FinderPattern.as
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/src/Badges/!svn/ver/102/Solution/WirelessScanner/zxing-2.0/actionscript/core/src/com/google/zxing/qrcode/detector/FinderPattern.as
+END
+CenterComparator.as
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/src/Badges/!svn/ver/102/Solution/WirelessScanner/zxing-2.0/actionscript/core/src/com/google/zxing/qrcode/detector/CenterComparator.as
+END
+Detector.as
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/src/Badges/!svn/ver/102/Solution/WirelessScanner/zxing-2.0/actionscript/core/src/com/google/zxing/qrcode/detector/Detector.as
+END
+FurthestFromAverageComparator.as
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/src/Badges/!svn/ver/102/Solution/WirelessScanner/zxing-2.0/actionscript/core/src/com/google/zxing/qrcode/detector/FurthestFromAverageComparator.as
+END
+AlignmentPattern.as
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/src/Badges/!svn/ver/102/Solution/WirelessScanner/zxing-2.0/actionscript/core/src/com/google/zxing/qrcode/detector/AlignmentPattern.as
+END

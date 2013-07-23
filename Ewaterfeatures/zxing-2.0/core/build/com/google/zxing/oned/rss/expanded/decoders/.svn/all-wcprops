@@ -1,0 +1,125 @@
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/src/Badges/!svn/ver/102/Solution/WirelessScanner/zxing-2.0/core/build/com/google/zxing/oned/rss/expanded/decoders
+END
+CurrentParsingState$State.class
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/src/Badges/!svn/ver/102/Solution/WirelessScanner/zxing-2.0/core/build/com/google/zxing/oned/rss/expanded/decoders/CurrentParsingState$State.class
+END
+AI01AndOtherAIs.class
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/src/Badges/!svn/ver/102/Solution/WirelessScanner/zxing-2.0/core/build/com/google/zxing/oned/rss/expanded/decoders/AI01AndOtherAIs.class
+END
+AI013x0x1xDecoder.class
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/src/Badges/!svn/ver/102/Solution/WirelessScanner/zxing-2.0/core/build/com/google/zxing/oned/rss/expanded/decoders/AI013x0x1xDecoder.class
+END
+DecodedObject.class
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/src/Badges/!svn/ver/102/Solution/WirelessScanner/zxing-2.0/core/build/com/google/zxing/oned/rss/expanded/decoders/DecodedObject.class
+END
+AI01decoder.class
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/src/Badges/!svn/ver/102/Solution/WirelessScanner/zxing-2.0/core/build/com/google/zxing/oned/rss/expanded/decoders/AI01decoder.class
+END
+GeneralAppIdDecoder.class
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/src/Badges/!svn/ver/102/Solution/WirelessScanner/zxing-2.0/core/build/com/google/zxing/oned/rss/expanded/decoders/GeneralAppIdDecoder.class
+END
+DecodedChar.class
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/src/Badges/!svn/ver/102/Solution/WirelessScanner/zxing-2.0/core/build/com/google/zxing/oned/rss/expanded/decoders/DecodedChar.class
+END
+AnyAIDecoder.class
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/src/Badges/!svn/ver/102/Solution/WirelessScanner/zxing-2.0/core/build/com/google/zxing/oned/rss/expanded/decoders/AnyAIDecoder.class
+END
+AI013103decoder.class
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/src/Badges/!svn/ver/102/Solution/WirelessScanner/zxing-2.0/core/build/com/google/zxing/oned/rss/expanded/decoders/AI013103decoder.class
+END
+BlockParsedResult.class
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/src/Badges/!svn/ver/102/Solution/WirelessScanner/zxing-2.0/core/build/com/google/zxing/oned/rss/expanded/decoders/BlockParsedResult.class
+END
+AI01weightDecoder.class
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/src/Badges/!svn/ver/102/Solution/WirelessScanner/zxing-2.0/core/build/com/google/zxing/oned/rss/expanded/decoders/AI01weightDecoder.class
+END
+AI01320xDecoder.class
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/src/Badges/!svn/ver/102/Solution/WirelessScanner/zxing-2.0/core/build/com/google/zxing/oned/rss/expanded/decoders/AI01320xDecoder.class
+END
+DecodedInformation.class
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/src/Badges/!svn/ver/102/Solution/WirelessScanner/zxing-2.0/core/build/com/google/zxing/oned/rss/expanded/decoders/DecodedInformation.class
+END
+FieldParser.class
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/src/Badges/!svn/ver/102/Solution/WirelessScanner/zxing-2.0/core/build/com/google/zxing/oned/rss/expanded/decoders/FieldParser.class
+END
+AbstractExpandedDecoder.class
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/src/Badges/!svn/ver/102/Solution/WirelessScanner/zxing-2.0/core/build/com/google/zxing/oned/rss/expanded/decoders/AbstractExpandedDecoder.class
+END
+AI013x0xDecoder.class
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/src/Badges/!svn/ver/102/Solution/WirelessScanner/zxing-2.0/core/build/com/google/zxing/oned/rss/expanded/decoders/AI013x0xDecoder.class
+END
+AI01392xDecoder.class
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/src/Badges/!svn/ver/102/Solution/WirelessScanner/zxing-2.0/core/build/com/google/zxing/oned/rss/expanded/decoders/AI01392xDecoder.class
+END
+CurrentParsingState.class
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/src/Badges/!svn/ver/102/Solution/WirelessScanner/zxing-2.0/core/build/com/google/zxing/oned/rss/expanded/decoders/CurrentParsingState.class
+END
+AI01393xDecoder.class
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/src/Badges/!svn/ver/102/Solution/WirelessScanner/zxing-2.0/core/build/com/google/zxing/oned/rss/expanded/decoders/AI01393xDecoder.class
+END
+DecodedNumeric.class
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/src/Badges/!svn/ver/102/Solution/WirelessScanner/zxing-2.0/core/build/com/google/zxing/oned/rss/expanded/decoders/DecodedNumeric.class
+END

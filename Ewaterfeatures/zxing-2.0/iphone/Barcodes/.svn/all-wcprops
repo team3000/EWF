@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/src/Badges/!svn/ver/102/Solution/WirelessScanner/zxing-2.0/iphone/Barcodes
+END
+Barcodes-Info.plist
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/src/Badges/!svn/ver/102/Solution/WirelessScanner/zxing-2.0/iphone/Barcodes/Barcodes-Info.plist
+END
+ZXMainViewController.xib
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/src/Badges/!svn/ver/102/Solution/WirelessScanner/zxing-2.0/iphone/Barcodes/ZXMainViewController.xib
+END
+Barcodes_Prefix.pch
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/src/Badges/!svn/ver/102/Solution/WirelessScanner/zxing-2.0/iphone/Barcodes/Barcodes_Prefix.pch
+END
+beep-beep.aiff
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/src/Badges/!svn/ver/102/Solution/WirelessScanner/zxing-2.0/iphone/Barcodes/beep-beep.aiff
+END
+scans.db
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/src/Badges/!svn/ver/102/Solution/WirelessScanner/zxing-2.0/iphone/Barcodes/scans.db
+END
+main.mm
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/src/Badges/!svn/ver/102/Solution/WirelessScanner/zxing-2.0/iphone/Barcodes/main.mm
+END
+MainWindow.xib
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/src/Badges/!svn/ver/102/Solution/WirelessScanner/zxing-2.0/iphone/Barcodes/MainWindow.xib
+END

@@ -1,0 +1,125 @@
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/src/Badges/!svn/ver/102/Solution/WirelessScanner/zxing-2.0/actionscript/core/src/com/google/zxing/qrcode/decoder
+END
+DecodedBitStreamParser.as
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/src/Badges/!svn/ver/102/Solution/WirelessScanner/zxing-2.0/actionscript/core/src/com/google/zxing/qrcode/decoder/DecodedBitStreamParser.as
+END
+DataMaskBase.as
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/src/Badges/!svn/ver/102/Solution/WirelessScanner/zxing-2.0/actionscript/core/src/com/google/zxing/qrcode/decoder/DataMaskBase.as
+END
+BitMatrixParser.as
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/src/Badges/!svn/ver/102/Solution/WirelessScanner/zxing-2.0/actionscript/core/src/com/google/zxing/qrcode/decoder/BitMatrixParser.as
+END
+DataBlock.as
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/src/Badges/!svn/ver/102/Solution/WirelessScanner/zxing-2.0/actionscript/core/src/com/google/zxing/qrcode/decoder/DataBlock.as
+END
+Mode.as
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/src/Badges/!svn/ver/102/Solution/WirelessScanner/zxing-2.0/actionscript/core/src/com/google/zxing/qrcode/decoder/Mode.as
+END
+DataMask.as
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/src/Badges/!svn/ver/102/Solution/WirelessScanner/zxing-2.0/actionscript/core/src/com/google/zxing/qrcode/decoder/DataMask.as
+END
+ECBlocks.as
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/src/Badges/!svn/ver/102/Solution/WirelessScanner/zxing-2.0/actionscript/core/src/com/google/zxing/qrcode/decoder/ECBlocks.as
+END
+Version.as
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/src/Badges/!svn/ver/102/Solution/WirelessScanner/zxing-2.0/actionscript/core/src/com/google/zxing/qrcode/decoder/Version.as
+END
+ECB.as
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/src/Badges/!svn/ver/102/Solution/WirelessScanner/zxing-2.0/actionscript/core/src/com/google/zxing/qrcode/decoder/ECB.as
+END
+FormatInformation.as
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/src/Badges/!svn/ver/102/Solution/WirelessScanner/zxing-2.0/actionscript/core/src/com/google/zxing/qrcode/decoder/FormatInformation.as
+END
+Decoder.as
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/src/Badges/!svn/ver/102/Solution/WirelessScanner/zxing-2.0/actionscript/core/src/com/google/zxing/qrcode/decoder/Decoder.as
+END
+DataMask000.as
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/src/Badges/!svn/ver/102/Solution/WirelessScanner/zxing-2.0/actionscript/core/src/com/google/zxing/qrcode/decoder/DataMask000.as
+END
+DataMask100.as
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/src/Badges/!svn/ver/102/Solution/WirelessScanner/zxing-2.0/actionscript/core/src/com/google/zxing/qrcode/decoder/DataMask100.as
+END
+DataMask010.as
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/src/Badges/!svn/ver/102/Solution/WirelessScanner/zxing-2.0/actionscript/core/src/com/google/zxing/qrcode/decoder/DataMask010.as
+END
+DataMask001.as
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/src/Badges/!svn/ver/102/Solution/WirelessScanner/zxing-2.0/actionscript/core/src/com/google/zxing/qrcode/decoder/DataMask001.as
+END
+DataMask110.as
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/src/Badges/!svn/ver/102/Solution/WirelessScanner/zxing-2.0/actionscript/core/src/com/google/zxing/qrcode/decoder/DataMask110.as
+END
+DataMask101.as
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/src/Badges/!svn/ver/102/Solution/WirelessScanner/zxing-2.0/actionscript/core/src/com/google/zxing/qrcode/decoder/DataMask101.as
+END
+DataMask011.as
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/src/Badges/!svn/ver/102/Solution/WirelessScanner/zxing-2.0/actionscript/core/src/com/google/zxing/qrcode/decoder/DataMask011.as
+END
+DataMask111.as
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/src/Badges/!svn/ver/102/Solution/WirelessScanner/zxing-2.0/actionscript/core/src/com/google/zxing/qrcode/decoder/DataMask111.as
+END
+ErrorCorrectionLevel.as
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/src/Badges/!svn/ver/102/Solution/WirelessScanner/zxing-2.0/actionscript/core/src/com/google/zxing/qrcode/decoder/ErrorCorrectionLevel.as
+END

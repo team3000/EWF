@@ -1,0 +1,251 @@
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/src/Badges/!svn/ver/102/Solution/WirelessScanner/zxing-2.0/symbian/QZXing/source/zxing/common
+END
+Point.h
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/src/Badges/!svn/ver/102/Solution/WirelessScanner/zxing-2.0/symbian/QZXing/source/zxing/common/Point.h
+END
+BitSource.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/src/Badges/!svn/ver/102/Solution/WirelessScanner/zxing-2.0/symbian/QZXing/source/zxing/common/BitSource.cpp
+END
+GreyscaleLuminanceSource.h
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/src/Badges/!svn/ver/102/Solution/WirelessScanner/zxing-2.0/symbian/QZXing/source/zxing/common/GreyscaleLuminanceSource.h
+END
+IllegalArgumentException.h
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/src/Badges/!svn/ver/102/Solution/WirelessScanner/zxing-2.0/symbian/QZXing/source/zxing/common/IllegalArgumentException.h
+END
+Counted.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/src/Badges/!svn/ver/102/Solution/WirelessScanner/zxing-2.0/symbian/QZXing/source/zxing/common/Counted.cpp
+END
+EdgeDetector.h
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/src/Badges/!svn/ver/102/Solution/WirelessScanner/zxing-2.0/symbian/QZXing/source/zxing/common/EdgeDetector.h
+END
+ECI.h
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/src/Badges/!svn/ver/102/Solution/WirelessScanner/zxing-2.0/symbian/QZXing/source/zxing/common/ECI.h
+END
+BitMatrix.h
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/src/Badges/!svn/ver/102/Solution/WirelessScanner/zxing-2.0/symbian/QZXing/source/zxing/common/BitMatrix.h
+END
+DetectorResult.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/src/Badges/!svn/ver/102/Solution/WirelessScanner/zxing-2.0/symbian/QZXing/source/zxing/common/DetectorResult.cpp
+END
+GridSampler.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/src/Badges/!svn/ver/102/Solution/WirelessScanner/zxing-2.0/symbian/QZXing/source/zxing/common/GridSampler.cpp
+END
+DecoderResult.h
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/src/Badges/!svn/ver/102/Solution/WirelessScanner/zxing-2.0/symbian/QZXing/source/zxing/common/DecoderResult.h
+END
+Str.h
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/src/Badges/!svn/ver/102/Solution/WirelessScanner/zxing-2.0/symbian/QZXing/source/zxing/common/Str.h
+END
+GreyscaleRotatedLuminanceSource.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/src/Badges/!svn/ver/102/Solution/WirelessScanner/zxing-2.0/symbian/QZXing/source/zxing/common/GreyscaleRotatedLuminanceSource.cpp
+END
+Array.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/src/Badges/!svn/ver/102/Solution/WirelessScanner/zxing-2.0/symbian/QZXing/source/zxing/common/Array.cpp
+END
+LocalBlockBinarizer.h
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/src/Badges/!svn/ver/102/Solution/WirelessScanner/zxing-2.0/symbian/QZXing/source/zxing/common/LocalBlockBinarizer.h
+END
+BitArray.h
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/src/Badges/!svn/ver/102/Solution/WirelessScanner/zxing-2.0/symbian/QZXing/source/zxing/common/BitArray.h
+END
+GlobalHistogramBinarizer.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/src/Badges/!svn/ver/102/Solution/WirelessScanner/zxing-2.0/symbian/QZXing/source/zxing/common/GlobalHistogramBinarizer.cpp
+END
+PerspectiveTransform.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/src/Badges/!svn/ver/102/Solution/WirelessScanner/zxing-2.0/symbian/QZXing/source/zxing/common/PerspectiveTransform.cpp
+END
+HybridBinarizer.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/src/Badges/!svn/ver/102/Solution/WirelessScanner/zxing-2.0/symbian/QZXing/source/zxing/common/HybridBinarizer.cpp
+END
+IllegalArgumentException.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/src/Badges/!svn/ver/102/Solution/WirelessScanner/zxing-2.0/symbian/QZXing/source/zxing/common/IllegalArgumentException.cpp
+END
+GreyscaleLuminanceSource.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/src/Badges/!svn/ver/102/Solution/WirelessScanner/zxing-2.0/symbian/QZXing/source/zxing/common/GreyscaleLuminanceSource.cpp
+END
+StringUtils.h
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/src/Badges/!svn/ver/102/Solution/WirelessScanner/zxing-2.0/symbian/QZXing/source/zxing/common/StringUtils.h
+END
+EdgeDetector.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/src/Badges/!svn/ver/102/Solution/WirelessScanner/zxing-2.0/symbian/QZXing/source/zxing/common/EdgeDetector.cpp
+END
+CharacterSetECI.h
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/src/Badges/!svn/ver/102/Solution/WirelessScanner/zxing-2.0/symbian/QZXing/source/zxing/common/CharacterSetECI.h
+END
+ECI.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/src/Badges/!svn/ver/102/Solution/WirelessScanner/zxing-2.0/symbian/QZXing/source/zxing/common/ECI.cpp
+END
+BitMatrix.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/src/Badges/!svn/ver/102/Solution/WirelessScanner/zxing-2.0/symbian/QZXing/source/zxing/common/BitMatrix.cpp
+END
+BitSource.h
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/src/Badges/!svn/ver/102/Solution/WirelessScanner/zxing-2.0/symbian/QZXing/source/zxing/common/BitSource.h
+END
+DecoderResult.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/src/Badges/!svn/ver/102/Solution/WirelessScanner/zxing-2.0/symbian/QZXing/source/zxing/common/DecoderResult.cpp
+END
+Counted.h
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/src/Badges/!svn/ver/102/Solution/WirelessScanner/zxing-2.0/symbian/QZXing/source/zxing/common/Counted.h
+END
+Str.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/src/Badges/!svn/ver/102/Solution/WirelessScanner/zxing-2.0/symbian/QZXing/source/zxing/common/Str.cpp
+END
+LocalBlockBinarizer.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/src/Badges/!svn/ver/102/Solution/WirelessScanner/zxing-2.0/symbian/QZXing/source/zxing/common/LocalBlockBinarizer.cpp
+END
+DetectorResult.h
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/src/Badges/!svn/ver/102/Solution/WirelessScanner/zxing-2.0/symbian/QZXing/source/zxing/common/DetectorResult.h
+END
+BitArray.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/src/Badges/!svn/ver/102/Solution/WirelessScanner/zxing-2.0/symbian/QZXing/source/zxing/common/BitArray.cpp
+END
+GridSampler.h
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/src/Badges/!svn/ver/102/Solution/WirelessScanner/zxing-2.0/symbian/QZXing/source/zxing/common/GridSampler.h
+END
+GreyscaleRotatedLuminanceSource.h
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/src/Badges/!svn/ver/102/Solution/WirelessScanner/zxing-2.0/symbian/QZXing/source/zxing/common/GreyscaleRotatedLuminanceSource.h
+END
+Array.h
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/src/Badges/!svn/ver/102/Solution/WirelessScanner/zxing-2.0/symbian/QZXing/source/zxing/common/Array.h
+END
+StringUtils.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/src/Badges/!svn/ver/102/Solution/WirelessScanner/zxing-2.0/symbian/QZXing/source/zxing/common/StringUtils.cpp
+END
+GlobalHistogramBinarizer.h
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/src/Badges/!svn/ver/102/Solution/WirelessScanner/zxing-2.0/symbian/QZXing/source/zxing/common/GlobalHistogramBinarizer.h
+END
+CharacterSetECI.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/src/Badges/!svn/ver/102/Solution/WirelessScanner/zxing-2.0/symbian/QZXing/source/zxing/common/CharacterSetECI.cpp
+END
+PerspectiveTransform.h
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/src/Badges/!svn/ver/102/Solution/WirelessScanner/zxing-2.0/symbian/QZXing/source/zxing/common/PerspectiveTransform.h
+END
+HybridBinarizer.h
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/src/Badges/!svn/ver/102/Solution/WirelessScanner/zxing-2.0/symbian/QZXing/source/zxing/common/HybridBinarizer.h
+END

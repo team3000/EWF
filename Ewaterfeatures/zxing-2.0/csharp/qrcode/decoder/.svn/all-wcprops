@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/src/Badges/!svn/ver/102/Solution/WirelessScanner/zxing-2.0/csharp/qrcode/decoder
+END
+FormatInformation.cs
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/src/Badges/!svn/ver/102/Solution/WirelessScanner/zxing-2.0/csharp/qrcode/decoder/FormatInformation.cs
+END
+DecodedBitStreamParser.cs
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/src/Badges/!svn/ver/102/Solution/WirelessScanner/zxing-2.0/csharp/qrcode/decoder/DecodedBitStreamParser.cs
+END
+BitMatrixParser.cs
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/src/Badges/!svn/ver/102/Solution/WirelessScanner/zxing-2.0/csharp/qrcode/decoder/BitMatrixParser.cs
+END
+DataBlock.cs
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/src/Badges/!svn/ver/102/Solution/WirelessScanner/zxing-2.0/csharp/qrcode/decoder/DataBlock.cs
+END
+Mode.cs
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/src/Badges/!svn/ver/102/Solution/WirelessScanner/zxing-2.0/csharp/qrcode/decoder/Mode.cs
+END
+DataMask.cs
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/src/Badges/!svn/ver/102/Solution/WirelessScanner/zxing-2.0/csharp/qrcode/decoder/DataMask.cs
+END
+Decoder.cs
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/src/Badges/!svn/ver/102/Solution/WirelessScanner/zxing-2.0/csharp/qrcode/decoder/Decoder.cs
+END
+Version.cs
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/src/Badges/!svn/ver/102/Solution/WirelessScanner/zxing-2.0/csharp/qrcode/decoder/Version.cs
+END
+ErrorCorrectionLevel.cs
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/src/Badges/!svn/ver/102/Solution/WirelessScanner/zxing-2.0/csharp/qrcode/decoder/ErrorCorrectionLevel.cs
+END

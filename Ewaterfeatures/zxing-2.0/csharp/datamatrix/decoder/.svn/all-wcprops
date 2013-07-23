@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/src/Badges/!svn/ver/102/Solution/WirelessScanner/zxing-2.0/csharp/datamatrix/decoder
+END
+DecodedBitStreamParser.cs
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/src/Badges/!svn/ver/102/Solution/WirelessScanner/zxing-2.0/csharp/datamatrix/decoder/DecodedBitStreamParser.cs
+END
+BitMatrixParser.cs
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/src/Badges/!svn/ver/102/Solution/WirelessScanner/zxing-2.0/csharp/datamatrix/decoder/BitMatrixParser.cs
+END
+DataBlock.cs
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/src/Badges/!svn/ver/102/Solution/WirelessScanner/zxing-2.0/csharp/datamatrix/decoder/DataBlock.cs
+END
+Decoder.cs
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/src/Badges/!svn/ver/102/Solution/WirelessScanner/zxing-2.0/csharp/datamatrix/decoder/Decoder.cs
+END
+Version.cs
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/src/Badges/!svn/ver/102/Solution/WirelessScanner/zxing-2.0/csharp/datamatrix/decoder/Version.cs
+END

@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/src/Badges/!svn/ver/102/Solution/WirelessScanner/zxing-2.0/core/build/com/google/zxing/oned/rss
+END
+Pair.class
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/src/Badges/!svn/ver/102/Solution/WirelessScanner/zxing-2.0/core/build/com/google/zxing/oned/rss/Pair.class
+END
+AbstractRSSReader.class
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/src/Badges/!svn/ver/102/Solution/WirelessScanner/zxing-2.0/core/build/com/google/zxing/oned/rss/AbstractRSSReader.class
+END
+RSS14Reader.class
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/src/Badges/!svn/ver/102/Solution/WirelessScanner/zxing-2.0/core/build/com/google/zxing/oned/rss/RSS14Reader.class
+END
+FinderPattern.class
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/src/Badges/!svn/ver/102/Solution/WirelessScanner/zxing-2.0/core/build/com/google/zxing/oned/rss/FinderPattern.class
+END
+DataCharacter.class
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/src/Badges/!svn/ver/102/Solution/WirelessScanner/zxing-2.0/core/build/com/google/zxing/oned/rss/DataCharacter.class
+END
+RSSUtils.class
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/src/Badges/!svn/ver/102/Solution/WirelessScanner/zxing-2.0/core/build/com/google/zxing/oned/rss/RSSUtils.class
+END

@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/src/Badges/!svn/ver/102/Solution/WirelessScanner/zxing-2.0/core/build/com/google/zxing/datamatrix/decoder
+END
+DecodedBitStreamParser.class
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/src/Badges/!svn/ver/102/Solution/WirelessScanner/zxing-2.0/core/build/com/google/zxing/datamatrix/decoder/DecodedBitStreamParser.class
+END
+Version$ECBlocks.class
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/src/Badges/!svn/ver/102/Solution/WirelessScanner/zxing-2.0/core/build/com/google/zxing/datamatrix/decoder/Version$ECBlocks.class
+END
+BitMatrixParser.class
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/src/Badges/!svn/ver/102/Solution/WirelessScanner/zxing-2.0/core/build/com/google/zxing/datamatrix/decoder/BitMatrixParser.class
+END
+Version$ECB.class
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/src/Badges/!svn/ver/102/Solution/WirelessScanner/zxing-2.0/core/build/com/google/zxing/datamatrix/decoder/Version$ECB.class
+END
+DataBlock.class
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/src/Badges/!svn/ver/102/Solution/WirelessScanner/zxing-2.0/core/build/com/google/zxing/datamatrix/decoder/DataBlock.class
+END
+DecodedBitStreamParser$1.class
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/src/Badges/!svn/ver/102/Solution/WirelessScanner/zxing-2.0/core/build/com/google/zxing/datamatrix/decoder/DecodedBitStreamParser$1.class
+END
+Decoder.class
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/src/Badges/!svn/ver/102/Solution/WirelessScanner/zxing-2.0/core/build/com/google/zxing/datamatrix/decoder/Decoder.class
+END
+Version.class
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/src/Badges/!svn/ver/102/Solution/WirelessScanner/zxing-2.0/core/build/com/google/zxing/datamatrix/decoder/Version.class
+END
+DecodedBitStreamParser$Mode.class
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/src/Badges/!svn/ver/102/Solution/WirelessScanner/zxing-2.0/core/build/com/google/zxing/datamatrix/decoder/DecodedBitStreamParser$Mode.class
+END
+Version$1.class
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/src/Badges/!svn/ver/102/Solution/WirelessScanner/zxing-2.0/core/build/com/google/zxing/datamatrix/decoder/Version$1.class
+END

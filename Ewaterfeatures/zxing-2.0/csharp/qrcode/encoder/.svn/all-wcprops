@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/src/Badges/!svn/ver/102/Solution/WirelessScanner/zxing-2.0/csharp/qrcode/encoder
+END
+QRCode.cs
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/src/Badges/!svn/ver/102/Solution/WirelessScanner/zxing-2.0/csharp/qrcode/encoder/QRCode.cs
+END
+Encoder.cs
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/src/Badges/!svn/ver/102/Solution/WirelessScanner/zxing-2.0/csharp/qrcode/encoder/Encoder.cs
+END
+BitVector.cs
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/src/Badges/!svn/ver/102/Solution/WirelessScanner/zxing-2.0/csharp/qrcode/encoder/BitVector.cs
+END
+MatrixUtil.cs
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/src/Badges/!svn/ver/102/Solution/WirelessScanner/zxing-2.0/csharp/qrcode/encoder/MatrixUtil.cs
+END
+BlockPair.cs
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/src/Badges/!svn/ver/102/Solution/WirelessScanner/zxing-2.0/csharp/qrcode/encoder/BlockPair.cs
+END
+MaskUtil.cs
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/src/Badges/!svn/ver/102/Solution/WirelessScanner/zxing-2.0/csharp/qrcode/encoder/MaskUtil.cs
+END

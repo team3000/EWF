@@ -1,0 +1,89 @@
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/src/Badges/!svn/ver/102/Solution/WirelessScanner/zxing-2.0/symbian/ZXingBarcodeReader/group/zxing/qrcode/detector
+END
+Detector.h
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/src/Badges/!svn/ver/102/Solution/WirelessScanner/zxing-2.0/symbian/ZXingBarcodeReader/group/zxing/qrcode/detector/Detector.h
+END
+AlignmentPattern.h
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/src/Badges/!svn/ver/102/Solution/WirelessScanner/zxing-2.0/symbian/ZXingBarcodeReader/group/zxing/qrcode/detector/AlignmentPattern.h
+END
+FinderPatternInfo.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/src/Badges/!svn/ver/102/Solution/WirelessScanner/zxing-2.0/symbian/ZXingBarcodeReader/group/zxing/qrcode/detector/FinderPatternInfo.cpp
+END
+QREdgeDetector.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/src/Badges/!svn/ver/102/Solution/WirelessScanner/zxing-2.0/symbian/ZXingBarcodeReader/group/zxing/qrcode/detector/QREdgeDetector.cpp
+END
+FinderPatternFinder.h
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/src/Badges/!svn/ver/102/Solution/WirelessScanner/zxing-2.0/symbian/ZXingBarcodeReader/group/zxing/qrcode/detector/FinderPatternFinder.h
+END
+AlignmentPatternFinder.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/src/Badges/!svn/ver/102/Solution/WirelessScanner/zxing-2.0/symbian/ZXingBarcodeReader/group/zxing/qrcode/detector/AlignmentPatternFinder.cpp
+END
+FinderPattern.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/src/Badges/!svn/ver/102/Solution/WirelessScanner/zxing-2.0/symbian/ZXingBarcodeReader/group/zxing/qrcode/detector/FinderPattern.cpp
+END
+FinderPatternInfo.h
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/src/Badges/!svn/ver/102/Solution/WirelessScanner/zxing-2.0/symbian/ZXingBarcodeReader/group/zxing/qrcode/detector/FinderPatternInfo.h
+END
+QREdgeDetector.h
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/src/Badges/!svn/ver/102/Solution/WirelessScanner/zxing-2.0/symbian/ZXingBarcodeReader/group/zxing/qrcode/detector/QREdgeDetector.h
+END
+AlignmentPatternFinder.h
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/src/Badges/!svn/ver/102/Solution/WirelessScanner/zxing-2.0/symbian/ZXingBarcodeReader/group/zxing/qrcode/detector/AlignmentPatternFinder.h
+END
+Detector.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/src/Badges/!svn/ver/102/Solution/WirelessScanner/zxing-2.0/symbian/ZXingBarcodeReader/group/zxing/qrcode/detector/Detector.cpp
+END
+FinderPattern.h
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/src/Badges/!svn/ver/102/Solution/WirelessScanner/zxing-2.0/symbian/ZXingBarcodeReader/group/zxing/qrcode/detector/FinderPattern.h
+END
+AlignmentPattern.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/src/Badges/!svn/ver/102/Solution/WirelessScanner/zxing-2.0/symbian/ZXingBarcodeReader/group/zxing/qrcode/detector/AlignmentPattern.cpp
+END
+FinderPatternFinder.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/src/Badges/!svn/ver/102/Solution/WirelessScanner/zxing-2.0/symbian/ZXingBarcodeReader/group/zxing/qrcode/detector/FinderPatternFinder.cpp
+END

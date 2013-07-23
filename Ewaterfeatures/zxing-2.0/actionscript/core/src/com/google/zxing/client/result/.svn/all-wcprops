@@ -1,0 +1,173 @@
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/src/Badges/!svn/ver/102/Solution/WirelessScanner/zxing-2.0/actionscript/core/src/com/google/zxing/client/result
+END
+ParsedResult.as
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/src/Badges/!svn/ver/102/Solution/WirelessScanner/zxing-2.0/actionscript/core/src/com/google/zxing/client/result/ParsedResult.as
+END
+AddressBookDocomoResultParser.as
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/src/Badges/!svn/ver/102/Solution/WirelessScanner/zxing-2.0/actionscript/core/src/com/google/zxing/client/result/AddressBookDocomoResultParser.as
+END
+ProductParsedResult.as
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/src/Badges/!svn/ver/102/Solution/WirelessScanner/zxing-2.0/actionscript/core/src/com/google/zxing/client/result/ProductParsedResult.as
+END
+ParsedResultType.as
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/src/Badges/!svn/ver/102/Solution/WirelessScanner/zxing-2.0/actionscript/core/src/com/google/zxing/client/result/ParsedResultType.as
+END
+AbstractDoCoMoResultParser.as
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/src/Badges/!svn/ver/102/Solution/WirelessScanner/zxing-2.0/actionscript/core/src/com/google/zxing/client/result/AbstractDoCoMoResultParser.as
+END
+URLTOResultParser.as
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/src/Badges/!svn/ver/102/Solution/WirelessScanner/zxing-2.0/actionscript/core/src/com/google/zxing/client/result/URLTOResultParser.as
+END
+BookmarkDoCoMoResultParser.as
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/src/Badges/!svn/ver/102/Solution/WirelessScanner/zxing-2.0/actionscript/core/src/com/google/zxing/client/result/BookmarkDoCoMoResultParser.as
+END
+TelParsedResult.as
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/src/Badges/!svn/ver/102/Solution/WirelessScanner/zxing-2.0/actionscript/core/src/com/google/zxing/client/result/TelParsedResult.as
+END
+TextParsedResult.as
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/src/Badges/!svn/ver/102/Solution/WirelessScanner/zxing-2.0/actionscript/core/src/com/google/zxing/client/result/TextParsedResult.as
+END
+VEventResultParser.as
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/src/Badges/!svn/ver/102/Solution/WirelessScanner/zxing-2.0/actionscript/core/src/com/google/zxing/client/result/VEventResultParser.as
+END
+GeoResultParser.as
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/src/Badges/!svn/ver/102/Solution/WirelessScanner/zxing-2.0/actionscript/core/src/com/google/zxing/client/result/GeoResultParser.as
+END
+ISBNParsedResult.as
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/src/Badges/!svn/ver/102/Solution/WirelessScanner/zxing-2.0/actionscript/core/src/com/google/zxing/client/result/ISBNParsedResult.as
+END
+BizcardResultParser.as
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/src/Badges/!svn/ver/102/Solution/WirelessScanner/zxing-2.0/actionscript/core/src/com/google/zxing/client/result/BizcardResultParser.as
+END
+EmailAddressParsedResult.as
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/src/Badges/!svn/ver/102/Solution/WirelessScanner/zxing-2.0/actionscript/core/src/com/google/zxing/client/result/EmailAddressParsedResult.as
+END
+ResultParser.as
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/src/Badges/!svn/ver/102/Solution/WirelessScanner/zxing-2.0/actionscript/core/src/com/google/zxing/client/result/ResultParser.as
+END
+SMSMMSResultParser.as
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/src/Badges/!svn/ver/102/Solution/WirelessScanner/zxing-2.0/actionscript/core/src/com/google/zxing/client/result/SMSMMSResultParser.as
+END
+ProductResultParser.as
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/src/Badges/!svn/ver/102/Solution/WirelessScanner/zxing-2.0/actionscript/core/src/com/google/zxing/client/result/ProductResultParser.as
+END
+URIParsedResult.as
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/src/Badges/!svn/ver/102/Solution/WirelessScanner/zxing-2.0/actionscript/core/src/com/google/zxing/client/result/URIParsedResult.as
+END
+AddressBookParsedResult.as
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/src/Badges/!svn/ver/102/Solution/WirelessScanner/zxing-2.0/actionscript/core/src/com/google/zxing/client/result/AddressBookParsedResult.as
+END
+SMSParsedResult.as
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/src/Badges/!svn/ver/102/Solution/WirelessScanner/zxing-2.0/actionscript/core/src/com/google/zxing/client/result/SMSParsedResult.as
+END
+TelResultParser.as
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/src/Badges/!svn/ver/102/Solution/WirelessScanner/zxing-2.0/actionscript/core/src/com/google/zxing/client/result/TelResultParser.as
+END
+EmailDoCoMoResultParser.as
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/src/Badges/!svn/ver/102/Solution/WirelessScanner/zxing-2.0/actionscript/core/src/com/google/zxing/client/result/EmailDoCoMoResultParser.as
+END
+ISBNResultParser.as
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/src/Badges/!svn/ver/102/Solution/WirelessScanner/zxing-2.0/actionscript/core/src/com/google/zxing/client/result/ISBNResultParser.as
+END
+CalendarParsedResult.as
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/src/Badges/!svn/ver/102/Solution/WirelessScanner/zxing-2.0/actionscript/core/src/com/google/zxing/client/result/CalendarParsedResult.as
+END
+GeoParsedResult.as
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/src/Badges/!svn/ver/102/Solution/WirelessScanner/zxing-2.0/actionscript/core/src/com/google/zxing/client/result/GeoParsedResult.as
+END
+EmailAddressResultParser.as
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/src/Badges/!svn/ver/102/Solution/WirelessScanner/zxing-2.0/actionscript/core/src/com/google/zxing/client/result/EmailAddressResultParser.as
+END
+URIResultParser.as
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/src/Badges/!svn/ver/102/Solution/WirelessScanner/zxing-2.0/actionscript/core/src/com/google/zxing/client/result/URIResultParser.as
+END
+VCardResultParser.as
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/src/Badges/!svn/ver/102/Solution/WirelessScanner/zxing-2.0/actionscript/core/src/com/google/zxing/client/result/VCardResultParser.as
+END

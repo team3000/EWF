@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/src/Badges/!svn/ver/102/Solution/WirelessScanner/zxing-2.0/symbian/QZXing/examples/QMLBarcodeScanner/qml/QMLBarcodeScanner
+END
+CaptureControls.qml
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/src/Badges/!svn/ver/102/Solution/WirelessScanner/zxing-2.0/symbian/QZXing/examples/QMLBarcodeScanner/qml/QMLBarcodeScanner/CaptureControls.qml
+END
+FlickableList.qml
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/src/Badges/!svn/ver/102/Solution/WirelessScanner/zxing-2.0/symbian/QZXing/examples/QMLBarcodeScanner/qml/QMLBarcodeScanner/FlickableList.qml
+END
+CameraPropertyButton.qml
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/src/Badges/!svn/ver/102/Solution/WirelessScanner/zxing-2.0/symbian/QZXing/examples/QMLBarcodeScanner/qml/QMLBarcodeScanner/CameraPropertyButton.qml
+END
+declarative-camera.qml
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/src/Badges/!svn/ver/102/Solution/WirelessScanner/zxing-2.0/symbian/QZXing/examples/QMLBarcodeScanner/qml/QMLBarcodeScanner/declarative-camera.qml
+END
+FocusButton.qml
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/src/Badges/!svn/ver/102/Solution/WirelessScanner/zxing-2.0/symbian/QZXing/examples/QMLBarcodeScanner/qml/QMLBarcodeScanner/FocusButton.qml
+END
+CameraPropertyPopup.qml
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/src/Badges/!svn/ver/102/Solution/WirelessScanner/zxing-2.0/symbian/QZXing/examples/QMLBarcodeScanner/qml/QMLBarcodeScanner/CameraPropertyPopup.qml
+END
+CameraButton.qml
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/src/Badges/!svn/ver/102/Solution/WirelessScanner/zxing-2.0/symbian/QZXing/examples/QMLBarcodeScanner/qml/QMLBarcodeScanner/CameraButton.qml
+END
+ZoomControl.qml
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/src/Badges/!svn/ver/102/Solution/WirelessScanner/zxing-2.0/symbian/QZXing/examples/QMLBarcodeScanner/qml/QMLBarcodeScanner/ZoomControl.qml
+END
+ExposureCompensationButton.qml
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/src/Badges/!svn/ver/102/Solution/WirelessScanner/zxing-2.0/symbian/QZXing/examples/QMLBarcodeScanner/qml/QMLBarcodeScanner/ExposureCompensationButton.qml
+END

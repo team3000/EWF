@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/src/Badges/!svn/ver/102/Solution/WirelessScanner/zxing-2.0/symbian/ZXingBarcodeReader/group/zxing/datamatrix/detector
+END
+Detector.h
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/src/Badges/!svn/ver/102/Solution/WirelessScanner/zxing-2.0/symbian/ZXingBarcodeReader/group/zxing/datamatrix/detector/Detector.h
+END
+CornerPoint.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/src/Badges/!svn/ver/102/Solution/WirelessScanner/zxing-2.0/symbian/ZXingBarcodeReader/group/zxing/datamatrix/detector/CornerPoint.cpp
+END
+MonochromeRectangleDetector.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/src/Badges/!svn/ver/102/Solution/WirelessScanner/zxing-2.0/symbian/ZXingBarcodeReader/group/zxing/datamatrix/detector/MonochromeRectangleDetector.cpp
+END
+CornerPoint.h
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/src/Badges/!svn/ver/102/Solution/WirelessScanner/zxing-2.0/symbian/ZXingBarcodeReader/group/zxing/datamatrix/detector/CornerPoint.h
+END
+Detector.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/src/Badges/!svn/ver/102/Solution/WirelessScanner/zxing-2.0/symbian/ZXingBarcodeReader/group/zxing/datamatrix/detector/Detector.cpp
+END
+MonochromeRectangleDetector.h
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/src/Badges/!svn/ver/102/Solution/WirelessScanner/zxing-2.0/symbian/ZXingBarcodeReader/group/zxing/datamatrix/detector/MonochromeRectangleDetector.h
+END

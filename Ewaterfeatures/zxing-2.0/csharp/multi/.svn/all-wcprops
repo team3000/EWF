@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/src/Badges/!svn/ver/102/Solution/WirelessScanner/zxing-2.0/csharp/multi
+END
+GenericMultipleBarcodeReader.cs
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/src/Badges/!svn/ver/102/Solution/WirelessScanner/zxing-2.0/csharp/multi/GenericMultipleBarcodeReader.cs
+END
+ByQuadrantReader.cs
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/src/Badges/!svn/ver/102/Solution/WirelessScanner/zxing-2.0/csharp/multi/ByQuadrantReader.cs
+END
+MultipleBarcodeReader.cs
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/src/Badges/!svn/ver/102/Solution/WirelessScanner/zxing-2.0/csharp/multi/MultipleBarcodeReader.cs
+END

@@ -1,0 +1,278 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<model name="" userDefinedModelVersionIdentifier="" type="com.apple.IDECoreDataModeler.DataModel" documentVersion="1.0" lastSavedToolsVersion="2057" systemVersion="12D78" minimumToolsVersion="Xcode 4.3" macOSVersion="Automatic" iOSVersion="Automatic">
+    <entity name="Address" representedClassName="Address" syncable="YES">
+        <attribute name="address1" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="address2" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="alias" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="city" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="compagny" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="date_add" optional="YES" attributeType="Date" syncable="YES"/>
+        <attribute name="date_upd" optional="YES" attributeType="Date" syncable="YES"/>
+        <attribute name="deleted" optional="YES" attributeType="Boolean" syncable="YES"/>
+        <attribute name="firstname" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="id_address" optional="YES" attributeType="Integer 64" defaultValueString="0" syncable="YES"/>
+        <attribute name="id_country" optional="YES" attributeType="Integer 64" defaultValueString="0" syncable="YES"/>
+        <attribute name="id_customer" optional="YES" attributeType="Integer 64" defaultValueString="0" syncable="YES"/>
+        <attribute name="id_state" optional="YES" attributeType="Integer 64" defaultValueString="0" syncable="YES"/>
+        <attribute name="lastname" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="other" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="phone" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="phone_mobile" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="postcode" optional="YES" attributeType="String" syncable="YES"/>
+        <relationship name="country" optional="YES" maxCount="1" deletionRule="Nullify" destinationEntity="Country" syncable="YES"/>
+        <relationship name="countryState" optional="YES" maxCount="1" deletionRule="Nullify" destinationEntity="CountryState" syncable="YES"/>
+        <relationship name="customer" optional="YES" maxCount="1" deletionRule="Nullify" destinationEntity="Customer" syncable="YES"/>
+    </entity>
+    <entity name="Carrier" representedClassName="Carrier" syncable="YES">
+        <attribute name="active" optional="YES" attributeType="Boolean" syncable="YES"/>
+        <attribute name="delay" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="id_carrier" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="name" optional="YES" attributeType="String" syncable="YES"/>
+    </entity>
+    <entity name="Cart" representedClassName="Cart" syncable="YES">
+        <attribute name="allow_seperated_package" optional="YES" attributeType="Boolean" syncable="YES"/>
+        <attribute name="date_add" optional="YES" attributeType="Date" syncable="YES"/>
+        <attribute name="date_upd" optional="YES" attributeType="Date" syncable="YES"/>
+        <attribute name="gift" optional="YES" attributeType="Boolean" syncable="YES"/>
+        <attribute name="id_address_delivery" optional="YES" attributeType="Integer 64" defaultValueString="0" syncable="YES"/>
+        <attribute name="id_address_invoice" optional="YES" attributeType="Integer 64" defaultValueString="0" syncable="YES"/>
+        <attribute name="id_carrier" optional="YES" attributeType="Integer 64" defaultValueString="0" syncable="YES"/>
+        <attribute name="id_cart" optional="YES" attributeType="Integer 64" defaultValueString="0" syncable="YES"/>
+        <attribute name="id_currency" optional="YES" attributeType="Integer 64" defaultValueString="0" syncable="YES"/>
+        <attribute name="id_customer" optional="YES" attributeType="Integer 64" defaultValueString="0" syncable="YES"/>
+        <attribute name="id_guest" optional="YES" attributeType="Integer 64" defaultValueString="0" syncable="YES"/>
+        <attribute name="id_shop" optional="YES" attributeType="Integer 64" defaultValueString="0" syncable="YES"/>
+        <attribute name="id_shop_group" optional="YES" attributeType="Integer 64" defaultValueString="0" syncable="YES"/>
+        <attribute name="secure_key" optional="YES" attributeType="String" syncable="YES"/>
+        <relationship name="addressDelivery" optional="YES" maxCount="1" deletionRule="Nullify" destinationEntity="Address" syncable="YES"/>
+        <relationship name="addressInvoice" optional="YES" maxCount="1" deletionRule="Nullify" destinationEntity="Address" syncable="YES"/>
+        <relationship name="cartRow" optional="YES" toMany="YES" deletionRule="Nullify" destinationEntity="CartRow" syncable="YES"/>
+        <relationship name="customer" optional="YES" maxCount="1" deletionRule="Nullify" destinationEntity="Customer" syncable="YES"/>
+    </entity>
+    <entity name="CartRow" representedClassName="CartRow" syncable="YES">
+        <attribute name="id_product" optional="YES" attributeType="Integer 64" defaultValueString="0" syncable="YES"/>
+        <attribute name="id_product_attribute" optional="YES" attributeType="Integer 64" defaultValueString="0" syncable="YES"/>
+        <attribute name="quantity" optional="YES" attributeType="Integer 64" defaultValueString="0" syncable="YES"/>
+        <relationship name="product" optional="YES" maxCount="1" deletionRule="Nullify" destinationEntity="Product" syncable="YES"/>
+    </entity>
+    <entity name="Category" representedClassName="Category" syncable="YES">
+        <attribute name="active" optional="YES" attributeType="Boolean" syncable="YES"/>
+        <attribute name="category_description" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="date_add" optional="YES" attributeType="Date" syncable="YES"/>
+        <attribute name="date_upd" optional="YES" attributeType="Date" syncable="YES"/>
+        <attribute name="id_category" optional="YES" attributeType="Integer 64" defaultValueString="0" syncable="YES"/>
+        <attribute name="id_parent" optional="YES" attributeType="Boolean" syncable="YES"/>
+        <attribute name="id_shop_default" optional="YES" attributeType="Integer 64" defaultValueString="0" syncable="YES"/>
+        <attribute name="is_root_category" optional="YES" attributeType="Boolean" syncable="YES"/>
+        <attribute name="name" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="nb_products_recursive" optional="YES" attributeType="Integer 64" defaultValueString="0" syncable="YES"/>
+        <relationship name="product" optional="YES" toMany="YES" deletionRule="Nullify" destinationEntity="Product" inverseName="default_category" inverseEntity="Product" syncable="YES"/>
+    </entity>
+    <entity name="Config" representedClassName="Config" syncable="YES">
+        <attribute name="db_base_is_configured" optional="YES" attributeType="Boolean" syncable="YES"/>
+        <attribute name="id_config" optional="YES" attributeType="Integer 64" defaultValueString="0" syncable="YES"/>
+    </entity>
+    <entity name="Country" representedClassName="Country" syncable="YES">
+        <attribute name="active" optional="YES" attributeType="Boolean" syncable="YES"/>
+        <attribute name="call_prefix" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="contains_states" optional="YES" attributeType="Integer 64" defaultValueString="0" syncable="YES"/>
+        <attribute name="country_id" optional="YES" attributeType="Integer 64" defaultValueString="0" syncable="YES"/>
+        <attribute name="display_tax_label" optional="YES" attributeType="Boolean" syncable="YES"/>
+        <attribute name="id_country" optional="YES" attributeType="Integer 64" defaultValueString="0" syncable="YES"/>
+        <attribute name="id_currency" optional="YES" attributeType="Integer 64" defaultValueString="0" syncable="YES"/>
+        <attribute name="id_zone" optional="YES" attributeType="Integer 64" defaultValueString="0" syncable="YES"/>
+        <attribute name="iso_code" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="name" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="need_identification_number" optional="YES" attributeType="Boolean" syncable="YES"/>
+        <attribute name="need_zip_code" optional="YES" attributeType="Integer 64" defaultValueString="0" syncable="YES"/>
+        <attribute name="zip_code_format" optional="YES" attributeType="String" syncable="YES"/>
+    </entity>
+    <entity name="CountryState" representedClassName="CountryState" syncable="YES">
+        <attribute name="active" optional="YES" attributeType="Boolean" syncable="YES"/>
+        <attribute name="id_state" optional="YES" attributeType="Integer 64" defaultValueString="0" syncable="YES"/>
+        <attribute name="id_zone" optional="YES" attributeType="Integer 64" defaultValueString="0" syncable="YES"/>
+        <attribute name="iso_code" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="name" optional="YES" attributeType="String" syncable="YES"/>
+    </entity>
+    <entity name="Customer" representedClassName="Customer" syncable="YES">
+        <attribute name="active" optional="YES" attributeType="Boolean" syncable="YES"/>
+        <attribute name="birthday" optional="YES" attributeType="Date" syncable="YES"/>
+        <attribute name="company" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="date_add" optional="YES" attributeType="Date" syncable="YES"/>
+        <attribute name="date_upd" optional="YES" attributeType="Date" syncable="YES"/>
+        <attribute name="deleted" optional="YES" attributeType="Boolean" syncable="YES"/>
+        <attribute name="email" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="firstname" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="id_customer" optional="YES" attributeType="Integer 64" defaultValueString="0" syncable="YES"/>
+        <attribute name="id_gender" optional="YES" attributeType="Integer 64" defaultValueString="0" syncable="YES"/>
+        <attribute name="is_guest" optional="YES" attributeType="Boolean" syncable="YES"/>
+        <attribute name="lastname" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="newsletter" optional="YES" attributeType="Boolean" syncable="YES"/>
+        <attribute name="optin" optional="YES" attributeType="Boolean" syncable="YES"/>
+        <attribute name="passwd" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="secure_key" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="siret" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="website" optional="YES" attributeType="String" syncable="YES"/>
+        <relationship name="newRelationship" optional="YES" minCount="1" maxCount="1" deletionRule="Nullify" destinationEntity="Order" syncable="YES"/>
+    </entity>
+    <entity name="Employee" representedClassName="Employee" syncable="YES">
+        <attribute name="active" optional="YES" attributeType="Boolean" syncable="YES"/>
+        <attribute name="email" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="firstname" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="id_employee" optional="YES" attributeType="Integer 64" defaultValueString="0" syncable="YES"/>
+        <attribute name="id_lang" optional="YES" attributeType="Integer 64" defaultValueString="0" syncable="YES"/>
+        <attribute name="id_profile" optional="YES" attributeType="Integer 64" defaultValueString="0" syncable="YES"/>
+        <attribute name="last_passwd_gen" optional="YES" attributeType="Date" syncable="YES"/>
+        <attribute name="lastname" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="passwd" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="stats_date_from" optional="YES" attributeType="Date" syncable="YES"/>
+        <attribute name="stats_date_to" optional="YES" attributeType="Date" syncable="YES"/>
+    </entity>
+    <entity name="Image" representedClassName="Image" syncable="YES">
+        <attribute name="id_image" optional="YES" attributeType="Integer 64" defaultValueString="0" syncable="YES"/>
+        <attribute name="id_product" optional="YES" attributeType="Integer 64" defaultValueString="0" syncable="YES"/>
+        <relationship name="product" optional="YES" maxCount="1" deletionRule="Nullify" destinationEntity="Product" inverseName="image" inverseEntity="Product" syncable="YES"/>
+    </entity>
+    <entity name="Order" representedClassName="Order" syncable="YES">
+        <attribute name="carrier_tax_rate" optional="YES" attributeType="Double" defaultValueString="0.0" syncable="YES"/>
+        <attribute name="conversion_rate" optional="YES" attributeType="Double" defaultValueString="0.0" syncable="YES"/>
+        <attribute name="current_state" optional="YES" attributeType="Integer 64" defaultValueString="0" syncable="YES"/>
+        <attribute name="date_add" optional="YES" attributeType="Date" syncable="YES"/>
+        <attribute name="date_upd" optional="YES" attributeType="Date" syncable="YES"/>
+        <attribute name="delivery_date" optional="YES" attributeType="Date" syncable="YES"/>
+        <attribute name="delivery_number" optional="YES" attributeType="Integer 64" defaultValueString="0" syncable="YES"/>
+        <attribute name="gift" optional="YES" attributeType="Boolean" syncable="YES"/>
+        <attribute name="id_address_delivery" optional="YES" attributeType="Integer 64" defaultValueString="0" syncable="YES"/>
+        <attribute name="id_address_invoice" optional="YES" attributeType="Integer 64" defaultValueString="0" syncable="YES"/>
+        <attribute name="id_carrier" optional="YES" attributeType="Integer 64" defaultValueString="0" syncable="YES"/>
+        <attribute name="id_cart" optional="YES" attributeType="Integer 64" defaultValueString="0" syncable="YES"/>
+        <attribute name="id_currency" optional="YES" attributeType="Integer 64" defaultValueString="0" syncable="YES"/>
+        <attribute name="id_customer" optional="YES" attributeType="Integer 64" defaultValueString="0" syncable="YES"/>
+        <attribute name="id_lang" optional="YES" attributeType="Integer 64" defaultValueString="0" syncable="YES"/>
+        <attribute name="id_order" optional="YES" attributeType="Integer 64" defaultValueString="0" syncable="YES"/>
+        <attribute name="id_shop" optional="YES" attributeType="Integer 64" defaultValueString="0" syncable="YES"/>
+        <attribute name="id_shop_group" optional="YES" attributeType="Integer 64" defaultValueString="0" syncable="YES"/>
+        <attribute name="invoice_date" optional="YES" attributeType="Date" syncable="YES"/>
+        <attribute name="invoice_number" optional="YES" attributeType="Integer 64" defaultValueString="0" syncable="YES"/>
+        <attribute name="module" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="payment" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="reference" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="secure_key" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="total_discounts" optional="YES" attributeType="Double" defaultValueString="0.0" syncable="YES"/>
+        <attribute name="total_discounts_tax_incl" optional="YES" attributeType="Double" defaultValueString="0.0" syncable="YES"/>
+        <attribute name="total_paid" optional="YES" attributeType="Double" defaultValueString="0.0" syncable="YES"/>
+        <attribute name="total_paid_real" optional="YES" attributeType="Double" defaultValueString="0.0" syncable="YES"/>
+        <attribute name="total_paid_tax_excl" optional="YES" attributeType="Double" defaultValueString="0.0" syncable="YES"/>
+        <attribute name="total_paid_tax_incl" optional="YES" attributeType="Double" defaultValueString="0.0" syncable="YES"/>
+        <attribute name="total_products" optional="YES" attributeType="Double" defaultValueString="0.0" syncable="YES"/>
+        <attribute name="total_products_wt" optional="YES" attributeType="Double" defaultValueString="0.0" syncable="YES"/>
+        <attribute name="total_shipping" optional="YES" attributeType="Double" defaultValueString="0.0" syncable="YES"/>
+        <attribute name="total_shipping_tax_excl" optional="YES" attributeType="Double" defaultValueString="0.0" syncable="YES"/>
+        <attribute name="total_shipping_tax_incl" optional="YES" attributeType="Double" defaultValueString="0.0" syncable="YES"/>
+        <attribute name="total_wrapping" optional="YES" attributeType="Double" defaultValueString="0.0" syncable="YES"/>
+        <attribute name="total_wrapping_tax_excl" optional="YES" attributeType="Double" defaultValueString="0.0" syncable="YES"/>
+        <attribute name="total_wrapping_tax_incl" optional="YES" attributeType="Double" defaultValueString="0.0" syncable="YES"/>
+        <attribute name="valid" optional="YES" attributeType="Boolean" syncable="YES"/>
+        <relationship name="addressDelivery" optional="YES" maxCount="1" deletionRule="Nullify" destinationEntity="Address" syncable="YES"/>
+        <relationship name="addressInvoice" optional="YES" maxCount="1" deletionRule="Nullify" destinationEntity="Address" syncable="YES"/>
+        <relationship name="cart" optional="YES" maxCount="1" deletionRule="Nullify" destinationEntity="Cart" syncable="YES"/>
+        <relationship name="customer" optional="YES" minCount="1" maxCount="1" deletionRule="Nullify" destinationEntity="Customer" syncable="YES"/>
+        <relationship name="orderRow" optional="YES" toMany="YES" deletionRule="Nullify" destinationEntity="OrderRow" syncable="YES"/>
+        <relationship name="orderState" optional="YES" minCount="1" maxCount="1" deletionRule="Nullify" destinationEntity="OrderState" syncable="YES"/>
+    </entity>
+    <entity name="OrderCarrier" representedClassName="OrderCarrier" syncable="YES">
+        <attribute name="date_add" optional="YES" attributeType="Date" syncable="YES"/>
+        <attribute name="id_carrier" optional="YES" attributeType="Integer 64" defaultValueString="0" syncable="YES"/>
+        <attribute name="id_order" optional="YES" attributeType="Integer 64" defaultValueString="0" syncable="YES"/>
+        <attribute name="id_order_carrier" optional="YES" attributeType="Integer 64" defaultValueString="0" syncable="YES"/>
+        <attribute name="id_order_invoice" optional="YES" attributeType="Integer 64" defaultValueString="0" syncable="YES"/>
+        <attribute name="shipping_cost_tax_excl" optional="YES" attributeType="Double" defaultValueString="0.0" syncable="YES"/>
+        <attribute name="shipping_cost_tax_incl" optional="YES" attributeType="Double" defaultValueString="0.0" syncable="YES"/>
+        <attribute name="tracking_number" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="weight" optional="YES" attributeType="Double" defaultValueString="0.0" syncable="YES"/>
+    </entity>
+    <entity name="OrderPayment" representedClassName="OrderPayment" syncable="YES">
+        <attribute name="amount" optional="YES" attributeType="Double" defaultValueString="0.0" syncable="YES"/>
+        <attribute name="card_brand" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="card_expiration" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="card_holder" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="card_number" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="date_add" optional="YES" attributeType="Date" syncable="YES"/>
+        <attribute name="id_currency" optional="YES" attributeType="Integer 64" defaultValueString="0" syncable="YES"/>
+        <attribute name="id_order_payment" optional="YES" attributeType="Integer 64" defaultValueString="0" syncable="YES"/>
+        <attribute name="order_reference" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="payment_method" optional="YES" attributeType="String" syncable="YES"/>
+    </entity>
+    <entity name="OrderRow" representedClassName="OrderRow" syncable="YES">
+        <attribute name="id_order_row" optional="YES" attributeType="Integer 64" defaultValueString="0" syncable="YES"/>
+        <attribute name="product_attribute_id" optional="YES" attributeType="Integer 64" defaultValueString="0" syncable="YES"/>
+        <attribute name="product_id" optional="YES" attributeType="Integer 64" defaultValueString="0" syncable="YES"/>
+        <attribute name="product_name" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="product_price" optional="YES" attributeType="Double" defaultValueString="0.0" syncable="YES"/>
+        <attribute name="product_quantity" optional="YES" attributeType="Integer 64" defaultValueString="0" syncable="YES"/>
+        <relationship name="product" optional="YES" maxCount="1" deletionRule="Nullify" destinationEntity="Product" syncable="YES"/>
+    </entity>
+    <entity name="OrderState" representedClassName="OrderState" syncable="YES">
+        <attribute name="color" optional="YES" attributeType="Boolean" syncable="YES"/>
+        <attribute name="deleted" optional="YES" attributeType="Boolean" defaultValueString="0" syncable="YES"/>
+        <attribute name="delivery" optional="YES" attributeType="Boolean" syncable="YES"/>
+        <attribute name="hidden" optional="YES" attributeType="Boolean" syncable="YES"/>
+        <attribute name="id_order_state" optional="YES" attributeType="Integer 64" defaultValueString="0" syncable="YES"/>
+        <attribute name="invoice" optional="YES" attributeType="Boolean" syncable="YES"/>
+        <attribute name="logable" optional="YES" attributeType="Boolean" syncable="YES"/>
+        <attribute name="name" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="paid" optional="YES" attributeType="Boolean" syncable="YES"/>
+        <attribute name="send_email" optional="YES" attributeType="Boolean" syncable="YES"/>
+        <attribute name="shipped" optional="YES" attributeType="Boolean" syncable="YES"/>
+        <attribute name="template" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="unremovable" optional="YES" attributeType="Boolean" syncable="YES"/>
+        <relationship name="newRelationship" optional="YES" minCount="1" maxCount="1" deletionRule="Nullify" destinationEntity="Order" syncable="YES"/>
+    </entity>
+    <entity name="Product" representedClassName="Product" syncable="YES">
+        <attribute name="active" optional="YES" attributeType="Boolean" syncable="YES"/>
+        <attribute name="additional_shipping_cost" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="availability" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="available_for_order" optional="YES" attributeType="Boolean" syncable="YES"/>
+        <attribute name="date_add" optional="YES" attributeType="Date" syncable="YES"/>
+        <attribute name="date_upd" optional="YES" attributeType="Date" syncable="YES"/>
+        <attribute name="depth" optional="YES" attributeType="Double" defaultValueString="0.0" syncable="YES"/>
+        <attribute name="height" optional="YES" attributeType="Double" defaultValueString="0.0" syncable="YES"/>
+        <attribute name="id_category_default" optional="YES" attributeType="Integer 64" defaultValueString="0" syncable="YES"/>
+        <attribute name="id_default_image" optional="YES" attributeType="Integer 64" defaultValueString="0" syncable="YES"/>
+        <attribute name="id_product" optional="YES" attributeType="Integer 64" defaultValueString="0" syncable="YES"/>
+        <attribute name="id_stock_available" optional="YES" attributeType="Integer 64" defaultValueString="0" syncable="YES"/>
+        <attribute name="is_in_cart" optional="YES" attributeType="Boolean" syncable="YES"/>
+        <attribute name="name" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="price" optional="YES" attributeType="Double" defaultValueString="0.0" syncable="YES"/>
+        <attribute name="product_description" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="quantity" optional="YES" attributeType="Integer 64" defaultValueString="0" syncable="YES"/>
+        <attribute name="reference" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="related_product" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="size" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="sku" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="type" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="weight" optional="YES" attributeType="Double" defaultValueString="0.0" syncable="YES"/>
+        <attribute name="width" optional="YES" attributeType="Double" defaultValueString="0.0" syncable="YES"/>
+        <relationship name="default_category" optional="YES" maxCount="1" deletionRule="Nullify" destinationEntity="Category" inverseName="product" inverseEntity="Category" syncable="YES"/>
+        <relationship name="image" optional="YES" toMany="YES" deletionRule="Nullify" destinationEntity="Image" inverseName="product" inverseEntity="Image" syncable="YES"/>
+    </entity>
+    <elements>
+        <element name="Address" positionX="241" positionY="243" width="128" height="358"/>
+        <element name="Cart" positionX="90" positionY="-63" width="128" height="315"/>
+        <element name="CartRow" positionX="-182" positionY="390" width="128" height="105"/>
+        <element name="Category" positionX="-513" positionY="726" width="128" height="210"/>
+        <element name="Config" positionX="160" positionY="192" width="128" height="75"/>
+        <element name="Country" positionX="673" positionY="435" width="128" height="240"/>
+        <element name="CountryState" positionX="502" positionY="192" width="128" height="118"/>
+        <element name="Customer" positionX="-11" positionY="747" width="128" height="328"/>
+        <element name="Employee" positionX="178" positionY="-306" width="128" height="210"/>
+        <element name="Image" positionX="-360" positionY="-207" width="128" height="90"/>
+        <element name="Order" positionX="-351" positionY="18" width="128" height="718"/>
+        <element name="OrderRow" positionX="385" positionY="-252" width="128" height="150"/>
+        <element name="Product" positionX="-657" positionY="108" width="128" height="435"/>
+        <element name="OrderState" positionX="-270" positionY="828" width="128" height="253"/>
+        <element name="OrderCarrier" positionX="520" positionY="-54" width="128" height="180"/>
+        <element name="Carrier" positionX="700" positionY="-18" width="128" height="103"/>
+        <element name="OrderPayment" positionX="601" positionY="-27" width="128" height="195"/>
+    </elements>
+</model>

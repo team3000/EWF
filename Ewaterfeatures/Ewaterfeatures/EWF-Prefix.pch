@@ -1,0 +1,67 @@
+//
+// Prefix header for all source files of the 'Ewaterfeatures' target in the 'Ewaterfeatures' project
+//
+
+#import <Availability.h>
+
+#ifndef __IPHONE_5_0
+#warning "This project uses features only available in iOS SDK 5.0 and later."
+#endif
+
+#ifdef __OBJC__
+	#import <UIKit/UIKit.h>
+	#import <Foundation/Foundation.h>
+#define MR_SHORTHAND
+    #import "CoreData+MagicalRecord.h"
+#endif
+
+
+/*
+ *	Set the DEBUG/NDEBUG macros
+ *
+ *	Note - the __OPTIMIZE__ predefined macro is a gnu-only thing, so this code
+ *	probably won't work on any other compiler - thus the warning.
+ *
+ *	Althought __OPTIMIZE__ has a slightly different meaning than NDEBUG, it's
+ *	typically good enough.
+ */
+
+#if !defined(DEBUG) && !defined(NDEBUG)
+
+#if !defined(__GNUC__)
+#warning DEBUG/NDEBUG macros may not be defined correctly
+#endif
+
+#if defined(__OPTIMIZE__)
+#define NDEBUG 1
+#else
+#define DEBUG 1
+#endif
+
+/*
+ *	Prototype for the UIGetScreenImage method - not in the public headers
+ */
+
+CGImageRef UIGetScreenImage(void);
+
+
+/*
+ *	Debug logging
+ */
+
+#define DO_DEBUG_LOG	0
+
+
+#if DO_DEBUG_LOG
+#define DEBUG_LOG_RESET()	[[mobiscanAppDelegate appDelegate].debugLogger reset];
+#define DEBUG_LOG(x)		[[mobiscanAppDelegate appDelegate].debugLogger addEntry:x];
+#define DEBUG_LOG_FCN(x)	[[mobiscanAppDelegate appDelegate].debugLogger addEntryFunction:x line:__LINE__];
+#else
+#define DEBUG_LOG_RESET()
+#define DEBUG_LOG(x)
+#define DEBUG_LOG_FCN(x)
+#endif
+
+#endif
+
+

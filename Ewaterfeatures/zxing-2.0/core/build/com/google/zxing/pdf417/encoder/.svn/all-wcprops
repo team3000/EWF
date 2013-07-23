@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/src/Badges/!svn/ver/102/Solution/WirelessScanner/zxing-2.0/core/build/com/google/zxing/pdf417/encoder
+END
+Compaction.class
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/src/Badges/!svn/ver/102/Solution/WirelessScanner/zxing-2.0/core/build/com/google/zxing/pdf417/encoder/Compaction.class
+END
+PDF417HighLevelEncoder.class
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/src/Badges/!svn/ver/102/Solution/WirelessScanner/zxing-2.0/core/build/com/google/zxing/pdf417/encoder/PDF417HighLevelEncoder.class
+END
+PDF417Writer.class
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/src/Badges/!svn/ver/102/Solution/WirelessScanner/zxing-2.0/core/build/com/google/zxing/pdf417/encoder/PDF417Writer.class
+END
+BarcodeMatrix.class
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/src/Badges/!svn/ver/102/Solution/WirelessScanner/zxing-2.0/core/build/com/google/zxing/pdf417/encoder/BarcodeMatrix.class
+END
+PDF417.class
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/src/Badges/!svn/ver/102/Solution/WirelessScanner/zxing-2.0/core/build/com/google/zxing/pdf417/encoder/PDF417.class
+END
+BarcodeRow.class
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/src/Badges/!svn/ver/102/Solution/WirelessScanner/zxing-2.0/core/build/com/google/zxing/pdf417/encoder/BarcodeRow.class
+END
+PDF417ErrorCorrection.class
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/src/Badges/!svn/ver/102/Solution/WirelessScanner/zxing-2.0/core/build/com/google/zxing/pdf417/encoder/PDF417ErrorCorrection.class
+END

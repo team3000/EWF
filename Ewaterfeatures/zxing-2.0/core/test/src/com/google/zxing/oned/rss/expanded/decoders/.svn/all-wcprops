@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/src/Badges/!svn/ver/102/Solution/WirelessScanner/zxing-2.0/core/test/src/com/google/zxing/oned/rss/expanded/decoders
+END
+FieldParserTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/src/Badges/!svn/ver/102/Solution/WirelessScanner/zxing-2.0/core/test/src/com/google/zxing/oned/rss/expanded/decoders/FieldParserTest.java
+END
+AI01_3103_DecoderTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/src/Badges/!svn/ver/102/Solution/WirelessScanner/zxing-2.0/core/test/src/com/google/zxing/oned/rss/expanded/decoders/AI01_3103_DecoderTest.java
+END
+AnyAIDecoderTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/src/Badges/!svn/ver/102/Solution/WirelessScanner/zxing-2.0/core/test/src/com/google/zxing/oned/rss/expanded/decoders/AnyAIDecoderTest.java
+END
+AI01_3X0X_1X_DecoderTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/src/Badges/!svn/ver/102/Solution/WirelessScanner/zxing-2.0/core/test/src/com/google/zxing/oned/rss/expanded/decoders/AI01_3X0X_1X_DecoderTest.java
+END
+AbstractDecoderTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/src/Badges/!svn/ver/102/Solution/WirelessScanner/zxing-2.0/core/test/src/com/google/zxing/oned/rss/expanded/decoders/AbstractDecoderTest.java
+END
+AI01_3202_3203_DecoderTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/src/Badges/!svn/ver/102/Solution/WirelessScanner/zxing-2.0/core/test/src/com/google/zxing/oned/rss/expanded/decoders/AI01_3202_3203_DecoderTest.java
+END

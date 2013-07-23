@@ -1,0 +1,95 @@
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/src/Badges/!svn/ver/102/Solution/WirelessScanner/zxing-2.0/csharp/oned
+END
+UPCAReader.cs
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/src/Badges/!svn/ver/102/Solution/WirelessScanner/zxing-2.0/csharp/oned/UPCAReader.cs
+END
+EAN8Reader.cs
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/src/Badges/!svn/ver/102/Solution/WirelessScanner/zxing-2.0/csharp/oned/EAN8Reader.cs
+END
+UPCEReader.cs
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/src/Badges/!svn/ver/102/Solution/WirelessScanner/zxing-2.0/csharp/oned/UPCEReader.cs
+END
+MultiFormatUPCEANReader.cs
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/src/Badges/!svn/ver/102/Solution/WirelessScanner/zxing-2.0/csharp/oned/MultiFormatUPCEANReader.cs
+END
+Code39Writer.cs
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/src/Badges/!svn/ver/102/Solution/WirelessScanner/zxing-2.0/csharp/oned/Code39Writer.cs
+END
+EAN8Writer.cs
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/src/Badges/!svn/ver/102/Solution/WirelessScanner/zxing-2.0/csharp/oned/EAN8Writer.cs
+END
+Code128Reader.cs
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/src/Badges/!svn/ver/102/Solution/WirelessScanner/zxing-2.0/csharp/oned/Code128Reader.cs
+END
+EAN13Reader.cs
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/src/Badges/!svn/ver/102/Solution/WirelessScanner/zxing-2.0/csharp/oned/EAN13Reader.cs
+END
+MultiFormatOneDReader.cs
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/src/Badges/!svn/ver/102/Solution/WirelessScanner/zxing-2.0/csharp/oned/MultiFormatOneDReader.cs
+END
+UPCEANReader.cs
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/src/Badges/!svn/ver/102/Solution/WirelessScanner/zxing-2.0/csharp/oned/UPCEANReader.cs
+END
+EAN13Writer.cs
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/src/Badges/!svn/ver/102/Solution/WirelessScanner/zxing-2.0/csharp/oned/EAN13Writer.cs
+END
+ITFReader.cs
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/src/Badges/!svn/ver/102/Solution/WirelessScanner/zxing-2.0/csharp/oned/ITFReader.cs
+END
+UPCEANWriter.cs
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/src/Badges/!svn/ver/102/Solution/WirelessScanner/zxing-2.0/csharp/oned/UPCEANWriter.cs
+END
+OneDReader.cs
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/src/Badges/!svn/ver/102/Solution/WirelessScanner/zxing-2.0/csharp/oned/OneDReader.cs
+END
+Code39Reader.cs
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/src/Badges/!svn/ver/102/Solution/WirelessScanner/zxing-2.0/csharp/oned/Code39Reader.cs
+END

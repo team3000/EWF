@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/src/Badges/!svn/ver/102/Solution/WirelessScanner/zxing-2.0/android/src/com/google/zxing/client/android/book
+END
+SearchBookContentsAdapter.java
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/src/Badges/!svn/ver/102/Solution/WirelessScanner/zxing-2.0/android/src/com/google/zxing/client/android/book/SearchBookContentsAdapter.java
+END
+BrowseBookListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/src/Badges/!svn/ver/102/Solution/WirelessScanner/zxing-2.0/android/src/com/google/zxing/client/android/book/BrowseBookListener.java
+END
+NetworkWorker.java
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/src/Badges/!svn/ver/102/Solution/WirelessScanner/zxing-2.0/android/src/com/google/zxing/client/android/book/NetworkWorker.java
+END
+SearchBookContentsListItem.java
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/src/Badges/!svn/ver/102/Solution/WirelessScanner/zxing-2.0/android/src/com/google/zxing/client/android/book/SearchBookContentsListItem.java
+END
+SearchBookContentsActivity.java
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/src/Badges/!svn/ver/102/Solution/WirelessScanner/zxing-2.0/android/src/com/google/zxing/client/android/book/SearchBookContentsActivity.java
+END
+SearchBookContentsResult.java
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/src/Badges/!svn/ver/102/Solution/WirelessScanner/zxing-2.0/android/src/com/google/zxing/client/android/book/SearchBookContentsResult.java
+END

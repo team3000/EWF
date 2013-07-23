@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/src/Badges/!svn/ver/102/Solution/WirelessScanner/zxing-2.0/cpp/scons/scons-local-2.0.0.final.0/SCons/Tool/MSCommon
+END
+common.py
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/src/Badges/!svn/ver/102/Solution/WirelessScanner/zxing-2.0/cpp/scons/scons-local-2.0.0.final.0/SCons/Tool/MSCommon/common.py
+END
+vc.py
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/src/Badges/!svn/ver/102/Solution/WirelessScanner/zxing-2.0/cpp/scons/scons-local-2.0.0.final.0/SCons/Tool/MSCommon/vc.py
+END
+vs.py
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/src/Badges/!svn/ver/102/Solution/WirelessScanner/zxing-2.0/cpp/scons/scons-local-2.0.0.final.0/SCons/Tool/MSCommon/vs.py
+END
+arch.py
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/src/Badges/!svn/ver/102/Solution/WirelessScanner/zxing-2.0/cpp/scons/scons-local-2.0.0.final.0/SCons/Tool/MSCommon/arch.py
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/src/Badges/!svn/ver/102/Solution/WirelessScanner/zxing-2.0/cpp/scons/scons-local-2.0.0.final.0/SCons/Tool/MSCommon/__init__.py
+END
+sdk.py
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/src/Badges/!svn/ver/102/Solution/WirelessScanner/zxing-2.0/cpp/scons/scons-local-2.0.0.final.0/SCons/Tool/MSCommon/sdk.py
+END
+netframework.py
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/src/Badges/!svn/ver/102/Solution/WirelessScanner/zxing-2.0/cpp/scons/scons-local-2.0.0.final.0/SCons/Tool/MSCommon/netframework.py
+END

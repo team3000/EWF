@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/src/Badges/!svn/ver/102/Solution/WirelessScanner/zxing-2.0/csharp/common/reedsolomon
+END
+ReedSolomonDecoder.cs
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/src/Badges/!svn/ver/102/Solution/WirelessScanner/zxing-2.0/csharp/common/reedsolomon/ReedSolomonDecoder.cs
+END
+GF256Poly.cs
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/src/Badges/!svn/ver/102/Solution/WirelessScanner/zxing-2.0/csharp/common/reedsolomon/GF256Poly.cs
+END
+ReedSolomonException.cs
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/src/Badges/!svn/ver/102/Solution/WirelessScanner/zxing-2.0/csharp/common/reedsolomon/ReedSolomonException.cs
+END
+ReedSolomonEncoder.cs
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/src/Badges/!svn/ver/102/Solution/WirelessScanner/zxing-2.0/csharp/common/reedsolomon/ReedSolomonEncoder.cs
+END
+GF256.cs
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/src/Badges/!svn/ver/102/Solution/WirelessScanner/zxing-2.0/csharp/common/reedsolomon/GF256.cs
+END

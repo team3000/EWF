@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/src/Badges/!svn/ver/102/Solution/WirelessScanner/zxing-2.0/jruby/test
+END
+qrcode.png
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/src/Badges/!svn/ver/102/Solution/WirelessScanner/zxing-2.0/jruby/test/qrcode.png
+END
+test_helper.rb
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/src/Badges/!svn/ver/102/Solution/WirelessScanner/zxing-2.0/jruby/test/test_helper.rb
+END
+zxing_test.rb
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/src/Badges/!svn/ver/102/Solution/WirelessScanner/zxing-2.0/jruby/test/zxing_test.rb
+END

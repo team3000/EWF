@@ -1,0 +1,179 @@
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/src/Badges/!svn/ver/102/Solution/WirelessScanner/zxing-2.0/csharp/client/result
+END
+URIResultParser.cs
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/src/Badges/!svn/ver/102/Solution/WirelessScanner/zxing-2.0/csharp/client/result/URIResultParser.cs
+END
+VCardResultParser.cs
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/src/Badges/!svn/ver/102/Solution/WirelessScanner/zxing-2.0/csharp/client/result/VCardResultParser.cs
+END
+ParsedResult.cs
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/src/Badges/!svn/ver/102/Solution/WirelessScanner/zxing-2.0/csharp/client/result/ParsedResult.cs
+END
+AddressBookDoCoMoResultParser.cs
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/src/Badges/!svn/ver/102/Solution/WirelessScanner/zxing-2.0/csharp/client/result/AddressBookDoCoMoResultParser.cs
+END
+ProductParsedResult.cs
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/src/Badges/!svn/ver/102/Solution/WirelessScanner/zxing-2.0/csharp/client/result/ProductParsedResult.cs
+END
+ParsedResultType.cs
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/src/Badges/!svn/ver/102/Solution/WirelessScanner/zxing-2.0/csharp/client/result/ParsedResultType.cs
+END
+AbstractDoCoMoResultParser.cs
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/src/Badges/!svn/ver/102/Solution/WirelessScanner/zxing-2.0/csharp/client/result/AbstractDoCoMoResultParser.cs
+END
+URLTOResultParser.cs
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/src/Badges/!svn/ver/102/Solution/WirelessScanner/zxing-2.0/csharp/client/result/URLTOResultParser.cs
+END
+BookmarkDoCoMoResultParser.cs
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/src/Badges/!svn/ver/102/Solution/WirelessScanner/zxing-2.0/csharp/client/result/BookmarkDoCoMoResultParser.cs
+END
+TelParsedResult.cs
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/src/Badges/!svn/ver/102/Solution/WirelessScanner/zxing-2.0/csharp/client/result/TelParsedResult.cs
+END
+TextParsedResult.cs
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/src/Badges/!svn/ver/102/Solution/WirelessScanner/zxing-2.0/csharp/client/result/TextParsedResult.cs
+END
+VEventResultParser.cs
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/src/Badges/!svn/ver/102/Solution/WirelessScanner/zxing-2.0/csharp/client/result/VEventResultParser.cs
+END
+GeoResultParser.cs
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/src/Badges/!svn/ver/102/Solution/WirelessScanner/zxing-2.0/csharp/client/result/GeoResultParser.cs
+END
+ISBNParsedResult.cs
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/src/Badges/!svn/ver/102/Solution/WirelessScanner/zxing-2.0/csharp/client/result/ISBNParsedResult.cs
+END
+BizcardResultParser.cs
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/src/Badges/!svn/ver/102/Solution/WirelessScanner/zxing-2.0/csharp/client/result/BizcardResultParser.cs
+END
+EmailAddressParsedResult.cs
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/src/Badges/!svn/ver/102/Solution/WirelessScanner/zxing-2.0/csharp/client/result/EmailAddressParsedResult.cs
+END
+ResultParser.cs
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/src/Badges/!svn/ver/102/Solution/WirelessScanner/zxing-2.0/csharp/client/result/ResultParser.cs
+END
+SMSMMSResultParser.cs
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/src/Badges/!svn/ver/102/Solution/WirelessScanner/zxing-2.0/csharp/client/result/SMSMMSResultParser.cs
+END
+ProductResultParser.cs
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/src/Badges/!svn/ver/102/Solution/WirelessScanner/zxing-2.0/csharp/client/result/ProductResultParser.cs
+END
+URIParsedResult.cs
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/src/Badges/!svn/ver/102/Solution/WirelessScanner/zxing-2.0/csharp/client/result/URIParsedResult.cs
+END
+AddressBookParsedResult.cs
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/src/Badges/!svn/ver/102/Solution/WirelessScanner/zxing-2.0/csharp/client/result/AddressBookParsedResult.cs
+END
+SMSParsedResult.cs
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/src/Badges/!svn/ver/102/Solution/WirelessScanner/zxing-2.0/csharp/client/result/SMSParsedResult.cs
+END
+TelResultParser.cs
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/src/Badges/!svn/ver/102/Solution/WirelessScanner/zxing-2.0/csharp/client/result/TelResultParser.cs
+END
+AddressBookAUResultParser.cs
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/src/Badges/!svn/ver/102/Solution/WirelessScanner/zxing-2.0/csharp/client/result/AddressBookAUResultParser.cs
+END
+EmailDoCoMoResultParser.cs
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/src/Badges/!svn/ver/102/Solution/WirelessScanner/zxing-2.0/csharp/client/result/EmailDoCoMoResultParser.cs
+END
+ISBNResultParser.cs
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/src/Badges/!svn/ver/102/Solution/WirelessScanner/zxing-2.0/csharp/client/result/ISBNResultParser.cs
+END
+CalendarParsedResult.cs
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/src/Badges/!svn/ver/102/Solution/WirelessScanner/zxing-2.0/csharp/client/result/CalendarParsedResult.cs
+END
+GeoParsedResult.cs
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/src/Badges/!svn/ver/102/Solution/WirelessScanner/zxing-2.0/csharp/client/result/GeoParsedResult.cs
+END
+EmailAddressResultParser.cs
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/src/Badges/!svn/ver/102/Solution/WirelessScanner/zxing-2.0/csharp/client/result/EmailAddressResultParser.cs
+END

@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/src/Badges/!svn/ver/102/Solution/WirelessScanner/zxing-2.0/androidtest
+END
+proguard.cfg
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/src/Badges/!svn/ver/102/Solution/WirelessScanner/zxing-2.0/androidtest/proguard.cfg
+END
+project.properties
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/src/Badges/!svn/ver/102/Solution/WirelessScanner/zxing-2.0/androidtest/project.properties
+END
+AndroidManifest.xml
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/src/Badges/!svn/ver/102/Solution/WirelessScanner/zxing-2.0/androidtest/AndroidManifest.xml
+END
+ant.properties
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/src/Badges/!svn/ver/102/Solution/WirelessScanner/zxing-2.0/androidtest/ant.properties
+END
+build.xml
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/src/Badges/!svn/ver/102/Solution/WirelessScanner/zxing-2.0/androidtest/build.xml
+END

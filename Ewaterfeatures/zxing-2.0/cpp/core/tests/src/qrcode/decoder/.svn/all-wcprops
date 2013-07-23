@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/src/Badges/!svn/ver/102/Solution/WirelessScanner/zxing-2.0/cpp/core/tests/src/qrcode/decoder
+END
+ModeTest.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/src/Badges/!svn/ver/102/Solution/WirelessScanner/zxing-2.0/cpp/core/tests/src/qrcode/decoder/ModeTest.cpp
+END
+DataMaskTest.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/src/Badges/!svn/ver/102/Solution/WirelessScanner/zxing-2.0/cpp/core/tests/src/qrcode/decoder/DataMaskTest.cpp
+END
+ModeTest.h
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/src/Badges/!svn/ver/102/Solution/WirelessScanner/zxing-2.0/cpp/core/tests/src/qrcode/decoder/ModeTest.h
+END
+DataMaskTest.h
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/src/Badges/!svn/ver/102/Solution/WirelessScanner/zxing-2.0/cpp/core/tests/src/qrcode/decoder/DataMaskTest.h
+END

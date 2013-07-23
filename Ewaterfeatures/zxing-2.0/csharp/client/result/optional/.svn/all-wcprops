@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/src/Badges/!svn/ver/102/Solution/WirelessScanner/zxing-2.0/csharp/client/result/optional
+END
+NDEFRecord.cs
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/src/Badges/!svn/ver/102/Solution/WirelessScanner/zxing-2.0/csharp/client/result/optional/NDEFRecord.cs
+END
+AbstractNDEFResultParser.cs
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/src/Badges/!svn/ver/102/Solution/WirelessScanner/zxing-2.0/csharp/client/result/optional/AbstractNDEFResultParser.cs
+END
+NDEFSmartPosterResultParser.cs
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/src/Badges/!svn/ver/102/Solution/WirelessScanner/zxing-2.0/csharp/client/result/optional/NDEFSmartPosterResultParser.cs
+END
+NDEFTextResultParser.cs
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/src/Badges/!svn/ver/102/Solution/WirelessScanner/zxing-2.0/csharp/client/result/optional/NDEFTextResultParser.cs
+END
+NDEFSmartPosterParsedResult.cs
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/src/Badges/!svn/ver/102/Solution/WirelessScanner/zxing-2.0/csharp/client/result/optional/NDEFSmartPosterParsedResult.cs
+END
+NDEFURIResultParser.cs
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/src/Badges/!svn/ver/102/Solution/WirelessScanner/zxing-2.0/csharp/client/result/optional/NDEFURIResultParser.cs
+END

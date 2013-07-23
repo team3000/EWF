@@ -1,0 +1,107 @@
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/src/Badges/!svn/ver/102/Solution/WirelessScanner/zxing-2.0/symbian/QZXing/examples/QQrDecoder
+END
+QQrDecoder.h
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/src/Badges/!svn/ver/102/Solution/WirelessScanner/zxing-2.0/symbian/QZXing/examples/QQrDecoder/QQrDecoder.h
+END
+CameraImageWrapper.h
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/src/Badges/!svn/ver/102/Solution/WirelessScanner/zxing-2.0/symbian/QZXing/examples/QQrDecoder/CameraImageWrapper.h
+END
+QQrDecoder.sis
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/src/Badges/!svn/ver/102/Solution/WirelessScanner/zxing-2.0/symbian/QZXing/examples/QQrDecoder/QQrDecoder.sis
+END
+QQrDecoder.svg
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/src/Badges/!svn/ver/102/Solution/WirelessScanner/zxing-2.0/symbian/QZXing/examples/QQrDecoder/QQrDecoder.svg
+END
+QQrDecoder.pro
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/src/Badges/!svn/ver/102/Solution/WirelessScanner/zxing-2.0/symbian/QZXing/examples/QQrDecoder/QQrDecoder.pro
+END
+button.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/src/Badges/!svn/ver/102/Solution/WirelessScanner/zxing-2.0/symbian/QZXing/examples/QQrDecoder/button.cpp
+END
+resources.qrc
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/src/Badges/!svn/ver/102/Solution/WirelessScanner/zxing-2.0/symbian/QZXing/examples/QQrDecoder/resources.qrc
+END
+ZXing_Licence.txt
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/src/Badges/!svn/ver/102/Solution/WirelessScanner/zxing-2.0/symbian/QZXing/examples/QQrDecoder/ZXing_Licence.txt
+END
+button.h
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/src/Badges/!svn/ver/102/Solution/WirelessScanner/zxing-2.0/symbian/QZXing/examples/QQrDecoder/button.h
+END
+QCameraControllerWidget.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/src/Badges/!svn/ver/102/Solution/WirelessScanner/zxing-2.0/symbian/QZXing/examples/QQrDecoder/QCameraControllerWidget.cpp
+END
+main.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/src/Badges/!svn/ver/102/Solution/WirelessScanner/zxing-2.0/symbian/QZXing/examples/QQrDecoder/main.cpp
+END
+QQrDecoder.ui
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/src/Badges/!svn/ver/102/Solution/WirelessScanner/zxing-2.0/symbian/QZXing/examples/QQrDecoder/QQrDecoder.ui
+END
+MyVideoSurface.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/src/Badges/!svn/ver/102/Solution/WirelessScanner/zxing-2.0/symbian/QZXing/examples/QQrDecoder/MyVideoSurface.cpp
+END
+QCameraControllerWidget.h
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/src/Badges/!svn/ver/102/Solution/WirelessScanner/zxing-2.0/symbian/QZXing/examples/QQrDecoder/QCameraControllerWidget.h
+END
+QQrDecoder.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/src/Badges/!svn/ver/102/Solution/WirelessScanner/zxing-2.0/symbian/QZXing/examples/QQrDecoder/QQrDecoder.cpp
+END
+myvideosurface.h
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/src/Badges/!svn/ver/102/Solution/WirelessScanner/zxing-2.0/symbian/QZXing/examples/QQrDecoder/myvideosurface.h
+END
+CameraImageWrapper.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/src/Badges/!svn/ver/102/Solution/WirelessScanner/zxing-2.0/symbian/QZXing/examples/QQrDecoder/CameraImageWrapper.cpp
+END

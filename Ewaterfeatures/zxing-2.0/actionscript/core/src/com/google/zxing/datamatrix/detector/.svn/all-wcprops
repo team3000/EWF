@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/src/Badges/!svn/ver/102/Solution/WirelessScanner/zxing-2.0/actionscript/core/src/com/google/zxing/datamatrix/detector
+END
+ResultPointsAndTransitionsComparator.as
+K 25
+svn:wc:ra_dav:version-url
+V 158
+/src/Badges/!svn/ver/102/Solution/WirelessScanner/zxing-2.0/actionscript/core/src/com/google/zxing/datamatrix/detector/ResultPointsAndTransitionsComparator.as
+END
+Detector.as
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/src/Badges/!svn/ver/102/Solution/WirelessScanner/zxing-2.0/actionscript/core/src/com/google/zxing/datamatrix/detector/Detector.as
+END
+ResultPointsAndTransitions.as
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/src/Badges/!svn/ver/102/Solution/WirelessScanner/zxing-2.0/actionscript/core/src/com/google/zxing/datamatrix/detector/ResultPointsAndTransitions.as
+END

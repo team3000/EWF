@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/src/Badges/!svn/ver/102/Solution/WirelessScanner/zxing-2.0/core/test/src/com/google/zxing/common
+END
+BitMatrixTestCase.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/src/Badges/!svn/ver/102/Solution/WirelessScanner/zxing-2.0/core/test/src/com/google/zxing/common/BitMatrixTestCase.java
+END
+SummaryResults.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/src/Badges/!svn/ver/102/Solution/WirelessScanner/zxing-2.0/core/test/src/com/google/zxing/common/SummaryResults.java
+END
+PerspectiveTransformTestCase.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/src/Badges/!svn/ver/102/Solution/WirelessScanner/zxing-2.0/core/test/src/com/google/zxing/common/PerspectiveTransformTestCase.java
+END
+AbstractBlackBoxTestCase.java
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/src/Badges/!svn/ver/102/Solution/WirelessScanner/zxing-2.0/core/test/src/com/google/zxing/common/AbstractBlackBoxTestCase.java
+END
+BitSourceBuilder.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/src/Badges/!svn/ver/102/Solution/WirelessScanner/zxing-2.0/core/test/src/com/google/zxing/common/BitSourceBuilder.java
+END
+AbstractNegativeBlackBoxTestCase.java
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/src/Badges/!svn/ver/102/Solution/WirelessScanner/zxing-2.0/core/test/src/com/google/zxing/common/AbstractNegativeBlackBoxTestCase.java
+END
+BitArrayTestCase.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/src/Badges/!svn/ver/102/Solution/WirelessScanner/zxing-2.0/core/test/src/com/google/zxing/common/BitArrayTestCase.java
+END
+BitSourceTestCase.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/src/Badges/!svn/ver/102/Solution/WirelessScanner/zxing-2.0/core/test/src/com/google/zxing/common/BitSourceTestCase.java
+END
+TestResult.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/src/Badges/!svn/ver/102/Solution/WirelessScanner/zxing-2.0/core/test/src/com/google/zxing/common/TestResult.java
+END

@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/src/Badges/!svn/ver/102/Solution/WirelessScanner/zxing-2.0/cpp/core/src/zxing/common/detector
+END
+WhiteRectangleDetector.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/src/Badges/!svn/ver/102/Solution/WirelessScanner/zxing-2.0/cpp/core/src/zxing/common/detector/WhiteRectangleDetector.cpp
+END
+WhiteRectangleDetector.h
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/src/Badges/!svn/ver/102/Solution/WirelessScanner/zxing-2.0/cpp/core/src/zxing/common/detector/WhiteRectangleDetector.h
+END
+MonochromeRectangleDetector.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/src/Badges/!svn/ver/102/Solution/WirelessScanner/zxing-2.0/cpp/core/src/zxing/common/detector/MonochromeRectangleDetector.cpp
+END
+MonochromeRectangleDetector.h
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/src/Badges/!svn/ver/102/Solution/WirelessScanner/zxing-2.0/cpp/core/src/zxing/common/detector/MonochromeRectangleDetector.h
+END

@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/src/Badges/!svn/ver/102/Solution/WirelessScanner/zxing-2.0/core/test/src/com/google/zxing/client/result
+END
+CalendarParsedResultTestCase.java
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/src/Badges/!svn/ver/102/Solution/WirelessScanner/zxing-2.0/core/test/src/com/google/zxing/client/result/CalendarParsedResultTestCase.java
+END
+ExpandedProductParsedResultTestCase.java
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/src/Badges/!svn/ver/102/Solution/WirelessScanner/zxing-2.0/core/test/src/com/google/zxing/client/result/ExpandedProductParsedResultTestCase.java
+END
+GeoParsedResultTestCase.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/src/Badges/!svn/ver/102/Solution/WirelessScanner/zxing-2.0/core/test/src/com/google/zxing/client/result/GeoParsedResultTestCase.java
+END
+ISBNParsedResultTestCase.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/src/Badges/!svn/ver/102/Solution/WirelessScanner/zxing-2.0/core/test/src/com/google/zxing/client/result/ISBNParsedResultTestCase.java
+END
+EmailAddressParsedResultTestCase.java
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/src/Badges/!svn/ver/102/Solution/WirelessScanner/zxing-2.0/core/test/src/com/google/zxing/client/result/EmailAddressParsedResultTestCase.java
+END
+WifiParsedResultTestCase.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/src/Badges/!svn/ver/102/Solution/WirelessScanner/zxing-2.0/core/test/src/com/google/zxing/client/result/WifiParsedResultTestCase.java
+END
+SMSMMSParsedResultTestCase.java
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/src/Badges/!svn/ver/102/Solution/WirelessScanner/zxing-2.0/core/test/src/com/google/zxing/client/result/SMSMMSParsedResultTestCase.java
+END
+URIParsedResultTestCase.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/src/Badges/!svn/ver/102/Solution/WirelessScanner/zxing-2.0/core/test/src/com/google/zxing/client/result/URIParsedResultTestCase.java
+END
+AddressBookParsedResultTestCase.java
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/src/Badges/!svn/ver/102/Solution/WirelessScanner/zxing-2.0/core/test/src/com/google/zxing/client/result/AddressBookParsedResultTestCase.java
+END
+ProductParsedResultTestCase.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/src/Badges/!svn/ver/102/Solution/WirelessScanner/zxing-2.0/core/test/src/com/google/zxing/client/result/ProductParsedResultTestCase.java
+END
+ParsedReaderResultTestCase.java
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/src/Badges/!svn/ver/102/Solution/WirelessScanner/zxing-2.0/core/test/src/com/google/zxing/client/result/ParsedReaderResultTestCase.java
+END
+TelParsedResultTestCase.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/src/Badges/!svn/ver/102/Solution/WirelessScanner/zxing-2.0/core/test/src/com/google/zxing/client/result/TelParsedResultTestCase.java
+END

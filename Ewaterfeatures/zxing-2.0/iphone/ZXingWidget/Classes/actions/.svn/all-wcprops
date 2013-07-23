@@ -1,0 +1,89 @@
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/src/Badges/!svn/ver/102/Solution/WirelessScanner/zxing-2.0/iphone/ZXingWidget/Classes/actions
+END
+CallAction.h
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/src/Badges/!svn/ver/102/Solution/WirelessScanner/zxing-2.0/iphone/ZXingWidget/Classes/actions/CallAction.h
+END
+EmailAction.m
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/src/Badges/!svn/ver/102/Solution/WirelessScanner/zxing-2.0/iphone/ZXingWidget/Classes/actions/EmailAction.m
+END
+ResultAction.h
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/src/Badges/!svn/ver/102/Solution/WirelessScanner/zxing-2.0/iphone/ZXingWidget/Classes/actions/ResultAction.h
+END
+ShowMapAction.h
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/src/Badges/!svn/ver/102/Solution/WirelessScanner/zxing-2.0/iphone/ZXingWidget/Classes/actions/ShowMapAction.h
+END
+CallAction.m
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/src/Badges/!svn/ver/102/Solution/WirelessScanner/zxing-2.0/iphone/ZXingWidget/Classes/actions/CallAction.m
+END
+SMSAction.h
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/src/Badges/!svn/ver/102/Solution/WirelessScanner/zxing-2.0/iphone/ZXingWidget/Classes/actions/SMSAction.h
+END
+ResultAction.m
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/src/Badges/!svn/ver/102/Solution/WirelessScanner/zxing-2.0/iphone/ZXingWidget/Classes/actions/ResultAction.m
+END
+ShowMapAction.m
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/src/Badges/!svn/ver/102/Solution/WirelessScanner/zxing-2.0/iphone/ZXingWidget/Classes/actions/ShowMapAction.m
+END
+AddContactAction.h
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/src/Badges/!svn/ver/102/Solution/WirelessScanner/zxing-2.0/iphone/ZXingWidget/Classes/actions/AddContactAction.h
+END
+OpenUrlAction.h
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/src/Badges/!svn/ver/102/Solution/WirelessScanner/zxing-2.0/iphone/ZXingWidget/Classes/actions/OpenUrlAction.h
+END
+EmailAction.h
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/src/Badges/!svn/ver/102/Solution/WirelessScanner/zxing-2.0/iphone/ZXingWidget/Classes/actions/EmailAction.h
+END
+SMSAction.m
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/src/Badges/!svn/ver/102/Solution/WirelessScanner/zxing-2.0/iphone/ZXingWidget/Classes/actions/SMSAction.m
+END
+AddContactAction.m
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/src/Badges/!svn/ver/102/Solution/WirelessScanner/zxing-2.0/iphone/ZXingWidget/Classes/actions/AddContactAction.m
+END
+OpenUrlAction.m
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/src/Badges/!svn/ver/102/Solution/WirelessScanner/zxing-2.0/iphone/ZXingWidget/Classes/actions/OpenUrlAction.m
+END

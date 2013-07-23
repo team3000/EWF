@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/src/Badges/!svn/ver/102/Solution/WirelessScanner/zxing-2.0/csharp/qrcode/detector
+END
+AlignmentPattern.cs
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/src/Badges/!svn/ver/102/Solution/WirelessScanner/zxing-2.0/csharp/qrcode/detector/AlignmentPattern.cs
+END
+FinderPatternFinder.cs
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/src/Badges/!svn/ver/102/Solution/WirelessScanner/zxing-2.0/csharp/qrcode/detector/FinderPatternFinder.cs
+END
+FinderPatternInfo.cs
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/src/Badges/!svn/ver/102/Solution/WirelessScanner/zxing-2.0/csharp/qrcode/detector/FinderPatternInfo.cs
+END
+AlignmentPatternFinder.cs
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/src/Badges/!svn/ver/102/Solution/WirelessScanner/zxing-2.0/csharp/qrcode/detector/AlignmentPatternFinder.cs
+END
+FinderPattern.cs
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/src/Badges/!svn/ver/102/Solution/WirelessScanner/zxing-2.0/csharp/qrcode/detector/FinderPattern.cs
+END
+Detector.cs
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/src/Badges/!svn/ver/102/Solution/WirelessScanner/zxing-2.0/csharp/qrcode/detector/Detector.cs
+END

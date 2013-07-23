@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/src/Badges/!svn/ver/102/Solution/WirelessScanner/zxing-2.0/symbian/ZXingBarcodeReader/group/zxing/datamatrix/decoder
+END
+DecodedBitStreamParser.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/src/Badges/!svn/ver/102/Solution/WirelessScanner/zxing-2.0/symbian/ZXingBarcodeReader/group/zxing/datamatrix/decoder/DecodedBitStreamParser.cpp
+END
+BitMatrixParser.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/src/Badges/!svn/ver/102/Solution/WirelessScanner/zxing-2.0/symbian/ZXingBarcodeReader/group/zxing/datamatrix/decoder/BitMatrixParser.cpp
+END
+DataBlock.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/src/Badges/!svn/ver/102/Solution/WirelessScanner/zxing-2.0/symbian/ZXingBarcodeReader/group/zxing/datamatrix/decoder/DataBlock.cpp
+END
+DecodedBitStreamParser.h
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/src/Badges/!svn/ver/102/Solution/WirelessScanner/zxing-2.0/symbian/ZXingBarcodeReader/group/zxing/datamatrix/decoder/DecodedBitStreamParser.h
+END
+BitMatrixParser.h
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/src/Badges/!svn/ver/102/Solution/WirelessScanner/zxing-2.0/symbian/ZXingBarcodeReader/group/zxing/datamatrix/decoder/BitMatrixParser.h
+END
+Decoder.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/src/Badges/!svn/ver/102/Solution/WirelessScanner/zxing-2.0/symbian/ZXingBarcodeReader/group/zxing/datamatrix/decoder/Decoder.cpp
+END
+DataBlock.h
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/src/Badges/!svn/ver/102/Solution/WirelessScanner/zxing-2.0/symbian/ZXingBarcodeReader/group/zxing/datamatrix/decoder/DataBlock.h
+END
+Decoder.h
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/src/Badges/!svn/ver/102/Solution/WirelessScanner/zxing-2.0/symbian/ZXingBarcodeReader/group/zxing/datamatrix/decoder/Decoder.h
+END

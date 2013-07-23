@@ -1,0 +1,101 @@
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/src/Badges/!svn/ver/102/Solution/WirelessScanner/zxing-2.0/zxing.appspot.com/src/com/google/zxing/web/generator/client
+END
+GeneratorException.java
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/src/Badges/!svn/ver/102/Solution/WirelessScanner/zxing-2.0/zxing.appspot.com/src/com/google/zxing/web/generator/client/GeneratorException.java
+END
+WifiGenerator.java
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/src/Badges/!svn/ver/102/Solution/WirelessScanner/zxing-2.0/zxing.appspot.com/src/com/google/zxing/web/generator/client/WifiGenerator.java
+END
+TimeZoneInfo.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/src/Badges/!svn/ver/102/Solution/WirelessScanner/zxing-2.0/zxing.appspot.com/src/com/google/zxing/web/generator/client/TimeZoneInfo.java
+END
+GeneratorSource.java
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/src/Badges/!svn/ver/102/Solution/WirelessScanner/zxing-2.0/zxing.appspot.com/src/com/google/zxing/web/generator/client/GeneratorSource.java
+END
+Validators.java
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/src/Badges/!svn/ver/102/Solution/WirelessScanner/zxing-2.0/zxing.appspot.com/src/com/google/zxing/web/generator/client/Validators.java
+END
+UrlGenerator.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/src/Badges/!svn/ver/102/Solution/WirelessScanner/zxing-2.0/zxing.appspot.com/src/com/google/zxing/web/generator/client/UrlGenerator.java
+END
+GeoLocationGenerator.java
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/src/Badges/!svn/ver/102/Solution/WirelessScanner/zxing-2.0/zxing.appspot.com/src/com/google/zxing/web/generator/client/GeoLocationGenerator.java
+END
+ContactInfoGenerator.java
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/src/Badges/!svn/ver/102/Solution/WirelessScanner/zxing-2.0/zxing.appspot.com/src/com/google/zxing/web/generator/client/ContactInfoGenerator.java
+END
+SmsAddressGenerator.java
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/src/Badges/!svn/ver/102/Solution/WirelessScanner/zxing-2.0/zxing.appspot.com/src/com/google/zxing/web/generator/client/SmsAddressGenerator.java
+END
+CalendarEventGenerator.java
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/src/Badges/!svn/ver/102/Solution/WirelessScanner/zxing-2.0/zxing.appspot.com/src/com/google/zxing/web/generator/client/CalendarEventGenerator.java
+END
+StylesDefs.java
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/src/Badges/!svn/ver/102/Solution/WirelessScanner/zxing-2.0/zxing.appspot.com/src/com/google/zxing/web/generator/client/StylesDefs.java
+END
+TimeZoneList.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/src/Badges/!svn/ver/102/Solution/WirelessScanner/zxing-2.0/zxing.appspot.com/src/com/google/zxing/web/generator/client/TimeZoneList.java
+END
+Generator.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/src/Badges/!svn/ver/102/Solution/WirelessScanner/zxing-2.0/zxing.appspot.com/src/com/google/zxing/web/generator/client/Generator.java
+END
+PhoneNumberGenerator.java
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/src/Badges/!svn/ver/102/Solution/WirelessScanner/zxing-2.0/zxing.appspot.com/src/com/google/zxing/web/generator/client/PhoneNumberGenerator.java
+END
+TextGenerator.java
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/src/Badges/!svn/ver/102/Solution/WirelessScanner/zxing-2.0/zxing.appspot.com/src/com/google/zxing/web/generator/client/TextGenerator.java
+END
+EmailGenerator.java
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/src/Badges/!svn/ver/102/Solution/WirelessScanner/zxing-2.0/zxing.appspot.com/src/com/google/zxing/web/generator/client/EmailGenerator.java
+END

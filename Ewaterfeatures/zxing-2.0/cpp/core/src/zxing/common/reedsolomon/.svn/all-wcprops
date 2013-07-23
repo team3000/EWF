@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/src/Badges/!svn/ver/102/Solution/WirelessScanner/zxing-2.0/cpp/core/src/zxing/common/reedsolomon
+END
+GF256.h
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/src/Badges/!svn/ver/102/Solution/WirelessScanner/zxing-2.0/cpp/core/src/zxing/common/reedsolomon/GF256.h
+END
+ReedSolomonDecoder.h
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/src/Badges/!svn/ver/102/Solution/WirelessScanner/zxing-2.0/cpp/core/src/zxing/common/reedsolomon/ReedSolomonDecoder.h
+END
+GF256Poly.h
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/src/Badges/!svn/ver/102/Solution/WirelessScanner/zxing-2.0/cpp/core/src/zxing/common/reedsolomon/GF256Poly.h
+END
+ReedSolomonException.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/src/Badges/!svn/ver/102/Solution/WirelessScanner/zxing-2.0/cpp/core/src/zxing/common/reedsolomon/ReedSolomonException.cpp
+END
+GF256.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/src/Badges/!svn/ver/102/Solution/WirelessScanner/zxing-2.0/cpp/core/src/zxing/common/reedsolomon/GF256.cpp
+END
+ReedSolomonException.h
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/src/Badges/!svn/ver/102/Solution/WirelessScanner/zxing-2.0/cpp/core/src/zxing/common/reedsolomon/ReedSolomonException.h
+END
+ReedSolomonDecoder.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/src/Badges/!svn/ver/102/Solution/WirelessScanner/zxing-2.0/cpp/core/src/zxing/common/reedsolomon/ReedSolomonDecoder.cpp
+END
+GF256Poly.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/src/Badges/!svn/ver/102/Solution/WirelessScanner/zxing-2.0/cpp/core/src/zxing/common/reedsolomon/GF256Poly.cpp
+END

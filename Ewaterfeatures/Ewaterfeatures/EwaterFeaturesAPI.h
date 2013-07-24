@@ -49,6 +49,8 @@ typedef void (^FailureHandler)(NSHTTPURLResponse *response, NSError *error);
 + (void)customerWithEmail:(NSString *)email success:(void (^)(NSMutableDictionary *result))success failure:(void (^)(NSHTTPURLResponse *response, NSError *error))failure;
 + (void)employeeWithEmail:(NSString *)email success:(void (^)(NSMutableDictionary *result))success failure:(void (^)(NSHTTPURLResponse *response, NSError *error))failure;
 
++ (void)customerListWithFirstName:(NSString *)firstName lastName:(NSString *)lastName company:(NSString *)company success:(void (^)(NSMutableDictionary *result))success failure:(void (^)(NSHTTPURLResponse *response, NSError *error))failure;
+
 //
 
 + (void)sendCart:(Cart *)cart success:(void (^)(NSMutableDictionary *result))success failure:(void (^)(NSHTTPURLResponse *response, NSError *error))failure;

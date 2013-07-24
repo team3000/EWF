@@ -241,8 +241,9 @@ static NSString* const keyLoginResult = @"loginResult";
 		
 		[appDelegate.sessionManager login:^(id result) {
 			NSLog(@"%s | LOGGED", __PRETTY_FUNCTION__);
-			
+						
 			SessionManager *sessionManager = (SessionManager *)result;
+
 			
 			NSLog(@"%s | loged with Customer: %@", __PRETTY_FUNCTION__, [sessionManager.session.customer description]);
 			

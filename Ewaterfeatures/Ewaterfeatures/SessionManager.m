@@ -131,58 +131,37 @@
 	self.failureLogin = failure;
 	
 	
+	
 	[self employee:^(id result) {
-		success(self);
+		NSLog(@"%s | result: %@", __PRETTY_FUNCTION__, result);
+		SessionManager *sessionManager = (SessionManager *)result;
+		if (sessionManager.session.employee != nil) {
+			success(self);
+		}
 	} failure:^(NSHTTPURLResponse *response, NSError *error) {
 		[self customer:^(id result) {
-			success(self);
+			SessionManager *sessionManager = (SessionManager *)result;
+			if (sessionManager.session.customer != nil) {
+				success(self);
+			}
 		} failure:^(NSHTTPURLResponse *response, NSError *error) {
 			failure(response, error);
 		}];
 	}];
-	
-#warning TODO
-	//TODO: do for employees
-	//- set the type of user in appDelegate
-	/*
-	[EwaterFeaturesAPI customerWithEmail:self.session.login success:^(NSMutableDictionary *result) {
-		Customer *customer = [Customer addUpdateCustomerWithDictionary:result];
-		//TODO: check if good password
-		if ([self passwordIsValidForCustomer:customer] == YES) {
-			self.session.employee = nil;
-			self.session.customer = customer;
-			[AppDelegate appDelegate].userType = UserTypeClient;
-//
-//			[EwaterFeaturesAPI updateForCustomer:^{
-//#warning TO COMPLETE
-//				NSLog(@"END updateForCustomer -- TO COMPLETE");
-//			}];
-
-			success(self);
-		}
-		else {
-			//failure(nil, nil);
-//			[self employee:success failure:failure];
-			
-			}
-		NSLog(@"%s | %@",  __PRETTY_FUNCTION__, customer);
-	} failure:^(NSHTTPURLResponse *response, NSError *error) {
-//		failure(response, error);
-
-	}];
-	*/
-	
-//	[self employee:success failure:failure];
 }
 
 - (void)customer:(SuccessSessionManagerHandler)success failure:(FailureSessionManagerHandler)failure {
 	
 	[EwaterFeaturesAPI customerWithEmail:self.session.login success:^(NSMutableDictionary *result) {
+		if ([[AppDelegate appDelegate].sessionManager isAuthentified] == YES)
+			return ;
+
 		Customer *customer = [Customer addUpdateCustomerWithDictionary:result];
 		//TODO: check if good password
-		if ([self passwordIsValidForCustomer:customer] == YES) {
+		if ([self passwordIsValidForCustomer:customer] == YES ) {
 			self.session.employee = nil;
 			self.session.customer = customer;
+			self.sessionState = authenticated;
 			[AppDelegate appDelegate].userType = UserTypeClient;
 			/*
 			 [EwaterFeaturesAPI updateForCustomer:^{
@@ -208,11 +187,16 @@
 - (void)employee:(SuccessSessionManagerHandler)success failure:(FailureSessionManagerHandler)failure {
 	//ELSE for employee
 	[EwaterFeaturesAPI employeeWithEmail:self.session.login success:^(NSMutableDictionary *result) {
+		if ([[AppDelegate appDelegate].sessionManager isAuthentified] == YES)
+			return ;
+
+		
 		Employee *employee = [Employee addUpdateEmployeeWithDictionary:result];
 		//TODO: check if good password
 		if ([self passwordIsValidForEmployee:employee] == YES) {
 			self.session.customer = nil;
 			self.session.employee = employee;
+			self.sessionState = authenticated;
 			[AppDelegate appDelegate].userType = UserTypeSeller;
 			/*
 			 [EwaterFeaturesAPI updateForEmployee:^{

@@ -16,6 +16,7 @@
 
 - (void)setup;
 - (void)updateBadgeCartValue;
+- (void)updateLoggedCustomer;
 
 //INFO: Helper
 - (void)displayMessage:(NSString *)message andTitle:(NSString *)title;

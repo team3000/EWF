@@ -9,10 +9,11 @@
 #import <QRCodeReader.h>
 
 #import "CustomTabBarViewController.h"
-
+#import "Customer.h"
 #import "ProductDetailViewController.h"
 
 #import "Product+Manager.h"
+#import "UserSelectorViewController.h"
 
 //#import "MainScreen.h"
 #import <pdf417/PPBarcode.h>
@@ -172,16 +173,25 @@
 
 - (void)handleCustomerAdding:(NSString *)result {
 	
+	NSLog(@"%s %@", __PRETTY_FUNCTION__, result);
+	
 	if ([result rangeOfString:@"\t"].location == NSNotFound)
 		return;
 	NSArray* decodedResultList = [result componentsSeparatedByString: @"\t"];
 	NSLog(@"%s | decodedResultList: %@", __PRETTY_FUNCTION__, decodedResultList);
 	
-	NSLog(@"firstname: %@", [decodedResultList objectAtIndex:1]);
-	NSLog(@"lastname: %@", [decodedResultList objectAtIndex:3]);
-	NSLog(@"company: %@", [decodedResultList objectAtIndex:5]);
+	NSLog(@"firstname: %@", [decodedResultList objectAtIndex:2]);
+	NSLog(@"lastname: %@", [decodedResultList objectAtIndex:4]);
+	NSLog(@"company: %@", [decodedResultList objectAtIndex:6]);
 	
 	//TODO: check if already exist
+	
+	Customer *customer = [Customer createEntity];
+	
+	customer.firstname = [decodedResultList objectAtIndex:2];
+	customer.lastname = [decodedResultList objectAtIndex:4];
+	customer.company = [decodedResultList objectAtIndex:6];
+
 
 	
 	
@@ -191,10 +201,10 @@
 	
 	UIStoryboard *storyboard = [AppDelegate mainStoryBoard];
 	
-	AccountViewController *accountViewController  = (AccountViewController *)[storyboard instantiateViewControllerWithIdentifier:@"account"];
-	accountViewController.isSignup = YES;
+	UserSelectorViewController *userSelectorViewController  = (UserSelectorViewController *)[storyboard instantiateViewControllerWithIdentifier:@"userSelector"];
+	userSelectorViewController.selectedCustomer = customer;
 	
-	UINavigationController *navigationController = [[UINavigationController alloc] initWithRootViewController:accountViewController];
+	UINavigationController *navigationController = [[UINavigationController alloc] initWithRootViewController:userSelectorViewController];
 	
 	[self presentViewController:navigationController animated:YES completion:nil];
 	
@@ -274,14 +284,14 @@
 								  type:HelperViewButtonTypeDefault
 							   handler:^(HelperView *helperView) {
 								   NSLog(@"Scan Product Button Clicked");
-								   [self scanProduit];
+								   [self performSelectorOnMainThread:@selector(scanProduit) withObject:nil waitUntilDone:NO];
 							   }];
 		
 		[helperView addButtonWithTitle:@"Scan Client"
 								  type:HelperViewButtonTypeDefault
 							   handler:^(HelperView *helperView) {
 								   NSLog(@"Scan Client Button Clicked");
-								   [self scanClient];
+								   [self performSelectorOnMainThread:@selector(scanClient) withObject:nil waitUntilDone:NO];
 							   }];
 		
 		
@@ -301,7 +311,8 @@
 		[helperView show];
 	}
 	else {
-		[self performSelectorOnMainThread:@selector(scanClient) withObject:nil waitUntilDone:NO];
+//		[self performSelectorOnMainThread:@selector(scanClient) withObject:nil waitUntilDone:NO];
+		[self performSelectorOnMainThread:@selector(scanProduit) withObject:nil waitUntilDone:NO];
 //		[self scanClient];
 //		[self scanProduit];
 	}

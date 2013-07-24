@@ -52,6 +52,8 @@
 		9021ED991733D878007D2E08 /* blueBackButton.png in Resources */ = {isa = PBXBuildFile; fileRef = 9021ED961733D878007D2E08 /* blueBackButton.png */; };
 		9021ED9A1733D878007D2E08 /* blueBackButton@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 9021ED971733D878007D2E08 /* blueBackButton@2x.png */; };
 		9021ED9B1733D878007D2E08 /* blueNormalButton.png in Resources */ = {isa = PBXBuildFile; fileRef = 9021ED981733D878007D2E08 /* blueNormalButton.png */; };
+		902AE7AB179EFD2C00C3D571 /* UserSelectorViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 902AE7AA179EFD2C00C3D571 /* UserSelectorViewController.m */; };
+		902AE7AE179EFD3E00C3D571 /* UserCell.m in Sources */ = {isa = PBXBuildFile; fileRef = 902AE7AD179EFD3E00C3D571 /* UserCell.m */; };
 		902C5FEB179ECD4D002EFE29 /* pdf417.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 902C5FE6179ECD4D002EFE29 /* pdf417.framework */; };
 		902C5FEC179ECD4E002EFE29 /* de.strings in Resources */ = {isa = PBXBuildFile; fileRef = 902C5FE8179ECD4D002EFE29 /* de.strings */; };
 		902C5FED179ECD4E002EFE29 /* en.strings in Resources */ = {isa = PBXBuildFile; fileRef = 902C5FE9179ECD4D002EFE29 /* en.strings */; };
@@ -348,6 +350,10 @@
 		9021ED961733D878007D2E08 /* blueBackButton.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = blueBackButton.png; sourceTree = "<group>"; };
 		9021ED971733D878007D2E08 /* blueBackButton@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "blueBackButton@2x.png"; sourceTree = "<group>"; };
 		9021ED981733D878007D2E08 /* blueNormalButton.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = blueNormalButton.png; sourceTree = "<group>"; };
+		902AE7A9179EFD2C00C3D571 /* UserSelectorViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = UserSelectorViewController.h; sourceTree = "<group>"; };
+		902AE7AA179EFD2C00C3D571 /* UserSelectorViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = UserSelectorViewController.m; sourceTree = "<group>"; };
+		902AE7AC179EFD3E00C3D571 /* UserCell.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = UserCell.h; sourceTree = "<group>"; };
+		902AE7AD179EFD3E00C3D571 /* UserCell.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = UserCell.m; sourceTree = "<group>"; };
 		902C5FE6179ECD4D002EFE29 /* pdf417.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; path = pdf417.framework; sourceTree = "<group>"; };
 		902C5FE8179ECD4D002EFE29 /* de.strings */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.strings; path = de.strings; sourceTree = "<group>"; };
 		902C5FE9179ECD4D002EFE29 /* en.strings */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.strings; path = en.strings; sourceTree = "<group>"; };
@@ -919,6 +925,17 @@
 			name = Button;
 			sourceTree = "<group>";
 		};
+		902AE7A7179EFCF100C3D571 /* User Selector */ = {
+			isa = PBXGroup;
+			children = (
+				902AE7A9179EFD2C00C3D571 /* UserSelectorViewController.h */,
+				902AE7AA179EFD2C00C3D571 /* UserSelectorViewController.m */,
+				902AE7AC179EFD3E00C3D571 /* UserCell.h */,
+				902AE7AD179EFD3E00C3D571 /* UserCell.m */,
+			);
+			name = "User Selector";
+			sourceTree = "<group>";
+		};
 		902C5FE5179ECD4D002EFE29 /* pdf417.embeddedframework */ = {
 			isa = PBXGroup;
 			children = (
@@ -1143,6 +1160,7 @@
 		909657A41707B73000AD17E3 /* View Controller */ = {
 			isa = PBXGroup;
 			children = (
+				902AE7A7179EFCF100C3D571 /* User Selector */,
 				90F7E31617325B3100B88A9A /* Scanner */,
 				909657A81707B7DC00AD17E3 /* Login */,
 				90F7E2B8173239EF00B88A9A /* Products */,
@@ -1878,6 +1896,8 @@
 				90F8313C178728A300279402 /* CreditCardWrapper.m in Sources */,
 				90F8313F17872A9F00279402 /* TransactionWrapper.m in Sources */,
 				90F8314317872C0C00279402 /* DescriptionWrapper.m in Sources */,
+				902AE7AB179EFD2C00C3D571 /* UserSelectorViewController.m in Sources */,
+				902AE7AE179EFD3E00C3D571 /* UserCell.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -2012,6 +2032,7 @@
 				PROVISIONING_PROFILE = "";
 				"PROVISIONING_PROFILE[sdk=iphoneos*]" = "";
 				TARGETED_DEVICE_FAMILY = "1,2";
+				VALID_ARCHS = armv7;
 				WRAPPER_EXTENSION = app;
 			};
 			name = Debug;
@@ -2045,6 +2066,7 @@
 				PROVISIONING_PROFILE = "";
 				"PROVISIONING_PROFILE[sdk=iphoneos*]" = "";
 				TARGETED_DEVICE_FAMILY = "1,2";
+				VALID_ARCHS = armv7;
 				WRAPPER_EXTENSION = app;
 			};
 			name = Release;

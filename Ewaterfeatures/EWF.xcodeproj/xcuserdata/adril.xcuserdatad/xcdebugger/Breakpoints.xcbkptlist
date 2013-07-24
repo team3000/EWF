@@ -34,11 +34,11 @@
          ignoreCount = "0"
          continueAfterRunningActions = "No"
          filePath = "Ewaterfeatures/LoginTableViewController.m"
-         timestampString = "394476156.059209"
+         timestampString = "396315696.873514"
          startingColumnNumber = "9223372036854775807"
          endingColumnNumber = "9223372036854775807"
-         startingLineNumber = "301"
-         endingLineNumber = "301"
+         startingLineNumber = "302"
+         endingLineNumber = "302"
          landmarkName = "-displayNetworkError"
          landmarkType = "5">
       </FileBreakpoint>
@@ -53,19 +53,6 @@
          startingLineNumber = "70"
          endingLineNumber = "70"
          landmarkName = "-main"
-         landmarkType = "5">
-      </FileBreakpoint>
-      <FileBreakpoint
-         shouldBeEnabled = "No"
-         ignoreCount = "0"
-         continueAfterRunningActions = "No"
-         filePath = "Ewaterfeatures/SessionManager.m"
-         timestampString = "396189940.403467"
-         startingColumnNumber = "9223372036854775807"
-         endingColumnNumber = "9223372036854775807"
-         startingLineNumber = "168"
-         endingLineNumber = "168"
-         landmarkName = "-login:failure:"
          landmarkType = "5">
       </FileBreakpoint>
       <FileBreakpoint
@@ -565,11 +552,11 @@
          ignoreCount = "0"
          continueAfterRunningActions = "No"
          filePath = "Ewaterfeatures/CustomTabBarViewController.mm"
-         timestampString = "396284245.164413"
+         timestampString = "396301044.39493"
          startingColumnNumber = "9223372036854775807"
          endingColumnNumber = "9223372036854775807"
-         startingLineNumber = "159"
-         endingLineNumber = "159"
+         startingLineNumber = "160"
+         endingLineNumber = "160"
          landmarkName = "-handleProductAdding:"
          landmarkType = "5">
       </FileBreakpoint>
@@ -851,11 +838,11 @@
          ignoreCount = "0"
          continueAfterRunningActions = "No"
          filePath = "Ewaterfeatures/CustomTabBarViewController.mm"
-         timestampString = "396288153.32197"
+         timestampString = "396303063.918466"
          startingColumnNumber = "9223372036854775807"
          endingColumnNumber = "9223372036854775807"
-         startingLineNumber = "216"
-         endingLineNumber = "216"
+         startingLineNumber = "226"
+         endingLineNumber = "226"
          landmarkName = "-scanProduit"
          landmarkType = "5">
       </FileBreakpoint>
@@ -877,11 +864,11 @@
          ignoreCount = "0"
          continueAfterRunningActions = "No"
          filePath = "Ewaterfeatures/LoginTableViewController.m"
-         timestampString = "394476156.059209"
+         timestampString = "396315696.873514"
          startingColumnNumber = "9223372036854775807"
          endingColumnNumber = "9223372036854775807"
-         startingLineNumber = "266"
-         endingLineNumber = "266"
+         startingLineNumber = "267"
+         endingLineNumber = "267"
          landmarkName = "-loginButton:"
          landmarkType = "5">
       </FileBreakpoint>
@@ -890,11 +877,11 @@
          ignoreCount = "0"
          continueAfterRunningActions = "No"
          filePath = "Ewaterfeatures/LoginTableViewController.m"
-         timestampString = "394476156.059209"
+         timestampString = "396315696.873514"
          startingColumnNumber = "9223372036854775807"
          endingColumnNumber = "9223372036854775807"
-         startingLineNumber = "294"
-         endingLineNumber = "294"
+         startingLineNumber = "295"
+         endingLineNumber = "295"
          landmarkName = "-displayError"
          landmarkType = "5">
       </FileBreakpoint>
@@ -908,19 +895,6 @@
          endingColumnNumber = "9223372036854775807"
          startingLineNumber = "128"
          endingLineNumber = "128"
-         landmarkName = "-login:failure:"
-         landmarkType = "5">
-      </FileBreakpoint>
-      <FileBreakpoint
-         shouldBeEnabled = "No"
-         ignoreCount = "0"
-         continueAfterRunningActions = "No"
-         filePath = "Ewaterfeatures/SessionManager.m"
-         timestampString = "396189940.403467"
-         startingColumnNumber = "9223372036854775807"
-         endingColumnNumber = "9223372036854775807"
-         startingLineNumber = "154"
-         endingLineNumber = "154"
          landmarkName = "-login:failure:"
          landmarkType = "5">
       </FileBreakpoint>
@@ -1566,11 +1540,11 @@
          ignoreCount = "0"
          continueAfterRunningActions = "No"
          filePath = "Ewaterfeatures/EwaterFeaturesAPI.m"
-         timestampString = "395956346.176326"
+         timestampString = "396301044.39493"
          startingColumnNumber = "9223372036854775807"
          endingColumnNumber = "9223372036854775807"
-         startingLineNumber = "992"
-         endingLineNumber = "992"
+         startingLineNumber = "1005"
+         endingLineNumber = "1005"
          landmarkName = "+updateBase:"
          landmarkType = "5">
       </FileBreakpoint>
@@ -1579,11 +1553,11 @@
          ignoreCount = "0"
          continueAfterRunningActions = "No"
          filePath = "Ewaterfeatures/EwaterFeaturesAPI.m"
-         timestampString = "395956346.176326"
+         timestampString = "396301044.39493"
          startingColumnNumber = "9223372036854775807"
          endingColumnNumber = "9223372036854775807"
-         startingLineNumber = "995"
-         endingLineNumber = "995"
+         startingLineNumber = "1008"
+         endingLineNumber = "1008"
          landmarkName = "+updateBase:"
          landmarkType = "5">
       </FileBreakpoint>
@@ -1670,11 +1644,11 @@
          ignoreCount = "0"
          continueAfterRunningActions = "No"
          filePath = "Ewaterfeatures/EwaterFeaturesAPI.m"
-         timestampString = "394569104.375717"
+         timestampString = "396301044.39493"
          startingColumnNumber = "9223372036854775807"
          endingColumnNumber = "9223372036854775807"
-         startingLineNumber = "537"
-         endingLineNumber = "537"
+         startingLineNumber = "550"
+         endingLineNumber = "550"
          landmarkName = "+sendOrder:success:failure:"
          landmarkType = "5">
       </FileBreakpoint>
@@ -1800,11 +1774,11 @@
          ignoreCount = "0"
          continueAfterRunningActions = "No"
          filePath = "Ewaterfeatures/EwaterFeaturesAPI.m"
-         timestampString = "394569104.375717"
+         timestampString = "396301044.39493"
          startingColumnNumber = "9223372036854775807"
          endingColumnNumber = "9223372036854775807"
-         startingLineNumber = "576"
-         endingLineNumber = "576"
+         startingLineNumber = "589"
+         endingLineNumber = "589"
          landmarkName = "+sendCustomer:success:failure:"
          landmarkType = "5">
       </FileBreakpoint>
@@ -1813,11 +1787,11 @@
          ignoreCount = "0"
          continueAfterRunningActions = "No"
          filePath = "Ewaterfeatures/EwaterFeaturesAPI.m"
-         timestampString = "395956346.176326"
+         timestampString = "396301044.39493"
          startingColumnNumber = "9223372036854775807"
          endingColumnNumber = "9223372036854775807"
-         startingLineNumber = "767"
-         endingLineNumber = "767"
+         startingLineNumber = "780"
+         endingLineNumber = "780"
          landmarkName = "-parser:didEndElement:namespaceURI:qualifiedName:"
          landmarkType = "5">
       </FileBreakpoint>
@@ -1826,11 +1800,11 @@
          ignoreCount = "0"
          continueAfterRunningActions = "No"
          filePath = "Ewaterfeatures/EwaterFeaturesAPI.m"
-         timestampString = "395956346.176326"
+         timestampString = "396301044.39493"
          startingColumnNumber = "9223372036854775807"
          endingColumnNumber = "9223372036854775807"
-         startingLineNumber = "764"
-         endingLineNumber = "764"
+         startingLineNumber = "777"
+         endingLineNumber = "777"
          landmarkName = "-parser:didEndElement:namespaceURI:qualifiedName:"
          landmarkType = "5">
       </FileBreakpoint>
@@ -1839,11 +1813,11 @@
          ignoreCount = "0"
          continueAfterRunningActions = "No"
          filePath = "Ewaterfeatures/EwaterFeaturesAPI.m"
-         timestampString = "394569104.375717"
+         timestampString = "396301044.39493"
          startingColumnNumber = "9223372036854775807"
          endingColumnNumber = "9223372036854775807"
-         startingLineNumber = "583"
-         endingLineNumber = "583"
+         startingLineNumber = "596"
+         endingLineNumber = "596"
          landmarkName = "+sendCustomer:success:failure:"
          landmarkType = "5">
       </FileBreakpoint>
@@ -1852,11 +1826,11 @@
          ignoreCount = "0"
          continueAfterRunningActions = "No"
          filePath = "Ewaterfeatures/EwaterFeaturesAPI.m"
-         timestampString = "395956346.176326"
+         timestampString = "396301044.39493"
          startingColumnNumber = "9223372036854775807"
          endingColumnNumber = "9223372036854775807"
-         startingLineNumber = "763"
-         endingLineNumber = "763"
+         startingLineNumber = "776"
+         endingLineNumber = "776"
          landmarkName = "-parser:didEndElement:namespaceURI:qualifiedName:"
          landmarkType = "5">
       </FileBreakpoint>
@@ -1865,11 +1839,11 @@
          ignoreCount = "0"
          continueAfterRunningActions = "No"
          filePath = "Ewaterfeatures/EwaterFeaturesAPI.m"
-         timestampString = "395956346.176326"
+         timestampString = "396301044.39493"
          startingColumnNumber = "9223372036854775807"
          endingColumnNumber = "9223372036854775807"
-         startingLineNumber = "773"
-         endingLineNumber = "773"
+         startingLineNumber = "786"
+         endingLineNumber = "786"
          landmarkName = "-parser:didEndElement:namespaceURI:qualifiedName:"
          landmarkType = "5">
       </FileBreakpoint>
@@ -2026,8 +2000,8 @@
          endingColumnNumber = "9223372036854775807"
          startingLineNumber = "168"
          endingLineNumber = "168"
-         landmarkName = "-payPalPaymentDidCancel"
-         landmarkType = "5">
+         landmarkName = "@implementation EndOrderViewController"
+         landmarkType = "3">
       </FileBreakpoint>
       <FileBreakpoint
          shouldBeEnabled = "No"
@@ -2134,15 +2108,15 @@
          landmarkType = "5">
       </FileBreakpoint>
       <FileBreakpoint
-         shouldBeEnabled = "Yes"
+         shouldBeEnabled = "No"
          ignoreCount = "0"
          continueAfterRunningActions = "No"
          filePath = "Ewaterfeatures/LoginTableViewController.m"
-         timestampString = "395946471.506393"
+         timestampString = "396315696.873514"
          startingColumnNumber = "9223372036854775807"
          endingColumnNumber = "9223372036854775807"
-         startingLineNumber = "252"
-         endingLineNumber = "252"
+         startingLineNumber = "253"
+         endingLineNumber = "253"
          landmarkName = "-loginButton:"
          landmarkType = "5">
       </FileBreakpoint>
@@ -2164,50 +2138,11 @@
          ignoreCount = "0"
          continueAfterRunningActions = "No"
          filePath = "Ewaterfeatures/SessionManager.m"
-         timestampString = "396189940.403467"
+         timestampString = "396315696.873514"
          startingColumnNumber = "9223372036854775807"
          endingColumnNumber = "9223372036854775807"
-         startingLineNumber = "171"
-         endingLineNumber = "171"
-         landmarkName = "-login:failure:"
-         landmarkType = "5">
-      </FileBreakpoint>
-      <FileBreakpoint
-         shouldBeEnabled = "Yes"
-         ignoreCount = "0"
-         continueAfterRunningActions = "No"
-         filePath = "Ewaterfeatures/SessionManager.m"
-         timestampString = "396189940.403467"
-         startingColumnNumber = "9223372036854775807"
-         endingColumnNumber = "9223372036854775807"
-         startingLineNumber = "161"
-         endingLineNumber = "161"
-         landmarkName = "-login:failure:"
-         landmarkType = "5">
-      </FileBreakpoint>
-      <FileBreakpoint
-         shouldBeEnabled = "Yes"
-         ignoreCount = "0"
-         continueAfterRunningActions = "No"
-         filePath = "Ewaterfeatures/SessionManager.m"
-         timestampString = "396189940.403467"
-         startingColumnNumber = "9223372036854775807"
-         endingColumnNumber = "9223372036854775807"
-         startingLineNumber = "164"
-         endingLineNumber = "164"
-         landmarkName = "-login:failure:"
-         landmarkType = "5">
-      </FileBreakpoint>
-      <FileBreakpoint
-         shouldBeEnabled = "Yes"
-         ignoreCount = "0"
-         continueAfterRunningActions = "No"
-         filePath = "Ewaterfeatures/SessionManager.m"
-         timestampString = "396189940.403467"
-         startingColumnNumber = "9223372036854775807"
-         endingColumnNumber = "9223372036854775807"
-         startingLineNumber = "216"
-         endingLineNumber = "216"
+         startingLineNumber = "201"
+         endingLineNumber = "201"
          landmarkName = "-employee:failure:"
          landmarkType = "5">
       </FileBreakpoint>
@@ -2216,11 +2151,11 @@
          ignoreCount = "0"
          continueAfterRunningActions = "No"
          filePath = "Ewaterfeatures/SessionManager.m"
-         timestampString = "396189940.403467"
+         timestampString = "396315696.873514"
          startingColumnNumber = "9223372036854775807"
          endingColumnNumber = "9223372036854775807"
-         startingLineNumber = "227"
-         endingLineNumber = "227"
+         startingLineNumber = "213"
+         endingLineNumber = "213"
          landmarkName = "-employee:failure:"
          landmarkType = "5">
       </FileBreakpoint>
@@ -2229,11 +2164,11 @@
          ignoreCount = "0"
          continueAfterRunningActions = "No"
          filePath = "Ewaterfeatures/SessionManager.m"
-         timestampString = "396189940.403467"
+         timestampString = "396315696.873514"
          startingColumnNumber = "9223372036854775807"
          endingColumnNumber = "9223372036854775807"
-         startingLineNumber = "229"
-         endingLineNumber = "229"
+         startingLineNumber = "214"
+         endingLineNumber = "214"
          landmarkName = "-employee:failure:"
          landmarkType = "5">
       </FileBreakpoint>
@@ -2242,11 +2177,11 @@
          ignoreCount = "0"
          continueAfterRunningActions = "No"
          filePath = "Ewaterfeatures/EwaterFeaturesAPI.m"
-         timestampString = "395956346.176326"
+         timestampString = "396301044.39493"
          startingColumnNumber = "9223372036854775807"
          endingColumnNumber = "9223372036854775807"
-         startingLineNumber = "817"
-         endingLineNumber = "817"
+         startingLineNumber = "830"
+         endingLineNumber = "830"
          landmarkName = "-parser:didEndElement:namespaceURI:qualifiedName:"
          landmarkType = "5">
       </FileBreakpoint>
@@ -2255,11 +2190,11 @@
          ignoreCount = "0"
          continueAfterRunningActions = "No"
          filePath = "Ewaterfeatures/EwaterFeaturesAPI.m"
-         timestampString = "395956346.176326"
+         timestampString = "396301044.39493"
          startingColumnNumber = "9223372036854775807"
          endingColumnNumber = "9223372036854775807"
-         startingLineNumber = "849"
-         endingLineNumber = "849"
+         startingLineNumber = "862"
+         endingLineNumber = "862"
          landmarkName = "-parserDidEndDocument:"
          landmarkType = "5">
       </FileBreakpoint>
@@ -2268,11 +2203,11 @@
          ignoreCount = "0"
          continueAfterRunningActions = "No"
          filePath = "Ewaterfeatures/EwaterFeaturesAPI.m"
-         timestampString = "395956346.176326"
+         timestampString = "396301044.39493"
          startingColumnNumber = "9223372036854775807"
          endingColumnNumber = "9223372036854775807"
-         startingLineNumber = "620"
-         endingLineNumber = "620"
+         startingLineNumber = "633"
+         endingLineNumber = "633"
          landmarkName = "+parse:success:failure:"
          landmarkType = "5">
       </FileBreakpoint>
@@ -2294,11 +2229,11 @@
          ignoreCount = "0"
          continueAfterRunningActions = "No"
          filePath = "Ewaterfeatures/EwaterFeaturesAPI.m"
-         timestampString = "395956346.176326"
+         timestampString = "396301044.39493"
          startingColumnNumber = "9223372036854775807"
          endingColumnNumber = "9223372036854775807"
-         startingLineNumber = "628"
-         endingLineNumber = "628"
+         startingLineNumber = "641"
+         endingLineNumber = "641"
          landmarkName = "+parse:success:failure:"
          landmarkType = "5">
       </FileBreakpoint>
@@ -2372,11 +2307,11 @@
          ignoreCount = "0"
          continueAfterRunningActions = "No"
          filePath = "Ewaterfeatures/CustomTabBarViewController.mm"
-         timestampString = "396288153.32197"
+         timestampString = "396313301.88019"
          startingColumnNumber = "9223372036854775807"
          endingColumnNumber = "9223372036854775807"
-         startingLineNumber = "328"
-         endingLineNumber = "328"
+         startingLineNumber = "339"
+         endingLineNumber = "339"
          landmarkName = "-zxingControllerDidCancel:"
          landmarkType = "5">
       </FileBreakpoint>
@@ -2385,13 +2320,143 @@
          ignoreCount = "0"
          continueAfterRunningActions = "No"
          filePath = "Ewaterfeatures/CustomTabBarViewController.mm"
-         timestampString = "396288153.32197"
+         timestampString = "396313301.88019"
          startingColumnNumber = "9223372036854775807"
          endingColumnNumber = "9223372036854775807"
-         startingLineNumber = "397"
-         endingLineNumber = "397"
+         startingLineNumber = "408"
+         endingLineNumber = "408"
          landmarkName = "-cameraViewController:obtainedResult:"
          landmarkType = "5">
+      </FileBreakpoint>
+      <FileBreakpoint
+         shouldBeEnabled = "No"
+         ignoreCount = "0"
+         continueAfterRunningActions = "No"
+         filePath = "Ewaterfeatures/EwaterFeaturesAPI.m"
+         timestampString = "396298211.586207"
+         startingColumnNumber = "9223372036854775807"
+         endingColumnNumber = "9223372036854775807"
+         startingLineNumber = "445"
+         endingLineNumber = "445"
+         landmarkName = "+customerListWithFirstName:lastName:company:success:failure:"
+         landmarkType = "5">
+      </FileBreakpoint>
+      <FileBreakpoint
+         shouldBeEnabled = "No"
+         ignoreCount = "0"
+         continueAfterRunningActions = "No"
+         filePath = "Ewaterfeatures/UserSelectorViewController.m"
+         timestampString = "396304445.479449"
+         startingColumnNumber = "9223372036854775807"
+         endingColumnNumber = "9223372036854775807"
+         startingLineNumber = "86"
+         endingLineNumber = "86"
+         landmarkName = "-tableView:cellForRowAtIndexPath:"
+         landmarkType = "5">
+      </FileBreakpoint>
+      <FileBreakpoint
+         shouldBeEnabled = "No"
+         ignoreCount = "0"
+         continueAfterRunningActions = "No"
+         filePath = "Ewaterfeatures/UserSelectorViewController.m"
+         timestampString = "396304454.697201"
+         startingColumnNumber = "9223372036854775807"
+         endingColumnNumber = "9223372036854775807"
+         startingLineNumber = "83"
+         endingLineNumber = "83"
+         landmarkName = "-tableView:cellForRowAtIndexPath:"
+         landmarkType = "5">
+      </FileBreakpoint>
+      <FileBreakpoint
+         shouldBeEnabled = "No"
+         ignoreCount = "0"
+         continueAfterRunningActions = "No"
+         filePath = "Ewaterfeatures/UserSelectorViewController.m"
+         timestampString = "396304458.488964"
+         startingColumnNumber = "9223372036854775807"
+         endingColumnNumber = "9223372036854775807"
+         startingLineNumber = "93"
+         endingLineNumber = "93"
+         landmarkName = "-tableView:cellForRowAtIndexPath:"
+         landmarkType = "5">
+      </FileBreakpoint>
+      <FileBreakpoint
+         shouldBeEnabled = "No"
+         ignoreCount = "0"
+         continueAfterRunningActions = "No"
+         filePath = "Ewaterfeatures/UserSelectorViewController.m"
+         timestampString = "396305222.449132"
+         startingColumnNumber = "9223372036854775807"
+         endingColumnNumber = "9223372036854775807"
+         startingLineNumber = "94"
+         endingLineNumber = "94"
+         landmarkName = "-tableView:cellForRowAtIndexPath:"
+         landmarkType = "5">
+      </FileBreakpoint>
+      <FileBreakpoint
+         shouldBeEnabled = "No"
+         ignoreCount = "0"
+         continueAfterRunningActions = "No"
+         filePath = "Ewaterfeatures/UserSelectorViewController.m"
+         timestampString = "396305228.343815"
+         startingColumnNumber = "9223372036854775807"
+         endingColumnNumber = "9223372036854775807"
+         startingLineNumber = "87"
+         endingLineNumber = "87"
+         landmarkName = "-tableView:cellForRowAtIndexPath:"
+         landmarkType = "5">
+      </FileBreakpoint>
+      <FileBreakpoint
+         shouldBeEnabled = "Yes"
+         ignoreCount = "0"
+         continueAfterRunningActions = "No"
+         filePath = "Ewaterfeatures/SessionManager.m"
+         timestampString = "396314658.959563"
+         startingColumnNumber = "9223372036854775807"
+         endingColumnNumber = "9223372036854775807"
+         startingLineNumber = "148"
+         endingLineNumber = "148"
+         landmarkName = "-login:failure:"
+         landmarkType = "5">
+      </FileBreakpoint>
+      <FileBreakpoint
+         shouldBeEnabled = "Yes"
+         ignoreCount = "0"
+         continueAfterRunningActions = "No"
+         filePath = "Ewaterfeatures/SessionManager.m"
+         timestampString = "396313782.893467"
+         startingColumnNumber = "9223372036854775807"
+         endingColumnNumber = "9223372036854775807"
+         startingLineNumber = "139"
+         endingLineNumber = "139"
+         landmarkName = "-login:failure:"
+         landmarkType = "5">
+      </FileBreakpoint>
+      <FileBreakpoint
+         shouldBeEnabled = "Yes"
+         ignoreCount = "0"
+         continueAfterRunningActions = "No"
+         filePath = "Ewaterfeatures/SessionManager.m"
+         timestampString = "396314843.071783"
+         startingColumnNumber = "9223372036854775807"
+         endingColumnNumber = "9223372036854775807"
+         startingLineNumber = "145"
+         endingLineNumber = "145"
+         landmarkName = "-login:failure:"
+         landmarkType = "5">
+      </FileBreakpoint>
+      <FileBreakpoint
+         shouldBeEnabled = "No"
+         ignoreCount = "0"
+         continueAfterRunningActions = "No"
+         filePath = "Ewaterfeatures/LoginTableViewController.m"
+         timestampString = "396315290.799625"
+         startingColumnNumber = "9223372036854775807"
+         endingColumnNumber = "9223372036854775807"
+         startingLineNumber = "31"
+         endingLineNumber = "31"
+         landmarkName = "@implementation LoginTableViewController"
+         landmarkType = "3">
       </FileBreakpoint>
    </FileBreakpoints>
 </Bucket>

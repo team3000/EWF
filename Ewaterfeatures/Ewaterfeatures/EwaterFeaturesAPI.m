@@ -438,6 +438,19 @@
 	[EwaterFeaturesAPI parse:request success:success failure:failure];
 }
 
++ (void)customerListWithFirstName:(NSString *)firstName lastName:(NSString *)lastName company:(NSString *)company success:(void (^)(NSMutableDictionary *))success failure:(void (^)(NSHTTPURLResponse *, NSError *))failure {
+	[AppDelegate appDelegate].ewaterFeaturesAPI.succesCustomersHandler = success;
+	[AppDelegate appDelegate].ewaterFeaturesAPI.failHandler = failure;
+#warning TO COMPLETE
+	NSString *routeString = [NSString stringWithFormat:@"customers/?filter[firstname]=%[%@]", firstName];
+	
+	NSMutableURLRequest *request = [SessionManager requestForRoute:routeString];
+	[request setHTTPMethod:@"GET"];
+	
+	[EwaterFeaturesAPI parse:request success:success failure:failure];
+
+}
+
 
 //
 

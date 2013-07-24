@@ -12,7 +12,7 @@
 
 @class BButton;
 
-@interface LoginTableViewController : UITableViewController <UISearchBarDelegate, UITextFieldDelegate, SessionDelegate, QuantityPickerViewDelegate>
+@interface LoginTableViewController : UITableViewController <UISearchBarDelegate, UITextFieldDelegate, SessionDelegate/*, QuantityPickerViewDelegate*/>
 
 @property (strong, nonatomic) IBOutlet BButton *loginButton;
 @property (strong, nonatomic) IBOutlet BButton *signupButton;
